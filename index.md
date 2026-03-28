@@ -3,4 +3,7 @@ layout: home
 title: Home
 ---
 
-Welcome to my portfolio!
+**Hello!**
+This is a space for some of my projects.
+
+If you want to contact me, please write to leonid.motz@univie.ac.at
