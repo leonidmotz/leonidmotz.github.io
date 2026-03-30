@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ page.title | default: site.title }}</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@400;700&display=swap" rel="stylesheet">
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+body {
+  background: #f0f0f0;
+  color: #1a1a1a;
+  font-family: 'Noto Sans Mono', monospace;
+  font-size: 1rem;
+  line-height: 1.8;
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 2rem;
+}
+main {
+  max-width: 480px;
+  width: 100%;
+  opacity: 0;
+  transform: translateY(10px);
+  animation: fadein 0.7s ease forwards 0.1s;
+}
+@keyframes fadein { to { opacity: 1; transform: translateY(0); } }
+h1 { font-weight: 700; font-size: 1.5rem; margin-bottom: 1.4rem; }
+p { color: #444; margin-bottom: 0.8rem; }
+a { color: #1a1a1a; text-decoration: underline; text-underline-offset: 3px; transition: color 0.15s; }
+a:hover { color: #666; }
+</style>
+</head>
+<body>
+<main>
+{{ content }}
+</main>
+</body>
+</html>

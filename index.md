@@ -1,9 +1,12 @@
 ---
-layout: home
-title: Home
+layout: default
+title: Leonid Motz
 ---
 
-**Hello!**
-This is a space for some of my projects.
+# Leonid Motz
 
-If you want to contact me, please write to [leonid.motz@univie.ac.at](mailto:leonid.motz@univie.ac.at) 
+Hello! This is a space for some of my projects.
+
+If you want to contact me, please write to [leonid.motz@univie.ac.at](mailto:leonid.motz@univie.ac.at).
+
+See my [GitHub](https://github.com/leonidmotz).
