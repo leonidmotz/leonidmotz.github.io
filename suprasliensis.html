@@ -2410,6 +2410,7 @@ async function loadData() {
     buildPartsNav();
     document.getElementById('status').textContent =
       TOKENS.length.toLocaleString() + ' tokens \xb7 ' + folioIndex.length + ' folios';
+    maybeShowWelcome();
   }, _remaining);
 }
 function buildFolioIndex() {
@@ -7380,5 +7381,34 @@ function doTokSearch() {
     </div>
   </div>
 </div>
+
+<div id="welcome-overlay" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,0.55);z-index:9001;align-items:center;justify-content:center" onclick="if(event.target===this)closeWelcome()">
+  <div style="background:var(--vellum);color:var(--ink);max-width:640px;width:92%;max-height:82vh;overflow-y:auto;border-radius:6px;padding:28px 32px;position:relative;font-family:var(--font-ui);font-size:0.88rem;line-height:1.65;box-shadow:0 8px 32px rgba(0,0,0,0.35)">
+    <style>#welcome-overlay p{margin-bottom:0.9em} #welcome-overlay .ui-chip{display:inline-block;font-family:var(--font-mono);font-size:0.78rem;background:var(--ink);color:var(--parchment);border-radius:3px;padding:1px 6px;vertical-align:middle;white-space:nowrap} #welcome-overlay .ui-toggle{display:inline-block;font-family:var(--font-mono);font-size:0.78rem;border:1px solid var(--ink);border-radius:3px;padding:1px 6px;vertical-align:middle;white-space:nowrap} #welcome-overlay .ui-btn{display:inline-block;font-family:var(--font-mono);font-size:0.78rem;background:var(--muted);color:var(--parchment);border-radius:3px;padding:1px 7px;vertical-align:middle;white-space:nowrap}</style>
+    <button onclick="closeWelcome()" style="position:absolute;top:12px;right:16px;background:none;border:none;font-size:1.2rem;cursor:pointer;color:var(--muted)">&times;</button>
+    <p>Welcome to this corpus viewer for <strong>Codex Suprasliensis</strong>, a by-product of the data analysis work needed for my MA thesis project on <em>&#x201C;Studies in Old Bulgarian Nominal Morphology: Stem Class Analogy in Codex Suprasliensis&#x201D;</em> (Supervisors: Prof. Roman N. Krivko, Dr. Ivan P. Petrov) at the University of Vienna&#x2019;s Institute of Slavonic Studies.</p>
+    <p>The corpus uses the annotated XML from the TOROT/PROIEL project to which I added etymological stem class and declension type information.</p>
+    <p>You can navigate through the text using <span class="ui-btn">&#9666; Prev</span> and <span class="ui-btn">Next &#9656;</span>, by scrolling continuously, or by choosing a folio in the drop-down menu. For the Foliation Guide, click the <span class="ui-toggle">ⓘ</span> button next to the folio selector. Clicking on a folio mark opens the corresponding folio in Birnbaum&#x2019;s online edition.</p>
+    <p>The top header contains: a <span class="ui-chip">&#9776; Lines</span> button toggling between continuous and line view; a <span class="ui-chip">&#x1F350;</span> toggle for TOROT/XML character variants; a <span class="ui-chip">абв</span> toggle for Old Cyrillic view; and a font size drop-down menu.</p>
+    <p>The collapsible left-hand sidebar gives you refined search options, a dictionary, a stem class analogy meter, and a text part navigation menu. Double-clicking on a noun anywhere in the corpus opens a detailed morphology panel.</p>
+    <p><em>Please be aware that this is work in progress!</em></p>
+    <p style="margin-top:1.2em"><label style="cursor:pointer;color:var(--muted);font-size:0.82rem"><input type="checkbox" id="welcome-no-show" style="margin-right:6px">Don&#x2019;t show again</label></p>
+    <div style="text-align:right;margin-top:0.5em"><button onclick="closeWelcome()" style="background:var(--ink);color:var(--parchment);border:none;border-radius:3px;padding:6px 18px;cursor:pointer;font-family:var(--font-ui);font-size:0.85rem">Got it</button></div>
+  </div>
+</div>
+<script>
+function closeWelcome() {
+  if (document.getElementById('welcome-no-show').checked) {
+    localStorage.setItem('suprasliensis-welcome-seen', '1');
+  }
+  document.getElementById('welcome-overlay').style.display = 'none';
+}
+function maybeShowWelcome() {
+  if (!localStorage.getItem('suprasliensis-welcome-seen')) {
+    document.getElementById('welcome-overlay').style.display = 'flex';
+  }
+}
+</script>
+
 </body>
 </html>
