@@ -5,7 +5,7 @@ title: Leonid Motz
 
 # Leonid Motz
 
-Hello! This is a space for some of my projects.
+Hello! This is a space for some of my projects in Slavic Linguistics.
 
 If you want to contact me, please write to [leonid.motz@univie.ac.at](mailto:leonid.motz@univie.ac.at).
 
