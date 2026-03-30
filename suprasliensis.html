@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="cu">
 <head>
-<link href="https://fonts.googleapis.com/css2?family=Charis+SIL&family=Noto+Sans+Mono&family=Noto+Sans+Glagolitic&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Charis+SIL&family=Noto+Sans+Glagolitic&display=swap" rel="stylesheet">
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Suprasliensis &#8212; Old Bulgarian Corpus</title>
@@ -21,6 +21,14 @@
   src: url('fonts/LiberationSans-Regular.ttf') format('truetype');
 }
 @font-face {
+  font-family: 'Noto Sans Mono';
+  src: url('fonts/NotoSansMono-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'DejaVuSansMono';
+  src: url('fonts/DejaVuSansMono.ttf') format('truetype');
+}
+@font-face {
   font-family: 'LiberationMono';
   src: url('fonts/LiberationMono-Regular.ttf') format('truetype');
 }
@@ -38,8 +46,8 @@
   --radius:     3px;
   --font-ui:    'CharisSIL', serif;
   --font-cyr:   'LiberationSans', sans-serif;
-  --font-corpus:'LiberationMono', 'Noto Sans Mono', 'Noto Sans Glagolitic', monospace;
-  --font-mono:  'LiberationMono', 'Noto Sans Mono', 'Noto Sans Glagolitic', monospace;
+  --font-corpus:'Noto Sans Mono', 'LiberationMono', 'DejaVuSansMono', 'Noto Sans Glagolitic', 'BukyVede', monospace;
+  --font-mono:  'Noto Sans Mono', 'LiberationMono', 'DejaVuSansMono', 'Noto Sans Glagolitic', 'BukyVede', monospace;
 }
 * { box-sizing: border-box; margin: 0; padding: 0; }
 body {
@@ -1992,11 +2000,7 @@ body.analogy-open #main { margin-right: 680px; transition: margin-right 0.25s ea
   <div id="info-overlay" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,0.55);z-index:9000;align-items:center;justify-content:center" onclick="if(event.target===this)this.style.display='none'">
     <div style="background:var(--vellum);color:var(--ink);max-width:620px;width:92%;max-height:80vh;overflow-y:auto;border-radius:6px;padding:28px 32px;position:relative;font-family:var(--font-ui);font-size:0.88rem;line-height:1.65;box-shadow:0 8px 32px rgba(0,0,0,0.35)"><style>#info-overlay p { margin-bottom: 0.9em; }</style>
       <button onclick="document.getElementById('info-overlay').style.display='none'" style="position:absolute;top:12px;right:16px;background:none;border:none;font-size:1.2rem;cursor:pointer;color:var(--muted)">&times;</button>
-      <p>This corpus search engine is a by-product of the data analysis work needed for my MA thesis project on <em>&#x201C;Studies in Old Bulgarian Nominal Morphology: Stem Class Analogy in Codex Suprasliensis&#x201D;</em> (Supervisors: Prof. Roman N. Krivko, Dr. Ivan P. Petrov) at the University of Vienna&#x2019;s Institute of Slavonic Studies.</p>
-      <p>The corpus uses the annotated XML from the TOROT/PROIEL project to which I added etymological stem class and declension type information.</p>
-      <p>To find out more about the TOROT project, visit their <a href="https://torottreebank.github.io/" target="_blank" rel="noopener" style="color:var(--rust)">website</a>. Please also see their <a href="https://github.com/syntacticus/syntacticus-treebank-data/tree/main/torot" target="_blank" rel="noopener" style="color:var(--rust)">GitHub</a> and the journal article:</p>
-      <p style="margin-left:1.2em;font-family:var(--font-mono);font-size:0.82rem">Hanne Martine Eckhoff and Aleksandrs Berdicevskis. 2015. &#x2018;Linguistics vs. digital editions: The Troms&#x00F8; Old Russian and OCS Treebank&#x2019;. <em>Scripta &amp; e-Scripta</em> 14&#x2013;15, pp. 9&#x2013;25.</p>
-      <p>Everything is published under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en" target="_blank" rel="noopener" style="color:var(--rust)">CC BY 4.0 license</a>.</p>
+      <div id="info-overlay-content"><em>Loading…</em></div>
     </div>
   </div>
       <span id="status">loading&#8230;</span>
@@ -5354,6 +5358,28 @@ function handleTranslit(inputEl) {
   }
 }
 
+
+// Load about.md into info overlay
+fetch('suprasliensis-data/about.md')
+  .then(r => r.text())
+  .then(md => {
+    // Simple markdown renderer
+    const html = md
+      .split('\n\n')
+      .map(block => {
+        if (block.startsWith('### ')) return '<h3 style="color:var(--ink)">' + block.slice(4) + '</h3>';
+        if (block.startsWith('## '))  return '<h2 style="color:var(--ink)">' + block.slice(3) + '</h2>';
+        if (block.startsWith('# '))   return '<h1 style="color:var(--ink)">' + block.slice(2) + '</h1>';
+        if (block.startsWith('> ')) {
+          return '<p style="margin-left:1.2em;font-family:var(--font-mono);font-size:0.82rem">' + block.slice(2).replace(/\*(.*?)\*/g, '<em>$1</em>') + '</p>';
+        }
+        return '<p>' + block
+          .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2" target="_blank" rel="noopener" style="color:var(--rust)">$1</a>')
+          .replace(/\*(.*?)\*/g, '<em>$1</em>') + '</p>';
+      })
+      .join('');
+    document.getElementById('info-overlay-content').innerHTML = html;
+  });
 loadData();
 
 function philoToggle(btn) {
