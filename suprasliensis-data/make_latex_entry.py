@@ -56,7 +56,8 @@ def main():
             if not cur_folio or not cur_line: continue
             num, case = parse_morph(get_attr(line, 'morph'))
             if num and case:
-                data[num][case].append((cur_folio, cur_line, get_attr(line, 'form')))
+                bform = get_attr(line, 'bform'); form = bform if bform else get_attr(line, 'form')
+                data[num][case].append((cur_folio, cur_line, form))
 
     if not data:
         print('% No analogical tokens found for lemma "' + lemma + '"')
