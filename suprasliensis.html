@@ -4893,7 +4893,7 @@ function buildAnalogyData() {
   ANALOGY_DATA = Object.entries(map)
     .map(([lemma, d]) => [lemma, d.stem, d.total, d.etym, d.analog, d.ambig]);
 }
-let analogyStems = new Set(['s stem', 'o stem masc', 'o stem neutr', 'ŭ stem', 'jo stem masc', 'jo stem neutr']);
+let analogyStems = new Set(['s stem', 'o stem masc', 'o stem neutr', 'ŭ stem', 'jo stem masc', 'jo stem neutr', 'i stem masc']);
 
 function openAnalogy() {
   document.getElementById('analogy-panel').classList.add('open');
@@ -5754,6 +5754,7 @@ function doTokSearch() {
       <button class="analogy-filter-chip active" data-stem="ŭ stem" onclick="toggleAnalogyFilter(this,'ŭ stem')">ŭ stem</button>
       <button class="analogy-filter-chip active" data-stem="jo stem masc" onclick="toggleAnalogyFilter(this,'jo stem masc')">jo stem masc</button>
       <button class="analogy-filter-chip active" data-stem="jo stem neutr" onclick="toggleAnalogyFilter(this,'jo stem neutr')">jo stem neutr</button>
+      <button class="analogy-filter-chip active" data-stem="i stem masc" onclick="toggleAnalogyFilter(this,'i stem masc')">i stem masc</button>
 
       <span id="analogy-min-label">min classified </span>
       <input id="analogy-min" type="number" value="1" min="1" max="50" oninput="analogyView==='lemma'?renderAnalogyList():renderSlotView()">
