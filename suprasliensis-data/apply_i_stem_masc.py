@@ -3,12 +3,19 @@ import csv, re, unicodedata
 def strip_combining(s):
     return ''.join(c for c in s if not unicodedata.category(c).startswith('M'))
 
+def normalize_status(s):
+    s = s.strip()
+    if s == 'ambiguos': return 'ambiguous'
+    return s
+
 updates = {}
 with open('i_stem_masc_preview.csv', encoding='utf-8-sig', newline='') as f:
     for row in csv.DictReader(f):
-        proposed = row['Proposed Status'].strip()
+        proposed = normalize_status(row['Proposed Status'])
         if not proposed: continue
-        key = (row['Lemma'], row['Number'], row['Case'], strip_combining(row['Form']))
+        lemma = row['Lemma'].strip()
+        if not lemma: continue
+        key = (lemma, row['Number'], row['Case'], strip_combining(row['Form']))
         updates[key] = proposed
 
 print(f"Loaded {len(updates)} update rules from CSV")
