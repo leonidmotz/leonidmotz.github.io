@@ -5039,7 +5039,7 @@ function populateSlotLemmaDropdown() {
   const sel = document.getElementById('slot-lemma-filter');
   if (!sel || sel.dataset.populated === '1') return;
   // Group lemmas by stem, sorted alphabetically within each stem
-  const stemOrder = ['s stem', 'o stem masc', 'o stem neutr', 'ŭ stem', 'jo stem masc', 'jo stem neutr'];
+  const stemOrder = ['s stem', 'o stem masc', 'o stem neutr', 'ŭ stem', 'jo stem masc', 'jo stem neutr', 'i stem masc'];
   // Only include lemmas with at least one analogical token
   const byStep = {};
   ANALOGY_DATA.forEach(([lemma, stem, total, etym, analog]) => {
@@ -5099,7 +5099,7 @@ function renderSlotView() {
   }
 
   let html = '';
-  ['s stem','o stem masc','o stem neutr','\u016d stem','jo stem masc','jo stem neutr'].forEach(stem => {
+  ['s stem','o stem masc','o stem neutr','\u016d stem','jo stem masc','jo stem neutr','i stem masc'].forEach(stem => {
     if (!STEMS.has(stem)) return;
     const col = STEM_COLORS[stem] || '#555';
 
