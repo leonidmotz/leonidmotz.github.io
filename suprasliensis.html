@@ -4893,7 +4893,7 @@ function buildAnalogyData() {
   ANALOGY_DATA = Object.entries(map)
     .map(([lemma, d]) => [lemma, d.stem, d.total, d.etym, d.analog, d.ambig]);
 }
-let analogyStems = new Set(['s stem', 'o stem masc', 'o stem neutr', 'ŭ stem', 'jo stem masc', 'jo stem neutr', 'i stem masc']);
+let analogyStems = new Set(['s stem', 'o stem masc', 'o stem neutr', 'ŭ stem', 'jo stem masc', 'jo stem neutr', 'i stem masc', 'i stem fem']);
 
 function openAnalogy() {
   document.getElementById('analogy-panel').classList.add('open');
@@ -5039,7 +5039,7 @@ function populateSlotLemmaDropdown() {
   const sel = document.getElementById('slot-lemma-filter');
   if (!sel || sel.dataset.populated === '1') return;
   // Group lemmas by stem, sorted alphabetically within each stem
-  const stemOrder = ['s stem', 'o stem masc', 'o stem neutr', 'ŭ stem', 'jo stem masc', 'jo stem neutr', 'i stem masc'];
+  const stemOrder = ['s stem', 'o stem masc', 'o stem neutr', 'ŭ stem', 'jo stem masc', 'jo stem neutr', 'i stem masc', 'i stem fem'];
   // Only include lemmas with at least one analogical token
   const byStep = {};
   ANALOGY_DATA.forEach(([lemma, stem, total, etym, analog]) => {
@@ -5099,7 +5099,7 @@ function renderSlotView() {
   }
 
   let html = '';
-  ['s stem','o stem masc','o stem neutr','\u016d stem','jo stem masc','jo stem neutr','i stem masc'].forEach(stem => {
+  ['s stem','o stem masc','o stem neutr','\u016d stem','jo stem masc','jo stem neutr','i stem masc','i stem fem'].forEach(stem => {
     if (!STEMS.has(stem)) return;
     const col = STEM_COLORS[stem] || '#555';
 
@@ -5755,6 +5755,7 @@ function doTokSearch() {
       <button class="analogy-filter-chip active" data-stem="jo stem masc" onclick="toggleAnalogyFilter(this,'jo stem masc')">jo stem masc</button>
       <button class="analogy-filter-chip active" data-stem="jo stem neutr" onclick="toggleAnalogyFilter(this,'jo stem neutr')">jo stem neutr</button>
       <button class="analogy-filter-chip active" data-stem="i stem masc" onclick="toggleAnalogyFilter(this,'i stem masc')">i stem masc</button>
+      <button class="analogy-filter-chip active" data-stem="i stem fem" onclick="toggleAnalogyFilter(this,'i stem fem')">i stem fem</button>
 
       <span id="analogy-min-label">min classified </span>
       <input id="analogy-min" type="number" value="1" min="1" max="50" oninput="analogyView==='lemma'?renderAnalogyList():renderSlotView()">
@@ -5772,6 +5773,7 @@ function doTokSearch() {
         <button class="philo-toggle active" data-group="stem" data-val="jo stem masc" onclick="philoToggle(this)">jo stem masc</button>
         <button class="philo-toggle active" data-group="stem" data-val="jo stem neutr" onclick="philoToggle(this)">jo stem neutr</button>
         <button class="philo-toggle active" data-group="stem" data-val="i stem masc" onclick="philoToggle(this)">i stem masc</button>
+        <button class="philo-toggle active" data-group="stem" data-val="i stem fem" onclick="philoToggle(this)">i stem fem</button>
       </div>
       <span style="font-family:var(--font-mono);font-size:0.62rem;color:var(--muted)">Number</span>
       <div id="philo-num-btns" style="display:flex;flex-direction:column;gap:2px;">
