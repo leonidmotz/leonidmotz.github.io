@@ -7740,7 +7740,7 @@
       <token form="прѣславь͗нѣѣмь" bform="прѣславь҆нѣѣмь" lemma="прѣславьнъ" pos="A-" morph="-p---nlpwi" rel="aux" book="1" chapter="3" bfolio="018r" bline="11" />
     </line>
     <line n="12">
-      <token form="чоудеси" lemma="чоудо" pos="Mo" morph="-p---nl--i" rel="obl" stem="s stem" info="old" after=". " book="1" chapter="3" bfolio="018r" bline="12" />
+      <token form="чоудеси" lemma="чоудо" pos="Nb" morph="-s---nl--i" rel="obl" stem="s stem" info="old" after=". " book="1" chapter="3" bfolio="018r" bline="12" />
       <token form="потрⱕсъ" bform="потрꙙсъ" lemma="потрѧсти" pos="V-" morph="-supamn-si" rel="xadv" book="1" chapter="3" bfolio="018r" bline="12" />
       <token form="и͑мъ" bform="и҅мъ" lemma="и" pos="Pp" morph="3p---md--i" rel="obl" info="old" book="1" chapter="3" bfolio="018r" bline="12" />
     </line>
@@ -8771,7 +8771,7 @@
       <token form="прѣславь͗нѣѣ͗мь͗" bform="прѣславь҆нѣѣ҆мь҆" lemma="прѣславьнъ" pos="A-" morph="-p---nlpwi" rel="atr" book="1" chapter="3" bfolio="020r" bline="26" />
     </line>
     <line n="27">
-      <token form="чоудеси" lemma="чоудо" pos="Nb" morph="-p---nl--i" rel="obl" stem="s stem" stemtype="etymological" info="old" after=". " book="1" chapter="3" bfolio="020r" bline="27" />
+      <token form="чоудеси" lemma="чоудо" pos="Nb" morph="-s---nl--i" rel="obl" stem="s stem" stemtype="etymological" info="old" after=". " book="1" chapter="3" bfolio="020r" bline="27" />
       <token form="съповѣдавъшемъ" lemma="съповѣдати" pos="V-" morph="-pupamd-si" rel="adv" book="1" chapter="3" bfolio="020r" bline="27" />
       <token form="же" lemma="же" pos="Df" morph="---------n" rel="aux" book="1" chapter="3" bfolio="020r" bline="27" />
       <token form="и͑мъ" bform="и҅мъ" lemma="и" pos="Pp" morph="3p---md--i" rel="sub" info="old" book="1" chapter="3" bfolio="020r" bline="27" />
