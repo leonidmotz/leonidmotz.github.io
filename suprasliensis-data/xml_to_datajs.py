@@ -33,8 +33,12 @@ for folio in root.findall('folio'):
 with open('data.js') as f:
     existing = f.read()
 
+# Build meta
+stems = sorted(set(t['s'] for t in tokens if 's' in t))
+pos_vals = sorted(set(t['p'] for t in tokens if 'p' in t))
+stem_types = sorted(set(t['st'] for t in tokens if 'st' in t))
 # Re-encode
-data = {'tokens': tokens, 'meta': {}}
+data = {'tokens': tokens, 'meta': {'stem': stems, 'pos': pos_vals, 'stem_type': stem_types}}
 compressed = gzip.compress(json.dumps(data, ensure_ascii=False).encode('utf-8'))
 b64 = base64.b64encode(compressed).decode('ascii')
 
