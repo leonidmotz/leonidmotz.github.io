@@ -3376,7 +3376,7 @@ function renderParadigm(data) {
   let html = '';
 
   // Stem-type toggles for s-stem and ŭ-stem nouns
-  if ((stemClass === 's stem' || stemClass === '\u016d stem' || stemClass === 'o stem masc' || stemClass === 'o stem neutr' || stemClass === 'jo stem masc') && isNoun) {
+  if ((stemClass === 's stem' || stemClass === '\u016d stem' || stemClass === 'o stem masc' || stemClass === 'o stem neutr' || stemClass === 'jo stem masc' || stemClass === 'i stem fem' || stemClass === 'i stem masc') && isNoun) {
     html += '<div class="paradigm-st-toggles">' +
       '<span style="font-family:var(--font-mono);font-size:0.64rem;color:var(--muted);align-self:center">Show decl. type: </span>' +
       `<button class="st-toggle etym${showStemType ? ' on' : ''}" onclick="toggleParadigmStemType('etym')">etym</button>` +
