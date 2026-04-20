@@ -1203,7 +1203,7 @@
       <token form="повелѣниѥ͑мъ" bform="повелѣниѥ҅мъ" lemma="повелѣниѥ" pos="Nb" morph="-s---ni--i" rel="adv" stem="jo stem neutr" stemtype="etymological" info="old" book="1" chapter="1" bfolio="003v" bline="09" />
     </line>
     <line n="10">
-      <token form="а͑урилиян҄емъ" bform="а҅урилиꙗн҄емъ" lemma="аѵрилиꙗнъ" pos="A-" morph="-s---mipsi" rel="atr" stem="o stem masc" stemtype="ambiguous" after=". " book="1" chapter="1" />
+      <token form="а͑урилиян҄емъ" bform="а҅урилиꙗн҄емъ" lemma="аѵрилиꙗнъ" pos="A-" morph="-s---mipsi" rel="atr" after=". " book="1" chapter="1" />
       <token form="видⱕште" bform="видꙙште" lemma="видѣти" pos="V-" morph="-pppamn-si" rel="xadv" book="1" chapter="1" bfolio="003v" bline="10" />
       <token form="силы" bform="силꙑ" lemma="сила" pos="Nb" morph="-p---fa--i" rel="obj" stem="a stem fem" info="old" book="1" chapter="1" bfolio="003v" bline="10" />
     </line>
