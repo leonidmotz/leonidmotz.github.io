@@ -42,8 +42,10 @@ data = {'tokens': tokens, 'meta': {'stem': stems, 'pos': pos_vals, 'stem_type': 
 compressed = gzip.compress(json.dumps(data, ensure_ascii=False).encode('utf-8'))
 b64 = base64.b64encode(compressed).decode('ascii')
 
-# Replace only the B64 line
+# Replace B64 line and META line
 new_datajs = re.sub(r'const B64 = `[^`]+`', f'const B64 = `{b64}`', existing)
+meta_json = json.dumps(data['meta'], ensure_ascii=False)
+new_datajs = re.sub(r'const META = \{[^;]+\};', f'const META = {meta_json};', new_datajs)
 with open('data.js', 'w') as f:
     f.write(new_datajs)
 
