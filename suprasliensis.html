@@ -2352,6 +2352,7 @@ body.analogy-open #main { margin-right: 680px; transition: margin-right 0.25s ea
 
 
 let TOKENS = null;
+let META = {stem: [], pos: [], stem_type: []};
 let LEMMAS_DATA = [];
 let ANALOGY_DATA = [];
 let SLOT_DATA = [];
@@ -2418,6 +2419,7 @@ async function loadData() {
   for (const c of out) { buf.set(c, off); off += c.length; }
   const data = JSON.parse(new TextDecoder().decode(buf));
   TOKENS = data.tokens;
+  META = data.meta || {stem: [], pos: [], stem_type: []};
   buildFolioIndex();
   buildUI();
   render();
