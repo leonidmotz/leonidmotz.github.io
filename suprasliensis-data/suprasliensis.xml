@@ -3270,7 +3270,7 @@
     <line n="19">
       <token form="Въ" lemma="въ" pos="R-" morph="---------n" rel="adv" book="1" chapter="2" bfolio="008r" bline="19" />
       <token form="то" lemma="тъ" pos="Pd" morph="-s---na--i" rel="atr" info="info_unannotatable" book="1" chapter="2" bfolio="008r" bline="19" />
-      <token form="врѣмⱕ" bform="врѣмꙙ" lemma="врѣмѧ" pos="Nb" morph="-s---na--i" rel="obl" stem="n stem" info="new" book="1" chapter="2" bfolio="008r" bline="19" />
+      <token fpyorm="врѣмⱕ" bform="врѣмꙙ" lemma="врѣмѧ" pos="Nb" morph="-s---na--i" rel="obl" stem="n stem" info="new" book="1" chapter="2" bfolio="008r" bline="19" />
       <token form="цѣсарь͗ствовавъшоу" bform="цѣсарь҆ствовавъшоу" lemma="цѣсарьствовати" pos="V-" morph="-supamd-si" rel="adv" book="1" chapter="2" bfolio="008r" bline="19" />
       <token form="маѯимия͑ноу" bform="маѯимиꙗ҅ноу" lemma="маѯимиꙗнъ" pos="Ne" morph="-s---md--i" rel="sub" stem="o stem masc" stemtype="etymological" info="acc_gen" after=". " book="1" chapter="2" />
     </line>
@@ -11647,7 +11647,7 @@
     </line>
     <line n="13">
       <token form="сь͗вⱕзаны" bform="сь҆вꙙꙁанꙑ" lemma="съвѧзати" pos="V-" morph="-puppma-wi" rel="xobj" book="1" chapter="3" bfolio="026v" bline="13" />
-      <token form="печати" lemma="печать" pos="Nb" morph="-p---mi--i" rel="adv" stem="t stem" book="1" chapter="3" bfolio="026v" bline="13" />
+      <token form="печати" lemma="печать" pos="Nb" morph="-p---ma--i" rel="adv" stem="t stem" book="1" chapter="3" bfolio="026v" bline="13" />
       <token form="о͑ловѣнъи" bform="о҅ловѣнъи" lemma="оловѣнъ" pos="A-" morph="-p---mipsi" rel="atr" book="1" chapter="3" bfolio="026v" bline="13" />
     </line>
     <line n="14">
@@ -35966,7 +35966,7 @@
       <token form="о҅гн҄ь" lemma="огнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="i stem masc" after="· " book="1" chapter="12" stemtype="ambiguous" />
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="aux" book="1" chapter="12" />
       <token form="распрашиста" lemma="распрашити" pos="V-" morph="3daia----i" rel="pred" book="1" chapter="12" />
-      <token form="пламꙑ" lemma="пламꙑ" pos="Nb" morph="-p---ma--i" rel="obj" stem="n stem" after="· " book="1" chapter="12" />
+      <token form="пламꙑ" lemma="пламꙑ" pos="Nb" morph="-s---ma--i" rel="obj" stem="n stem" after="· " book="1" chapter="12" />
     </line>
     <line n="10">
       <token form="ставъ" lemma="стати" pos="V-" morph="-supamn-si" rel="xadv" book="1" chapter="12" />
