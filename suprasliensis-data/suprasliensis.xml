@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <corpus xml:lang="cu">
+    <source>
+    <title>Codex Suprasliensis</title>
+    <citation-part>Supr.</citation-part>
+    <license>CC BY-NC-SA 4.0</license>
+    <license-url>https://creativecommons.org/licenses/by-nc-sa/4.0/</license-url>
+    <annotator>Lena Borise (2504 sentences), Rebecka Lindberg (2340 sentences), Franziska Maag (1765 sentences), Jonathan Walker (1084 sentences), Mirjam Zumstein (623 sentences), Katie Sykes (467 sentences), Tsvetana Dimitrova (409 sentences), Marek Majer (378 sentences), Hanne Eckhoff (153 sentences), Benjamin Valente (84 sentences), Anna Endresen (41 sentences), David Westerholm (30 sentences), Pawel Nowak (24 sentences), and Alexandra Vukovic (2 sentences)</annotator>
+    <reviewer>Katie Sykes (1333 sentences) and Hanne Eckhoff (7 sentences)</reviewer>
+    <modifications-and-stem-class-layer>Leonid Motz</modifications-and-stem-class-layer>
+    <electronic-text-editor>Anisava Miltenova, David Birnbaum</electronic-text-editor>
+    <electronic-text-title>Codex Suprasliensis</electronic-text-title>
+    <electronic-text-original-url>http://suprasliensis.obdurodon.org/</electronic-text-original-url>
+  </source>
+
   <folio n="001r">
     <line n="01">
       <token form="мыи͑хъ" bform="мꙑи҅хъ" lemma="?" pos="F-" morph="---------n" rel="xobj" book="1" chapter="1" bfolio="001r" bline="01" />
