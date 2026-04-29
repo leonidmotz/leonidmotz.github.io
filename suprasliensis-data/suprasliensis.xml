@@ -107925,7 +107925,7 @@
       <token form="б꙯жиꙗго" lemma="божии" pos="A-" morph="-s---mgpwi" rel="atr" book="3" chapter="41" bfolio="105v" bline="05" />
     </line>
     <line n="06">
-      <token form="връха" lemma="врьхъ" pos="Nb" morph="-s---mg--i" rel="apos" stem="ŭ stem" stemtype="analogical" book="3" chapter="41" bfolio="105v" bline="06" />
+      <token form="връха" lemma="връхъ" pos="Nb" morph="-s---mg--i" rel="apos" stem="ŭ stem" stemtype="analogical" book="3" chapter="41" bfolio="105v" bline="06" />
       <token form="пророкъ" lemma="пророкъ" pos="Nb" morph="-p---mg--i" rel="part" stem="o stem masc" stemtype="etymological" after="· " book="3" chapter="41" bfolio="105v" bline="06" />
       <token form="прьвоуо̑умоу" bform="прьвоуо҄умоу" lemma="прьвъ" pos="Mo" morph="-s---md--i" rel="xadv" book="3" chapter="41" bfolio="105v" bline="06" />
       <token form="начрь҆тавь҆шоу" lemma="начрьтати" pos="V-" morph="-supamd-si" rel="apos" book="3" chapter="41" bfolio="105v" bline="06" />

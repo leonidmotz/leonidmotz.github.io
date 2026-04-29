@@ -4,8 +4,9 @@ from collections import defaultdict
 NUMBER_MAP = {'s': 'Sg', 'p': 'Pl', 'd': 'Du'}
 CASE_MAP   = {'n': 'N', 'a': 'A', 'g': 'G', 'd': 'Dt', 'i': 'I', 'l': 'L', 'v': 'V'}
 
-CASE_ORDER   = ['N', 'A', 'G', 'Dt', 'I', 'L', 'V']
+CASE_ORDER   = ['N', 'V', 'A', 'G', 'Dt', 'I', 'L']
 NUMBER_ORDER = ['Sg', 'Du', 'Pl']
+
 SEV_LOOKUP = {}
 with open('foliation_guide.csv', encoding='utf-8') as _f:
     for _row in csv.reader(_f):
@@ -13,6 +14,17 @@ with open('foliation_guide.csv', encoding='utf-8') as _f:
         _birn = _row[0].strip(); _sev = _row[2].strip()
         if _birn and _sev and _sev.isdigit():
             SEV_LOOKUP[_birn] = int(_sev)
+
+GLOSS_LOOKUP = {}
+try:
+    with open('glosses.csv', encoding='utf-8') as _f:
+        for _row in csv.reader(_f):
+            if len(_row) < 2: continue
+            _lemma = _row[0].strip(); _gloss = _row[1].strip()
+            if _lemma and _gloss:
+                GLOSS_LOOKUP[_lemma] = _gloss
+except FileNotFoundError:
+    pass
 
 
 def parse_morph(morph):
@@ -38,7 +50,11 @@ def get_attr(line, attr):
 def main():
     if len(sys.argv) < 2: sys.exit(1)
     lemma = sys.argv[1]
-    translation = sys.argv[2] if len(sys.argv) > 2 else '???'
+    # command-line gloss overrides lookup; lookup overrides ???
+    if len(sys.argv) > 2:
+        translation = sys.argv[2]
+    else:
+        translation = GLOSS_LOOKUP.get(lemma, '???')
 
     # num -> case -> [(bfolio, bline, form)]
     data = defaultdict(lambda: defaultdict(list))
@@ -87,7 +103,7 @@ def main():
                     sp, sl = bfolio_to_sev(bfolio, bline)
                     refs_tex.append('\\mbox{' + birn_display(bfolio, bline) + '/\\SEV{' + str(sp) + '}{' + str(sl) + '}}')
                 parts.append('\\ocs{' + form + '}' + sup + ' ' + ' '.join(refs_tex))
-            case_parts.append(case + num + ' ' + ' '.join(parts))
+            case_parts.append('\\casemarking{' + case + num + '} ' + ' '.join(parts))
         print('    \\item[] ' + ' \\CASEBREAK '.join(case_parts))
 
     print('\\end{description}')
