@@ -6080,7 +6080,7 @@
     <line n="03">
       <token form="же" lemma="же" pos="Df" morph="---------n" rel="aux" book="1" chapter="3" bfolio="014v" bline="03" />
       <token form="васъ" lemma="вꙑ" pos="Pp" morph="2p---qg--i" rel="obl" info="old" book="1" chapter="3" bfolio="014v" bline="03" />
-      <token form="дѣломъ" lemma="дѣло" pos="Nb" morph="-p---ni--i" rel="adv" stem="o stem neutr" stemtype="ambiguous" info="non_spec" after=". " book="1" chapter="3" bfolio="014v" bline="03" />
+      <token form="дѣломъ" lemma="дѣло" pos="Nb" morph="-p---nd--i" rel="adv" stem="o stem neutr" stemtype="ambiguous" info="non_spec" after=". " book="1" chapter="3" bfolio="014v" bline="03" />
       <token form="о͑станѣте" bform="о҅станѣте" lemma="остати" pos="V-" morph="2ppma----i" rel="pred" book="1" chapter="3" bfolio="014v" bline="03" />
       <token form="сⱕ" bform="сꙙ" lemma="себе" pos="Pk" morph="3s---qa--i" rel="aux" info="info_unannotatable" book="1" chapter="3" bfolio="014v" bline="03" />
       <token form="о͑тъ" bform="о҅тъ" lemma="отъ" pos="R-" morph="---------n" rel="obl" book="1" chapter="3" bfolio="014v" bline="03" />
