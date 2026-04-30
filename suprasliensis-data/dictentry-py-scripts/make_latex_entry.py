@@ -50,7 +50,6 @@ def get_attr(line, attr):
 def main():
     if len(sys.argv) < 2: sys.exit(1)
     lemma = sys.argv[1]
-    # command-line gloss overrides lookup; lookup overrides ???
     if len(sys.argv) > 2:
         translation = sys.argv[2]
     else:
@@ -58,6 +57,8 @@ def main():
 
     # num -> case -> [(bfolio, bline, form)]
     data = defaultdict(lambda: defaultdict(list))
+    analogical_count = 0
+    total_count = 0
 
     import re as _re
     cur_folio = None; cur_line = None
@@ -67,13 +68,16 @@ def main():
             lm = _re.search(r'<line\s+n="([^"]*)"', line)
             if fm: cur_folio = fm.group(1)
             if lm: cur_line  = lm.group(1)
-            if 'lemma="' + lemma + '"' not in line or 'stemtype="analogical"' not in line:
-                continue
+            if 'lemma="' + lemma + '"' not in line: continue
+            total_count += 1
+            if 'stemtype="analogical"' not in line: continue
             if not cur_folio or not cur_line: continue
             num, case = parse_morph(get_attr(line, 'morph'))
             if num and case:
                 bform = get_attr(line, 'bform'); form = bform if bform else get_attr(line, 'form')
+                form = form.replace('\u02bc', "'")
                 data[num][case].append((cur_folio, cur_line, form))
+                analogical_count += 1
 
     if not data:
         print('% No analogical tokens found for lemma "' + lemma + '"')
@@ -83,8 +87,10 @@ def main():
         for case in data[num]:
             data[num][case].sort()
 
+    ratio = '\\textit{' + str(analogical_count) + '}/' + str(total_count)
     print('%--------- ' + lemma.upper())
-    print('\\noindent\\ocsboldword{' + lemma + '}{' + translation + '} \\LEMMALINE')
+    print('\\needspace{4\\baselineskip}')
+    print('\\noindent\\ocsboldword{' + lemma + '}{' + translation + '} \xb7 ' + ratio + ' \\LEMMALINE')
     print('\\begin{description}')
 
     for num in NUMBER_ORDER:
@@ -107,7 +113,7 @@ def main():
         print('    \\item[] ' + ' \\CASEBREAK '.join(case_parts))
 
     print('\\end{description}')
-    print('% ANMERKUNG')
+    print('\\textsc{\\textcolor{gray}{anmerkungen}}')
     print('\\ENTRYEND')
     print('%---------')
 
