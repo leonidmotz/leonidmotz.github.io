@@ -50,10 +50,16 @@ def get_attr(line, attr):
 def main():
     if len(sys.argv) < 2: sys.exit(1)
     lemma = sys.argv[1]
+
+    # split off homonym differentiator e.g. богъ#2 -> ('богъ', '2')
+    hm = re.match(r'^(.+?)#(\d+)$', lemma)
+    lemma_display = hm.group(1) if hm else lemma
+    lemma_num     = hm.group(2) if hm else None
+
     if len(sys.argv) > 2:
         translation = sys.argv[2]
     else:
-        translation = GLOSS_LOOKUP.get(lemma, '???')
+        translation = GLOSS_LOOKUP.get(lemma, GLOSS_LOOKUP.get(lemma_display, '???'))
 
     # num -> case -> [(bfolio, bline, form)]
     data = defaultdict(lambda: defaultdict(list))
@@ -88,9 +94,10 @@ def main():
             data[num][case].sort()
 
     ratio = '\\textit{' + str(analogical_count) + '}/' + str(total_count)
+    sup = '\\textsuperscript{\\textbf{' + lemma_num + '}}' if lemma_num else ''
     print('%--------- ' + lemma.upper())
     print('\\needspace{4\\baselineskip}')
-    print('\\noindent\\ocsboldword{' + lemma + '}{' + translation + '} \xb7 ' + ratio + ' \\LEMMALINE')
+    print('\\noindent\\ocsboldword{' + lemma_display + '}{' + translation + '}' + sup + ' \xb7 ' + ratio + ' \\LEMMALINE')
     print('\\begin{description}')
 
     for num in NUMBER_ORDER:
@@ -103,17 +110,17 @@ def main():
                 form_groups[form].append((bfolio, bline))
             parts = []
             for form, refs in form_groups.items():
-                sup = '\\textsuperscript{(' + str(len(refs)) + ')}'
+                sup_count = '\\textsuperscript{(' + str(len(refs)) + ')}'
                 refs_tex = []
                 for bfolio, bline in refs:
                     sp, sl = bfolio_to_sev(bfolio, bline)
                     refs_tex.append('\\mbox{' + birn_display(bfolio, bline) + '/\\SEV{' + str(sp) + '}{' + str(sl) + '}}')
-                parts.append('\\ocs{' + form + '}' + sup + ' ' + ' '.join(refs_tex))
+                parts.append('\\ocs{' + form + '}' + sup_count + ' ' + ' '.join(refs_tex))
             case_parts.append('\\casemarking{' + case + num + '} ' + ' '.join(parts))
         print('    \\item[] ' + ' \\CASEBREAK '.join(case_parts))
 
     print('\\end{description}')
-    print('\\textsc{\\textcolor{gray}{anmerkungen}}')
+    print('% \\textsc{\\textcolor{gray}{anmerkungen}}')
     print('\\ENTRYEND')
     print('%---------')
 
