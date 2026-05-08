@@ -94,10 +94,10 @@ def main():
             data[num][case].sort()
 
     ratio = '\\textit{' + str(analogical_count) + '}/' + str(total_count)
-    sup = '\\textsuperscript{\\textbf{' + lemma_num + '}}' if lemma_num else ''
+    sup = '\\textsuperscript{\\textbf{\\textup{' + lemma_num + '}}}' if lemma_num else ''
     print('%--------- ' + lemma.upper())
     print('\\needspace{4\\baselineskip}')
-    print('\\noindent\\ocsboldword{' + lemma_display + '}{' + translation + '}' + sup + ' \xb7 ' + ratio + ' \\LEMMALINE')
+    print('\\noindent\\word{\\ocsbold{' + lemma_display + '}' + sup + '}{' + translation + '} \xb7 ' + ratio + ' \\LEMMALINE')
     print('\\begin{description}')
 
     for num in NUMBER_ORDER:
