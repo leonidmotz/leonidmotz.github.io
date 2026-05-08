@@ -116085,7 +116085,7 @@
       <token form="о҅тъ" lemma="отъ" pos="R-" morph="---------n" rel="obl" book="3" chapter="45" bfolio="121r" bline="19" />
     </line>
     <line n="20">
-      <token form="жрѣбиꙗ" lemma="жрѣбии" pos="Nb" morph="-s---mg--i" rel="obl" stem="ja stem masc" after="· " book="3" chapter="45" bfolio="121r" bline="20" />
+      <token form="жрѣбиꙗ" lemma="жрѣбии" pos="Nb" morph="-s---mg--i" rel="obl" stem="jo stem masc" after="· " book="3" chapter="45" bfolio="121r" bline="20" />
       <token form="не" lemma="не" pos="Df" morph="---------n" rel="aux" book="3" chapter="45" bfolio="121r" bline="20" />
       <token form="и҅сповѣдаатъ" lemma="исповѣдати" pos="V-" morph="3spia----i" rel="pred" book="3" chapter="45" bfolio="121r" bline="20" />
       <token form="съ" lemma="съ" pos="R-" morph="---------n" rel="adv" book="3" chapter="45" bfolio="121r" bline="20" />
