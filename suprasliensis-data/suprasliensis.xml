@@ -28842,7 +28842,7 @@
     </line>
     <line n="07">
       <token form="въ" lemma="въ" pos="R-" morph="---------n" rel="obl" book="1" chapter="9" bfolio="065r" bline="07" />
-      <token form="дьштерехъ" lemma="дъщи" pos="Nb" morph="-p---fl--i" rel="obl" stem="r stems" book="1" chapter="9" bfolio="065r" bline="07" stemtype="analogical" />
+      <token form="дьштерехъ" lemma="дъщи" pos="Nb" morph="-p---fl--i" rel="obl" stem="r stems" book="1" chapter="9" bfolio="065r" bline="07" stemtype="etymological" />
       <token form="и҅ностранникъ" lemma="иностраньникъ" pos="Nb" morph="-p---mg--i" rel="atr" stem="o stem masc" stemtype="etymological" after="· " book="1" chapter="9" bfolio="065r" bline="07" />
       <token form="и҅ли" lemma="или" pos="C-" morph="---------n" rel="aux" book="1" chapter="9" bfolio="065r" bline="07" />
     </line>
