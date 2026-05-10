@@ -4876,13 +4876,14 @@ function buildSlotData() {
     const cas  = t.mo[6] || '-';
     if (!'sdp'.includes(num) || !'nagdilv'.includes(cas)) continue;
     const key = stem + '|' + num + '|' + cas;
-    if (!map[key]) map[key] = { stem, num, cas, etym: 0, analog: 0, ambig: 0 };
+    if (!map[key]) map[key] = { stem, num, cas, etym: 0, analog: 0, ambig: 0, total: 0 };
+    map[key].total++;
     const st = t.st || '';
     if (st === 'etymological') map[key].etym++;
     else if (st === 'analogical') map[key].analog++;
-    else map[key].ambig++;
+    else if (st === 'ambiguous') map[key].ambig++;
   }
-  SLOT_DATA = Object.values(map).map(d => [d.stem, d.num, d.cas, d.etym, d.analog, d.ambig]);
+  SLOT_DATA = Object.values(map).map(d => [d.stem, d.num, d.cas, d.etym, d.analog, d.ambig, d.total]);
 }
 function buildAnalogyData() {
   const map = {};
