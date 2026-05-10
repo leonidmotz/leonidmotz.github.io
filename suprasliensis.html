@@ -5125,21 +5125,20 @@ function renderSlotView() {
         const key = n+cas;
         const d = (lookup[stem] && lookup[stem][key]) || null;
         if (!d) { html += `<td><span class="slot-cell slot-cell-empty" style="color:#bbb;border-color:#e0d8cc;font-size:0.9rem;letter-spacing:0">—</span></td>`; return; }
-        const classified = d.etym + d.analog;
-        if (classified === 0) {
-          html += `<td style="cursor:pointer" onclick="openSlotConcordance('${stem}','${n}','${cas}',slotLemma||undefined)"><span class="slot-cell slot-cell-empty" title="only ambiguous (${d.ambig} tokens)">ambiguous</span></td>`;
+        const total = d.total || (d.etym + d.analog + d.ambig);
+        if (total === 0) {
+          html += `<td><span class="slot-cell slot-cell-empty" style="color:#bbb;border-color:#e0d8cc;font-size:0.9rem;letter-spacing:0">—</span></td>`;
           return;
         }
-        if (classified < minC) {
-          html += `<td><span class="slot-cell slot-cell-empty" style="color:#ccc;border-color:#eee;font-size:0.52rem" title="below min (${classified} classified)">< min</span></td>`;
+        if (total < minC) {
+          html += `<td><span class="slot-cell slot-cell-empty" style="color:#ccc;border-color:#eee;font-size:0.52rem" title="below min (${total} tokens)">< min</span></td>`;
           return;
         }
-        const rate = d.analog / classified;
+        const rate = d.analog / total;
         const pct  = (rate * 100).toFixed(0);
-        // Colour: interpolate parchment (#f5f0e8) → rust (#8b1a4a) by rate
         const bg = rateToColor(rate);
         const textCol = rate > 0.5 ? '#fff' : '#3a2a1a';
-        const title = `${pct}% analogical\netym: ${d.etym} | analog: ${d.analog} | ambig: ${d.ambig}`;
+        const title = `${pct}% analogical\netym: ${d.etym} | analog: ${d.analog} | ambig: ${d.ambig} | total: ${total}`;
         html += `<td style="cursor:pointer" onclick="openSlotConcordance('${stem}','${n}','${cas}',slotLemma||undefined)"><span class="slot-cell" style="background:${bg};color:${textCol}" title="${title}">${pct}%</span></td>`;
       });
       html += `</tr>`;
