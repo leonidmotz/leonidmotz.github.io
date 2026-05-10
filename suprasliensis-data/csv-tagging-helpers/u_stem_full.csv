@@ -233,10 +233,10 @@ Token Number,Lemma,Number,Case,Form,Stemtype,Birnbaum,SEV,stem type must be
 30313,цръкꙑ,Plural,Accusative,црь҆къви,ambiguous,96v14,192/14,
 50539,цръкꙑ,Plural,Accusative,црь҆къви,ambiguous,160r03,319/3,
 31608,цръкꙑ,Plural,Accusative,црь҆кꙿви,ambiguous,100v29,200/29,
-31518,цръкꙑ,Plural,Genitive,цръкъвъ,etymological,100v12,200/12,analogical
-31539,цръкꙑ,Plural,Genitive,цръкъвъ,etymological,100v16,200/16,analogical
-31599,цръкꙑ,Plural,Genitive,цръкъвъ,etymological,100v28,200/28,analogical
-31407,цръкꙑ,Plural,Genitive,црькъвъ,etymological,100r16,199/16,analogical
+31518,цръкꙑ,Plural,Genitive,цръкъвъ,etymological,100v12,200/12,
+31539,цръкꙑ,Plural,Genitive,цръкъвъ,etymological,100v16,200/16,
+31599,цръкꙑ,Plural,Genitive,цръкъвъ,etymological,100v28,200/28,
+31407,цръкꙑ,Plural,Genitive,црькъвъ,etymological,100r16,199/16,
 34601,кръвь,Plural,Dative,кръвь҆мъ,etymological,111r19,221/19,analogical
 31631,цръкꙑ,Plural,Dative,црькъвамъ,analogical,101r06,201/6,etymological
 17794,кръвь,Plural,Instrumental,кръвь҆ми,ambiguous,55v20,108/20,analogical
