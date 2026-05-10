@@ -5082,9 +5082,9 @@ function renderSlotView() {
   const lookup = {};
   if (!slotLemma) {
     // Aggregate over all lemmas via SLOT_DATA
-    SLOT_DATA.forEach(([stem,num,cas,etym,analog,ambig]) => {
+    SLOT_DATA.forEach(([stem,num,cas,etym,analog,ambig,total]) => {
       if (!lookup[stem]) lookup[stem] = {};
-      lookup[stem][num+cas] = {etym, analog, ambig};
+      lookup[stem][num+cas] = {etym, analog, ambig, total: total || (etym+analog+ambig)};
     });
   } else {
     // Filter TOKENS to just this lemma and build counts per (stem, num, case)
@@ -5097,10 +5097,11 @@ function renderSlotView() {
       const st  = t.st || '';
       if (!lookup[stem]) lookup[stem] = {};
       const key = num + cas;
-      if (!lookup[stem][key]) lookup[stem][key] = {etym:0, analog:0, ambig:0};
+      if (!lookup[stem][key]) lookup[stem][key] = {etym:0, analog:0, ambig:0, total:0};
+      lookup[stem][key].total++;
       if      (st === 'etymological') lookup[stem][key].etym++;
       else if (st === 'analogical')   lookup[stem][key].analog++;
-      else                            lookup[stem][key].ambig++;
+      else if (st === 'ambiguous')    lookup[stem][key].ambig++;
     });
   }
 
