@@ -8,7 +8,6 @@ def normalize_status(s):
     if s == 'ambiguos': return 'ambiguous'
     return s
 
-# Key: (folio, line, lemma, stripped_form) -> new stemtype
 updates = {}
 with open('csv-tagging-helpers/n_stem_all.csv', encoding='utf-8-sig', newline='') as f:
     for row in csv.DictReader(f):
@@ -16,7 +15,7 @@ with open('csv-tagging-helpers/n_stem_all.csv', encoding='utf-8-sig', newline=''
         if not proposed: continue
         key = (
             row['Folio'].strip(),
-            row['Line'].strip(),
+            row['Line'].strip().lstrip('0') or '0',
             row['Lemma'].strip(),
             strip_combining(row['Form'].strip()),
         )
@@ -27,6 +26,7 @@ print(f"Loaded {len(updates)} update rules from CSV")
 lines = open('suprasliensis.xml', encoding='utf-8').readlines()
 changed = 0
 skipped = 0
+unmatched = set(updates.keys())
 current_folio = ''
 current_line  = ''
 
@@ -37,7 +37,7 @@ for i, line in enumerate(lines):
         continue
     line_m = re.search(r'<line\s[^>]*\bn="([^"]*)"', line)
     if line_m:
-        current_line = line_m.group(1)
+        current_line = line_m.group(1).lstrip('0') or '0'
         continue
     if '<token' not in line or 'stem="n stem"' not in line:
         continue
@@ -46,10 +46,10 @@ for i, line in enumerate(lines):
         r = re.search(attr + r'="([^"]*)"', line)
         return r.group(1) if r else ''
 
-    lemma  = get('lemma')
-    bform  = get('bform')
-    form   = get('form')
-    cur_st = get('stemtype')
+    lemma   = get('lemma')
+    bform   = get('bform')
+    form    = get('form')
+    cur_st  = get('stemtype')
     display = bform if bform else form
 
     key = (current_folio, current_line, lemma, strip_combining(display))
@@ -58,6 +58,7 @@ for i, line in enumerate(lines):
     if proposed is None:
         skipped += 1
         continue
+    unmatched.discard(key)
     if cur_st == proposed:
         continue
 
@@ -71,3 +72,6 @@ for i, line in enumerate(lines):
 
 open('suprasliensis.xml', 'w', encoding='utf-8').writelines(lines)
 print(f"Changed: {changed}, Skipped (no rule): {skipped}")
+print(f"Unmatched rules: {len(unmatched)}")
+for folio, line_n, lemma, form in sorted(unmatched)[:20]:
+    print(f"  folio={folio} line={line_n} lemma={lemma} form={form}")
