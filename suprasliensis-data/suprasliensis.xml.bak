@@ -1334,7 +1334,7 @@
       <token form="и" lemma="и" pos="C-" morph="---------n" rel="aux" book="1" chapter="1" bfolio="003v" bline="26" />
       <token form="по" lemma="по" pos="R-" morph="---------n" rel="adv" book="1" chapter="1" bfolio="003v" bline="26" />
       <token form="седʼми" lemma="седмь" pos="Ma" morph="-s---fl--i" rel="obl" info="info_unannotatable" book="1" chapter="1" />
-      <token form="дь͗ниї" bform="дь҆ниї" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="part" stem="n stem" info="info_unannotatable" book="1" chapter="1" bfolio="003v" bline="26" stemtype="analogical" />
+      <token form="дь͗ниї" bform="дь҆ниї" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="part" stem="n stem" info="info_unannotatable" book="1" chapter="1" bfolio="003v" bline="26" />
       <token form="и͑зиде" bform="и҅ꙁиде" lemma="изити" pos="V-" morph="3saia----i" rel="pred" book="1" chapter="1" bfolio="003v" bline="26" />
       <token form="а͑урилиянъ" bform="а҅урилиꙗнъ" lemma="аѵрилиꙗнъ" pos="Ne" morph="-s---mn--i" rel="sub" stem="o stem masc" stemtype="ambiguous" info="old" book="1" chapter="1" />
     </line>
@@ -2218,7 +2218,7 @@
     </line>
     <line n="23">
       <token form="сѫшти" lemma="бꙑти" pos="V-" morph="-sppafd-si" rel="atr" after=". " book="1" chapter="1" bfolio="005v" bline="23" />
-      <token form="и͑менемь" bform="и҅менемь" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" info="info_unannotatable" book="1" chapter="1" bfolio="005v" bline="23" stemtype="ambiguous" />
+      <token form="и͑менемь" bform="и҅менемь" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" info="info_unannotatable" book="1" chapter="1" bfolio="005v" bline="23" stemtype="analogical" />
       <token form="мария" bform="мариꙗ" lemma="мариꙗ" pos="Ne" morph="-s---fn--i" rel="apos" stem="ja stem fem" after=". " book="1" chapter="1" />
       <token form="глагол҄ѫштоу" lemma="глаголати" pos="V-" morph="-sppamd-si" rel="adv" after=". " book="1" chapter="1" bfolio="005v" bline="23" />
     </line>
@@ -2412,7 +2412,7 @@
       <token form="божь͗ствоу" bform="божь҆ствоу" lemma="божьство" pos="Nb" morph="-s---nd--i" rel="obl" stem="o stem neutr" stemtype="etymological" info="acc_gen" after=". " book="1" chapter="1" bfolio="006r" bline="19" />
       <token form="и͑" bform="и҅" lemma="и" pos="C-" morph="---------n" rel="aux" book="1" chapter="1" bfolio="006r" bline="19" />
       <token form="третииї" lemma="третии" pos="Mo" morph="-s---ma--i" rel="atr" book="1" chapter="1" bfolio="006r" bline="19" />
-      <token form="дьнь" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="adv" stem="n stem" info="acc_inf" book="1" chapter="1" bfolio="006r" bline="19" stemtype="ambiguous" />
+      <token form="дьнь" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="adv" stem="n stem" info="acc_inf" book="1" chapter="1" bfolio="006r" bline="19" />
       <token form="въставъ" lemma="въстати" pos="V-" morph="-supamn-si" rel="xadv" book="1" chapter="1" bfolio="006r" bline="19" />
     </line>
     <line n="20">
@@ -2453,7 +2453,7 @@
     </line>
     <line n="25">
       <token form="десⱕтъ" bform="десꙙтъ" lemma="десѧть" pos="Ma" morph="-p---pg--i" rel="obl" info="info_unannotatable" book="1" chapter="1" bfolio="006r" bline="25" />
-      <token form="дь͗ниї" bform="дь҆ниї" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="part" stem="n stem" info="info_unannotatable" after=". " book="1" chapter="1" bfolio="006r" bline="25" stemtype="analogical" />
+      <token form="дь͗ниї" bform="дь҆ниї" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="part" stem="n stem" info="info_unannotatable" after=". " book="1" chapter="1" bfolio="006r" bline="25" />
       <token form="и͑" bform="и҅" lemma="и" pos="C-" morph="---------n" rel="aux" book="1" chapter="1" bfolio="006r" bline="25" />
       <token form="вь͗зиде" bform="вь҆ꙁиде" lemma="възити" pos="V-" morph="3saia----i" rel="pred" book="1" chapter="1" bfolio="006r" bline="25" />
       <token form="на" lemma="на" pos="R-" morph="---------n" rel="obl" info="info_unannotatable" book="1" chapter="1" bfolio="006r" bline="25" />
@@ -3275,7 +3275,7 @@
       <token form="марта" lemma="мартъ" pos="Nb" morph="-s---mg--i" rel="apos" stem="o stem masc" stemtype="etymological" book="1" chapter="2" bfolio="008r" bline="18" />
       <token form="въ" lemma="въ" pos="R-" morph="---------n" rel="adv" book="1" chapter="2" bfolio="008r" bline="18" />
       <token form="е͆" bform="е꙯" lemma="пѧтъ" pos="Mo" morph="---------n" rel="atr" book="1" chapter="2" />
-      <token form="день͗" bform="день҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" after=". " book="1" chapter="2" bfolio="008r" bline="18" stemtype="ambiguous" />
+      <token form="день͗" bform="день҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" after=". " book="1" chapter="2" bfolio="008r" bline="18" />
       <token form="мѫчениѥ" lemma="мѫчениѥ" pos="Nb" morph="-s---nn--i" rel="sub" stem="jo stem neutr" stemtype="etymological" book="1" chapter="2" bfolio="008r" bline="18" />
       <token form="ст͆ааго" bform="ст꙯ааго" lemma="свѧтъ" pos="A-" morph="-s---mgpwi" rel="atr" book="1" chapter="2" />
       <token form="василиска" lemma="василискъ" pos="Ne" morph="-s---mg--i" rel="narg" stem="o stem masc" stemtype="etymological" after="⁛ " book="1" chapter="2" />
@@ -3297,7 +3297,7 @@
       <token form="мѣсто" lemma="мѣсто" pos="Nb" morph="-s---na--i" rel="obl" stem="o stem neutr" stemtype="ambiguous" info="new" after=". " book="1" chapter="2" bfolio="008r" bline="21" />
       <token form="и͑нъ" bform="и҅нъ" lemma="инъ" pos="Px" morph="-s---mn--i" rel="atr" info="info_unannotatable" book="1" chapter="2" bfolio="008r" bline="21" />
       <token form="воѥ͑вода" bform="воѥ҅вода" lemma="воѥвода" pos="Nb" morph="-s---mn--i" rel="apos" stem="a stem masc" info="info_unannotatable" book="1" chapter="2" bfolio="008r" bline="21" />
-      <token form="и͑менемь" bform="и҅менемь" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" info="info_unannotatable" book="1" chapter="2" bfolio="008r" bline="21" stemtype="ambiguous" />
+      <token form="и͑менемь" bform="и҅менемь" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" info="info_unannotatable" book="1" chapter="2" bfolio="008r" bline="21" stemtype="analogical" />
     </line>
     <line n="22">
       <token form="а͑грипа" bform="а҅грипа" lemma="агрипа" pos="Ne" morph="-s---mn--i" rel="apos" stem="a stem masc" after=". " book="1" chapter="2" bfolio="008r" bline="22" />
@@ -3466,7 +3466,7 @@
       <token form="ми" lemma="азъ" pos="Pp" morph="1s---md--i" rel="obl" info="old" book="1" chapter="2" bfolio="008v" bline="13" />
       <token form="вол̑ѫ" bform="вол҄ѫ" lemma="волꙗ" pos="Nb" morph="-s---fa--i" rel="obj" stem="ja stem fem" info="new" book="1" chapter="2" bfolio="008v" bline="13" />
       <token form="мало" lemma="мало" pos="Df" morph="-------p-i" rel="adv" book="1" chapter="2" bfolio="008v" bline="13" />
-      <token form="дь͗ниї" bform="дь҆ниї" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="part" stem="n stem" info="info_unannotatable" after=". " book="1" chapter="2" bfolio="008v" bline="13" stemtype="analogical" />
+      <token form="дь͗ниї" bform="дь҆ниї" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="part" stem="n stem" info="info_unannotatable" after=". " book="1" chapter="2" bfolio="008v" bline="13" />
     </line>
     <line n="14">
       <token form="да" lemma="да" pos="G-" morph="---------n" rel="adv" book="1" chapter="2" bfolio="008v" bline="14" />
@@ -3969,7 +3969,7 @@
       <token form="и͑" bform="и҅" lemma="и" pos="Df" morph="---------n" rel="aux" book="1" chapter="2" bfolio="009v" bline="19" />
       <token form="до" lemma="до" pos="R-" morph="---------n" rel="adv" book="1" chapter="2" bfolio="009v" bline="19" />
       <token form="сихъ" lemma="сь" pos="Pd" morph="-p---mg--i" rel="atr" info="info_unannotatable" book="1" chapter="2" bfolio="009v" bline="19" />
-      <token form="дь͗ниї" bform="дь҆ниї" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="obl" stem="n stem" info="acc_sit" after=". " book="1" chapter="2" bfolio="009v" bline="19" stemtype="analogical" />
+      <token form="дь͗ниї" bform="дь҆ниї" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="obl" stem="n stem" info="acc_sit" after=". " book="1" chapter="2" bfolio="009v" bline="19" />
       <token form="видѣвъ" lemma="видѣти" pos="V-" morph="-supamn-si" rel="xadv" book="1" chapter="2" bfolio="009v" bline="19" />
     </line>
     <line n="20">
@@ -4117,7 +4117,7 @@
       <token form="се" lemma="се" pos="I-" morph="---------n" rel="aux" book="1" chapter="2" bfolio="010r" bline="10" />
       <token form="бо" lemma="бо" pos="Df" morph="---------n" rel="aux" book="1" chapter="2" bfolio="010r" bline="10" />
       <token form="третиї" lemma="третии" pos="Mo" morph="-s---mn--i" rel="atr" book="1" chapter="2" bfolio="010r" bline="10" />
-      <token form="день͗" bform="день҆" lemma="дьнь" pos="Nb" morph="-s---mn--i" rel="xobj" stem="n stem" book="1" chapter="2" bfolio="010r" bline="10" stemtype="analogical" />
+      <token form="день͗" bform="день҆" lemma="дьнь" pos="Nb" morph="-s---mn--i" rel="xobj" stem="n stem" book="1" chapter="2" bfolio="010r" bline="10" stemtype="etymological" />
       <token form="ѥ͑сть" bform="ѥ҅сть" lemma="бꙑти" pos="V-" morph="3spia----i" rel="pred" book="1" chapter="2" bfolio="010r" bline="10" />
       <token form="пон̑еже" bform="пон҄еже" lemma="понѥже" pos="G-" morph="---------n" rel="adv" book="1" chapter="2" bfolio="010r" bline="10" />
     </line>
@@ -5160,7 +5160,7 @@
       <token form="марта" lemma="маръта" pos="Ne" morph="-s---fn--i" rel="apos" stem="a stem fem" book="1" chapter="3" bfolio="012r" bline="28" />
       <token form="вь" lemma="въ" pos="R-" morph="---------n" rel="adv" book="1" chapter="3" bfolio="012r" bline="28" />
       <token form="ѕ͆" bform="ѕ꙯" lemma="шестъ" pos="Mo" morph="-s---ma--i" rel="atr" book="1" chapter="3" />
-      <token form="дьнь͗" bform="дьнь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="1" chapter="3" bfolio="012r" bline="28" stemtype="ambiguous" />
+      <token form="дьнь͗" bform="дьнь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="1" chapter="3" bfolio="012r" bline="28" />
       <token form="чоудотворения" bform="чоудотворениꙗ" lemma="чоудотворѥниѥ" pos="Nb" morph="-p---nn--i" rel="sub" stem="jo stem neutr" stemtype="etymological" book="1" chapter="3" />
       <token form="ст͆ааго" bform="ст꙯ааго" lemma="свѧтъ" pos="A-" morph="-s---mgpwi" rel="atr" book="1" chapter="3" />
     </line>
@@ -5365,7 +5365,7 @@
       <token form="женити" lemma="женити" pos="V-" morph="--pna----i" rel="xobj" book="1" chapter="3" bfolio="012v" bline="29" />
       <token form="ї" lemma="и" pos="Pp" morph="3s---ma--i" rel="obj" info="old" book="1" chapter="3" bfolio="012v" bline="29" />
       <token form="дѣвицеѭ̑" bform="дѣвицеѭ҄" lemma="дѣвица" pos="Nb" morph="-s---fi--i" rel="obl" stem="ja stem fem" info="new" book="1" chapter="3" bfolio="012v" bline="29" />
-      <token form="именемь" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" info="info_unannotatable" book="1" chapter="3" bfolio="012v" bline="29" stemtype="ambiguous" />
+      <token form="именемь" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" info="info_unannotatable" book="1" chapter="3" bfolio="012v" bline="29" stemtype="analogical" />
       <token form="а͑нʼна" bform="а҅нʼна" lemma="анна#2" pos="Ne" morph="-s---fn--i" rel="apos" stem="a stem fem" after=". " book="1" chapter="3" />
     </line>
   </folio>
@@ -5692,7 +5692,7 @@
       <token form="съхран̑ь" bform="съхран҄ь" lemma="съхранити" pos="V-" morph="-supamn-si" rel="xadv" after=". " book="1" chapter="3" bfolio="013v" bline="13" />
       <token form="Великъ" lemma="великъ" pos="A-" morph="-s---mapsi" rel="atr" book="1" chapter="3" bfolio="013v" bline="13" />
       <token form="же" lemma="же" pos="Df" morph="---------n" rel="aux" book="1" chapter="3" bfolio="013v" bline="13" />
-      <token form="день" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obj" stem="n stem" info="new" book="1" chapter="3" bfolio="013v" bline="13" stemtype="ambiguous" />
+      <token form="день" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obj" stem="n stem" info="new" book="1" chapter="3" bfolio="013v" bline="13" />
       <token form="творⱕште" bform="творꙙште" lemma="творити" pos="V-" morph="-pppamn-si" rel="xadv" book="1" chapter="3" bfolio="013v" bline="13" />
     </line>
     <line n="14">
@@ -5756,7 +5756,7 @@
       <token form="въ" lemma="въ" pos="R-" morph="---------n" rel="adv" book="1" chapter="3" bfolio="013v" bline="22" />
       <token form="тъ" lemma="тъ" pos="Pd" morph="-s---mn--i" rel="atr" book="1" chapter="3" bfolio="013v" bline="22" />
       <token form="о̑убо" bform="о҄убо" lemma="оубо" pos="Df" morph="---------n" rel="aux" book="1" chapter="3" bfolio="013v" bline="22" />
-      <token form="день͗" bform="день҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" info="old" book="1" chapter="3" bfolio="013v" bline="22" stemtype="ambiguous" />
+      <token form="день͗" bform="день҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" info="old" book="1" chapter="3" bfolio="013v" bline="22" />
       <token form="сь͗бираѭ̑штоу" bform="сь҆бираѭ҄штоу" lemma="събирати" pos="V-" morph="-sppamd-si" rel="adv" book="1" chapter="3" bfolio="013v" bline="22" />
       <token form="сⱕ" bform="сꙙ" lemma="себе" pos="Pk" morph="3s---qa--i" rel="aux" info="info_unannotatable" book="1" chapter="3" bfolio="013v" bline="22" />
       <token form="народоу" lemma="народъ" pos="Nb" morph="-s---md--i" rel="sub" stem="o stem masc" stemtype="etymological" info="acc_inf" after=". " book="1" chapter="3" bfolio="013v" bline="22" />
@@ -10164,7 +10164,7 @@
       <token form="странахъ" lemma="страна" pos="Nb" morph="-p---fl--i" rel="obl" stem="a stem fem" book="1" chapter="3" bfolio="023r" bline="28" />
     </line>
     <line n="29">
-      <token form="и͑менемь" bform="и҅менемь" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="1" chapter="3" bfolio="023r" bline="29" stemtype="ambiguous" />
+      <token form="и͑менемь" bform="и҅менемь" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="1" chapter="3" bfolio="023r" bline="29" stemtype="analogical" />
       <token form="конона" lemma="кононъ" pos="Ne" morph="-s---mg--i" rel="apos" stem="o stem masc" stemtype="etymological" after=". " book="1" chapter="3" bfolio="023r" bline="29" />
       <token form="тоѧ" lemma="тъ" pos="Pd" morph="-s---fg--i" rel="atr" book="1" chapter="3" bfolio="023r" bline="29" />
       <token form="вѣры" bform="вѣрꙑ" lemma="вѣра" pos="Nb" morph="-s---fg--i" rel="atr" stem="a stem fem" after=". " book="1" chapter="3" bfolio="023r" bline="29" />
@@ -11954,7 +11954,7 @@
       <token form="молитвахъ" lemma="молитва" pos="Nb" morph="-p---fl--i" rel="obl" stem="a stem fem" after=". " book="1" chapter="3" bfolio="027r" bline="24" />
       <token form="на" lemma="на" pos="R-" morph="---------n" rel="adv" book="1" chapter="3" bfolio="027r" bline="24" />
       <token form="длъгы" bform="длъгꙑ" lemma="дльгъ" pos="A-" morph="-p---mapsi" rel="atr" book="1" chapter="3" bfolio="027r" bline="24" />
-      <token form="дь͗ни" bform="дь҆ни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" book="1" chapter="3" bfolio="027r" bline="24" stemtype="ambiguous" />
+      <token form="дь͗ни" bform="дь҆ни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" book="1" chapter="3" bfolio="027r" bline="24" />
       <token form="ѥ͑дʼва" bform="ѥ҅дʼва" lemma="ѥдъва" pos="Df" morph="---------n" rel="adv" book="1" chapter="3" />
     </line>
     <line n="25">
@@ -13979,9 +13979,9 @@
     </line>
     <line n="26">
       <token form="же" lemma="же" pos="Df" morph="---------n" rel="aux" book="1" chapter="4" bfolio="031v" bline="26" />
-      <token form="племенемъ" lemma="племѧ" pos="Nb" morph="-s---ni--i" rel="adv" stem="n stem" after=". " book="1" chapter="4" stemtype="ambiguous" />
+      <token form="племенемъ" lemma="племѧ" pos="Nb" morph="-s---ni--i" rel="adv" stem="n stem" after=". " book="1" chapter="4" stemtype="analogical" />
       <token form="васои͑" bform="васои҅" lemma="васои" pos="Ne" morph="-s---mn--i" rel="apos" stem="jo stem masc" stemtype="etymological" book="1" chapter="4" bfolio="031v" bline="26" />
-      <token form="именемь͗" bform="именемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" after=". " book="1" chapter="4" bfolio="031v" bline="26" stemtype="ambiguous" />
+      <token form="именемь͗" bform="именемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" after=". " book="1" chapter="4" bfolio="031v" bline="26" stemtype="analogical" />
       <token form="свѣтелъ" lemma="свѣтьлъ" pos="A-" morph="-s---mnpsi" rel="xobj" book="1" chapter="4" bfolio="031v" bline="26" />
     </line>
     <line n="27">
@@ -15264,7 +15264,7 @@
       <token form="марта" lemma="мартъ" pos="Nb" morph="-s---mg--i" rel="apos" stem="o stem masc" stemtype="etymological" book="1" chapter="5" bfolio="034v" bline="22" />
       <token form="въ" lemma="въ" pos="R-" morph="---------n" rel="adv" book="1" chapter="5" bfolio="034v" bline="22" />
       <token form="ѳ͆" bform="ѳ꙯" lemma="девѧтъ" pos="Mo" morph="---------n" rel="atr" book="1" chapter="5" />
-      <token form="дьнь͗" bform="дьнь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="1" chapter="5" bfolio="034v" bline="22" stemtype="ambiguous" />
+      <token form="дьнь͗" bform="дьнь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="1" chapter="5" bfolio="034v" bline="22" />
       <token form="мѫчениѥ" lemma="мѫчениѥ" pos="Nb" morph="-s---nn--i" rel="sub" stem="jo stem neutr" stemtype="etymological" book="1" chapter="5" bfolio="034v" bline="22" />
       <token form="ст͆ыи͑хъ" bform="ст꙯ꙑи҅хъ" lemma="свѧтъ" pos="A-" morph="-p---mgpwi" rel="atr" book="1" chapter="5" />
       <token form="мѫченикъ" lemma="мѫченикъ" pos="Nb" morph="-p---mg--i" rel="narg" stem="o stem masc" stemtype="etymological" book="1" chapter="5" bfolio="034v" bline="22" />
@@ -16092,7 +16092,7 @@
     <line n="16">
       <token form="минѫвъшемъ" lemma="минѫти" pos="V-" morph="-pupamd-si" rel="adv" book="1" chapter="5" bfolio="036v" bline="16" />
       <token form="же" lemma="же" pos="Df" morph="---------n" rel="aux" book="1" chapter="5" bfolio="036v" bline="16" />
-      <token form="дь͗немь͗" bform="дь҆немь҆" lemma="дьнь" pos="Nb" morph="-p---md--i" rel="sub" stem="n stem" book="1" chapter="5" bfolio="036v" bline="16" stemtype="ambiguous" />
+      <token form="дь͗немь͗" bform="дь҆немь҆" lemma="дьнь" pos="Nb" morph="-p---md--i" rel="sub" stem="n stem" book="1" chapter="5" bfolio="036v" bline="16" />
       <token form="з͆" bform="ꙁ꙯" lemma="триѥ" pos="Ma" morph="---------n" rel="atr" after=". " book="1" chapter="5" />
       <token form="сѫштемъ" lemma="бꙑти" pos="V-" morph="-pppamd-si" rel="adv" book="1" chapter="5" bfolio="036v" bline="16" />
       <token form="ст͆ыи͑мъ" bform="ст꙯ꙑи҅мъ" lemma="свѧтъ" pos="A-" morph="-p---mdpwi" rel="sub" book="1" chapter="5" />
@@ -16115,7 +16115,7 @@
       <token form="ї" lemma="и" pos="C-" morph="---------n" rel="xadv" book="1" chapter="5" bfolio="036v" bline="19" />
       <token form="въ" lemma="въ" pos="R-" morph="---------n" rel="adv" book="1" chapter="5" bfolio="036v" bline="19" />
       <token form="и͆" bform="и꙯" lemma="осмъ" pos="Ma" morph="---------n" rel="atr" book="1" chapter="5" />
-      <token form="день͗" bform="день҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="1" chapter="5" bfolio="036v" bline="19" stemtype="ambiguous" />
+      <token form="день͗" bform="день҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="1" chapter="5" bfolio="036v" bline="19" />
       <token form="сѢдъ" lemma="сѣсти" pos="V-" morph="-supamn-si" rel="xadv" book="1" chapter="5" bfolio="036v" bline="19" />
       <token form="съ" lemma="съ" pos="R-" morph="---------n" rel="adv" book="1" chapter="5" bfolio="036v" bline="19" />
       <token form="воѥ͑водѫ" bform="воѥ҅водѫ" lemma="воѥвода" pos="Nb" morph="-s---mi--i" rel="obl" stem="a stem masc" book="1" chapter="5" bfolio="036v" bline="19" />
@@ -17000,7 +17000,7 @@
     </line>
     <line n="11">
       <token form="же" lemma="же" pos="Df" morph="---------n" rel="aux" book="1" chapter="5" bfolio="039v" bline="11" />
-      <token form="врѢмⱕ" bform="врѢмꙙ" lemma="врѣмѧ" pos="Nb" morph="-s---na--i" rel="obl" stem="n stem" book="1" chapter="5" bfolio="039v" bline="11" stemtype="etymological" />
+      <token form="врѢмⱕ" bform="врѢмꙙ" lemma="врѣмѧ" pos="Nb" morph="-s---na--i" rel="obl" stem="n stem" book="1" chapter="5" bfolio="039v" bline="11" />
       <token form="ѥ͑гʼда" bform="ѥ҅гʼда" lemma="ѥгда" pos="Dq" morph="---------n" rel="adv" book="1" chapter="5" />
       <token form="ст͆ыѧ" bform="ст꙯ꙑѧ" lemma="свѧтъ" pos="A-" morph="-p---mapwi" rel="obj" book="1" chapter="5" />
       <token form="мѫчаахѫ" lemma="мѫчити" pos="V-" morph="3piia----i" rel="adv" after=". " book="1" chapter="5" bfolio="039v" bline="11" />
@@ -17034,7 +17034,7 @@
       <token form="вечероу" lemma="вечеръ" pos="Nb" morph="-s---md--i" rel="obl" stem="o stem masc" stemtype="etymological" book="1" chapter="5" bfolio="039v" bline="15" />
       <token form="бо" lemma="бо" pos="Df" morph="---------n" rel="aux" book="1" chapter="5" bfolio="039v" bline="15" />
       <token form="бѢа͑ше" bform="бѢа҅ше" lemma="бꙑти" pos="V-" morph="3siia----i" rel="pred" book="1" chapter="5" bfolio="039v" bline="15" />
-      <token form="дь͗ни" bform="дь҆ни" lemma="дьнь" pos="Nb" morph="-s---md--i" rel="atr" stem="n stem" after=". " book="1" chapter="5" bfolio="039v" bline="15" stemtype="etymological" />
+      <token form="дь͗ни" bform="дь҆ни" lemma="дьнь" pos="Nb" morph="-s---md--i" rel="atr" stem="n stem" after=". " book="1" chapter="5" bfolio="039v" bline="15" />
       <token form="приставишⱕ" bform="приставишꙙ" lemma="приставити" pos="V-" morph="3paia----i" rel="pred" book="1" chapter="5" bfolio="039v" bline="15" />
     </line>
     <line n="16">
@@ -17973,7 +17973,7 @@
     <line n="10">
       <token form="о҄учимыи͗" bform="о҄учимꙑи҆" lemma="оучити" pos="V-" morph="-spppmn-wi" rel="atr" book="1" chapter="5" bfolio="041v" bline="10" />
       <token form="материѭ҄" lemma="мати" pos="Nb" morph="-s---fi--i" rel="ag" stem="r stems" after=". " book="1" chapter="5" bfolio="041v" bline="10" stemtype="ambiguous" />
-      <token form="и͑менемь͗" bform="и҅менемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="1" chapter="5" bfolio="041v" bline="10" stemtype="ambiguous" />
+      <token form="и͑менемь͗" bform="и҅менемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="1" chapter="5" bfolio="041v" bline="10" stemtype="analogical" />
       <token form="мелитъ" lemma="мелитонъ" pos="Ne" morph="-s---mn--i" rel="apos" stem="o stem masc" stemtype="ambiguous" after=". " book="1" chapter="5" bfolio="041v" bline="10" />
     </line>
     <line n="11">
@@ -18310,7 +18310,7 @@
       <token form="господеви" lemma="господь" pos="Nb" morph="-s---md--i" rel="obl" stem="i stem masc" after=". " book="1" chapter="5" bfolio="042r" bline="22" stemtype="analogical" />
       <token form="прѢжде" lemma="прѣжде" pos="Df" morph="---------n" rel="adv" book="1" chapter="5" bfolio="042r" bline="22" />
       <token form="з͆" bform="ꙁ꙯" lemma="триѥ" pos="Ma" morph="---------n" rel="atr" book="1" chapter="5" />
-      <token form="дьнь͗" bform="дьнь҆" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="obl" stem="n stem" book="1" chapter="5" bfolio="042r" bline="22" stemtype="etymological" />
+      <token form="дьнь͗" bform="дьнь҆" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="obl" stem="n stem" book="1" chapter="5" bfolio="042r" bline="22" />
       <token form="марта" lemma="мартъ" pos="Nb" morph="-s---mg--i" rel="part" stem="o stem masc" stemtype="etymological" after=". " book="1" chapter="5" bfolio="042r" bline="22" />
       <token form="при" lemma="при" pos="R-" morph="---------n" rel="adv" book="1" chapter="5" bfolio="042r" bline="22" />
       <token form="лик҄инии͗" bform="лик҄инии҆" lemma="ликинии" pos="Ne" morph="-s---ml--i" rel="obl" stem="ja stem masc" book="1" chapter="5" bfolio="042r" bline="22" />
@@ -20627,7 +20627,7 @@
       <token form="десⱕты" bform="десꙙтꙑ" lemma="десѧть" pos="Ma" morph="-p---pi--i" rel="atr" book="1" chapter="6" bfolio="047v" bline="09" />
     </line>
     <line n="10">
-      <token form="дьнь͗ми" bform="дьнь҆ми" lemma="дьнь" pos="Nb" morph="-p---mi--i" rel="adv" stem="n stem" book="1" chapter="6" bfolio="047v" bline="10" stemtype="ambiguous" />
+      <token form="дьнь͗ми" bform="дьнь҆ми" lemma="дьнь" pos="Nb" morph="-p---mi--i" rel="adv" stem="n stem" book="1" chapter="6" bfolio="047v" bline="10" />
       <token form="постомъ" lemma="постъ" pos="Nb" morph="-s---mi--i" rel="atr" stem="o stem masc" stemtype="etymological" after=". " book="1" chapter="6" bfolio="047v" bline="10" />
       <token form="и͑лия" bform="и҅лиꙗ" lemma="илиꙗ" pos="Ne" morph="-s---mn--i" rel="sub" stem="ja stem masc" book="1" chapter="6" />
       <token form="г͆а" bform="г꙯а" lemma="господь" pos="Nb" morph="-s---mg--i" rel="obj" stem="i stem masc" book="1" chapter="6" stemtype="analogical" />
@@ -21081,7 +21081,7 @@
       <token form="крь͗ви" bform="крь҆ви" lemma="кръвь" pos="Nb" morph="-s---fl--i" rel="obl" stem="ū stem" after=". " book="1" chapter="6" bfolio="048v" bline="11" stemtype="ambiguous" />
       <token form="и͑" bform="и҅" lemma="и" pos="C-" morph="---------n" rel="aux" book="1" chapter="6" bfolio="048v" bline="11" />
       <token form="тако" lemma="тако" pos="Df" morph="---------n" rel="adv" book="1" chapter="6" bfolio="048v" bline="11" />
-      <token form="дь͗нии" bform="дь҆нии" lemma="дьнь" pos="Nb" morph="-s---md--i" rel="sub" stem="n stem" book="1" chapter="6" bfolio="048v" bline="11" stemtype="ambiguous" />
+      <token form="дь͗нии" bform="дь҆нии" lemma="дьнь" pos="Nb" morph="-s---md--i" rel="sub" stem="n stem" book="1" chapter="6" bfolio="048v" bline="11" />
     </line>
     <line n="12">
       <token form="начинаѭ҄штоу" lemma="начинати" pos="V-" morph="-sppamd-si" rel="adv" after=". " book="1" chapter="6" bfolio="048v" bline="12" />
@@ -21208,7 +21208,7 @@
     </line>
     <line n="29">
       <token form="сѫтъ" lemma="бꙑти" pos="V-" morph="3ppia----i" rel="pred" book="1" chapter="6" bfolio="048v" bline="29" />
-      <token form="чисменемъ" lemma="чисмѧ" pos="Nb" morph="-s---ni--i" rel="adv" stem="n stem" after=". " book="1" chapter="6" bfolio="048v" bline="29" stemtype="ambiguous" />
+      <token form="чисменемъ" lemma="чисмѧ" pos="Nb" morph="-s---ni--i" rel="adv" stem="n stem" after=". " book="1" chapter="6" bfolio="048v" bline="29" stemtype="analogical" />
       <token form="ни" lemma="ни" pos="C-" morph="---------n" rel="pred" book="1" chapter="6" bfolio="048v" bline="29" />
       <token form="множаи͑ше" bform="множаи҅ше" lemma="мъногъ" pos="A-" morph="-p---mncsi" rel="xobj" book="1" chapter="6" bfolio="048v" bline="29" />
       <token form="бываѭ҄тъ" bform="бꙑваѭ҄тъ" lemma="бꙑвати" pos="V-" morph="3ppia----i" rel="pred" after=". " book="1" chapter="6" bfolio="048v" bline="29" />
@@ -21330,7 +21330,7 @@
     <line n="15">
       <token form="събь͗рани" bform="събь҆рани" lemma="събьрати" pos="V-" morph="-puppmn-si" rel="xobj" after=". " book="1" chapter="6" bfolio="049r" bline="15" />
       <token form="о" lemma="о" pos="R-" morph="---------n" rel="adv" book="1" chapter="6" bfolio="049r" bline="15" />
-      <token form="и͑мени" bform="и҅мени" lemma="имѧ" pos="Nb" morph="-s---nl--i" rel="obl" stem="n stem" book="1" chapter="6" bfolio="049r" bline="15" stemtype="ambiguous" />
+      <token form="и͑мени" bform="и҅мени" lemma="имѧ" pos="Nb" morph="-s---nl--i" rel="obl" stem="n stem" book="1" chapter="6" bfolio="049r" bline="15" stemtype="analogical" />
       <token form="гн͆и" bform="гн꙯и" lemma="господьнь" pos="A-" morph="-s---nlpsi" rel="atr" book="1" chapter="6" />
       <token form="тоу" lemma="тоу" pos="Df" morph="---------n" rel="xobj" book="1" chapter="6" bfolio="049r" bline="15" />
       <token form="ѥ͑стъ" bform="ѥ҅стъ" lemma="бꙑти" pos="V-" morph="3spia----i" rel="pred" book="1" chapter="6" bfolio="049r" bline="15" />
@@ -21527,7 +21527,7 @@
       <token form="недостои͑но" bform="недостои҅но" lemma="недостоинъ" pos="A-" morph="-s---napsi" rel="atr" book="1" chapter="6" bfolio="049v" bline="11" />
     </line>
     <line n="12">
-      <token form="врѣмени" lemma="врѣмѧ" pos="Nb" morph="-s---nl--i" rel="obl" stem="n stem" after=". " book="1" chapter="6" bfolio="049v" bline="12" stemtype="ambiguous" />
+      <token form="врѣмени" lemma="врѣмѧ" pos="Nb" morph="-s---nl--i" rel="obl" stem="n stem" after=". " book="1" chapter="6" bfolio="049v" bline="12" stemtype="analogical" />
       <token form="нъ" lemma="нъ" pos="C-" morph="---------n" rel="aux" book="1" chapter="6" bfolio="049v" bline="12" />
       <token form="и͑ди" bform="и҅ди" lemma="ити" pos="V-" morph="2spma----i" rel="parpred" book="1" chapter="6" bfolio="049v" bline="12" />
       <token form="рече" lemma="рещи" pos="V-" morph="3saia----i" rel="pred" book="1" chapter="6" bfolio="049v" bline="12" />
@@ -23251,7 +23251,7 @@
       <token form="твоѥ͑мъ" bform="твоѥ҅мъ" lemma="твои" pos="Ps" morph="2s---nl--i" rel="atr" book="1" chapter="7" bfolio="053r" bline="21" />
     </line>
     <line n="22">
-      <token form="и͑мени" bform="и҅мени" lemma="имѧ" pos="Nb" morph="-s---nl--i" rel="obl" stem="n stem" after=". " book="1" chapter="7" bfolio="053r" bline="22" stemtype="ambiguous" />
+      <token form="и͑мени" bform="и҅мени" lemma="имѧ" pos="Nb" morph="-s---nl--i" rel="obl" stem="n stem" after=". " book="1" chapter="7" bfolio="053r" bline="22" stemtype="analogical" />
       <token form="и͑" bform="и҅" lemma="и" pos="C-" morph="---------n" rel="pred" book="1" chapter="7" bfolio="053r" bline="22" />
       <token form="приведи" lemma="привести" pos="V-" morph="2spma----i" rel="pred" book="1" chapter="7" bfolio="053r" bline="22" />
       <token form="мꙙ" lemma="азъ" pos="Pp" morph="1s---ma--i" rel="obj" book="1" chapter="7" bfolio="053r" bline="22" />
@@ -23501,7 +23501,7 @@
     </line>
     <line n="24">
       <token form="о͑каꙗ͑не" bform="о҅каꙗ҅не" lemma="окаꙗнъ" pos="A-" morph="-s---mvpsi" rel="voc" after=". " book="1" chapter="7" bfolio="053v" bline="24" />
-      <token form="дь͗ни" bform="дь҆ни" lemma="дьнь" pos="Nb" morph="-s---md--i" rel="sub" stem="n stem" book="1" chapter="7" bfolio="053v" bline="24" stemtype="etymological" />
+      <token form="дь͗ни" bform="дь҆ни" lemma="дьнь" pos="Nb" morph="-s---md--i" rel="sub" stem="n stem" book="1" chapter="7" bfolio="053v" bline="24" />
       <token form="о̑уже" bform="о҄уже" lemma="оуже" pos="Df" morph="---------n" rel="adv" book="1" chapter="7" bfolio="053v" bline="24" />
       <token form="пришъдъшоу" lemma="прити" pos="V-" morph="-supamd-si" rel="adv" after=". " book="1" chapter="7" bfolio="053v" bline="24" />
       <token form="повелѣ" lemma="повелѣти" pos="V-" morph="3saia----i" rel="pred" book="1" chapter="7" bfolio="053v" bline="24" />
@@ -24192,7 +24192,7 @@
       <token form="славънꙑи͗" bform="славънꙑи҆" lemma="славьнъ" pos="A-" morph="-s---mapwi" rel="atr" book="1" chapter="7" bfolio="055r" bline="22" />
       <token form="и͑" bform="и҅" lemma="и" pos="C-" morph="---------n" rel="atr" book="1" chapter="7" bfolio="055r" bline="22" />
       <token form="великꙑи͗" bform="великꙑи҆" lemma="великъ" pos="A-" morph="-s---mapwi" rel="atr" book="1" chapter="7" bfolio="055r" bline="22" />
-      <token form="дь͗нь͗" bform="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="1" chapter="7" bfolio="055r" bline="22" stemtype="ambiguous" />
+      <token form="дь͗нь͗" bform="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="1" chapter="7" bfolio="055r" bline="22" />
       <token form="пришь͗ствиꙗ" bform="пришь҆ствиꙗ" lemma="пришьствиѥ" pos="Nb" morph="-s---ng--i" rel="atr" stem="jo stem neutr" stemtype="etymological" book="1" chapter="7" bfolio="055r" bline="22" />
     </line>
     <line n="23">
@@ -26111,7 +26111,7 @@
       <token form="ѥ͑ште" bform="ѥ҅ште" lemma="ѥще" pos="Df" morph="---------n" rel="adv" book="1" chapter="7" bfolio="059r" bline="22" />
       <token form="же" lemma="же" pos="Df" morph="---------n" rel="aux" book="1" chapter="7" bfolio="059r" bline="22" />
       <token form="мало" lemma="малъ" pos="A-" morph="-s---nnpsi" rel="sub" book="1" chapter="7" bfolio="059r" bline="22" />
-      <token form="дь͗нии͗" bform="дь҆нии҆" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="part" stem="n stem" after=". " book="1" chapter="7" bfolio="059r" bline="22" stemtype="analogical" />
+      <token form="дь͗нии͗" bform="дь҆нии҆" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="part" stem="n stem" after=". " book="1" chapter="7" bfolio="059r" bline="22" />
     </line>
     <line n="23">
       <token form="и͑" bform="и҅" lemma="и" pos="C-" morph="---------n" rel="pred" book="1" chapter="7" bfolio="059r" bline="23" />
@@ -27232,7 +27232,7 @@
     <line n="17">
       <token form="въ" lemma="въ" pos="R-" morph="---------n" rel="adv" book="1" chapter="8" bfolio="061v" bline="17" />
       <token form="тъ жде" lemma="тъжде" pos="Pd" morph="-s---ma--i" rel="atr" book="1" chapter="8" />
-      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="1" chapter="8" bfolio="061v" bline="17" stemtype="ambiguous" />
+      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="1" chapter="8" bfolio="061v" bline="17" />
       <token form="приде" lemma="прити" pos="V-" morph="3saia----i" rel="pred" book="1" chapter="8" bfolio="061v" bline="17" />
       <token form="къ" lemma="къ" pos="R-" morph="---------n" rel="obl" book="1" chapter="8" bfolio="061v" bline="17" />
       <token form="блаженоуоумꙋ" lemma="блаженъ" pos="A-" morph="-s---mdpwi" rel="atr" book="1" chapter="8" bfolio="061v" bline="17" />
@@ -27694,7 +27694,7 @@
     <line n="13">
       <token form="ꙗ҅ко" lemma="ꙗко" pos="G-" morph="---------n" rel="comp" book="1" chapter="8" bfolio="062v" bline="13" />
       <token form="о҅тъ" lemma="отъ" pos="R-" morph="---------n" rel="adv" book="1" chapter="8" bfolio="062v" bline="13" />
-      <token form="дьне" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="obl" stem="n stem" book="1" chapter="8" bfolio="062v" bline="13" stemtype="etymological" />
+      <token form="дьне" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="obl" stem="n stem" book="1" chapter="8" bfolio="062v" bline="13" />
       <token form="того" lemma="тъ" pos="Pd" morph="-s---mg--i" rel="atr" book="1" chapter="8" bfolio="062v" bline="13" />
       <token form="о҅тън҄елиже" lemma="отънѥлиже" pos="Dq" morph="---------n" rel="adv" book="1" chapter="8" bfolio="062v" bline="13" />
       <token form="пода" lemma="подати" pos="V-" morph="2saia----i" rel="atr" book="1" chapter="8" bfolio="062v" bline="13" />
@@ -28227,14 +28227,14 @@
       <token form="мѣсꙙца" lemma="мѣсѧць" pos="Nb" morph="-s---mg--i" rel="part" stem="jo stem masc" stemtype="etymological" book="1" chapter="9" bfolio="063v" bline="21" />
       <token form="шестааго" lemma="шестъ" pos="Mo" morph="-s---mg--i" rel="atr" book="1" chapter="9" bfolio="063v" bline="21" />
       <token form="в꙯" lemma="дъва" pos="Ma" morph="---------n" rel="atr" book="1" chapter="9" bfolio="063v" bline="21" />
-      <token form="дьни" lemma="дьнь" pos="Nb" morph="-d---ma--i" rel="adv" stem="n stem" after="· " book="1" chapter="9" bfolio="063v" bline="21" stemtype="ambiguous" />
+      <token form="дьни" lemma="дьнь" pos="Nb" morph="-d---ma--i" rel="adv" stem="n stem" after="· " book="1" chapter="9" bfolio="063v" bline="21" />
       <token form="настаѭ̑шти" bform="настаѭ҄шти" lemma="настаꙗти" pos="V-" morph="-sppafd-si" rel="adv" book="1" chapter="9" bfolio="063v" bline="21" />
     </line>
     <line n="22">
       <token form="сѫботѣ" lemma="сѫбота" pos="Nb" morph="-s---fd--i" rel="sub" stem="a stem fem" book="1" chapter="9" bfolio="063v" bline="22" />
       <token form="велицѣи҆" lemma="великъ" pos="A-" morph="-s---fdpwi" rel="atr" after="· " book="1" chapter="9" bfolio="063v" bline="22" />
       <token form="вь҆" lemma="въ" pos="R-" morph="---------n" rel="adv" book="1" chapter="9" bfolio="063v" bline="22" />
-      <token form="дни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" book="1" chapter="9" bfolio="063v" bline="22" stemtype="ambiguous" />
+      <token form="дни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" book="1" chapter="9" bfolio="063v" bline="22" />
       <token form="вьн҄егда" lemma="вьнегда" pos="Dq" morph="---------n" rel="adv" book="1" chapter="9" bfolio="063v" bline="22" />
       <token form="сꙙ" lemma="себе" pos="Pk" morph="3s---qa--i" rel="aux" book="1" chapter="9" bfolio="063v" bline="22" />
       <token form="роді" lemma="родити#1" pos="V-" morph="3saia----i" rel="atr" book="1" chapter="9" bfolio="063v" bline="22" />
@@ -28282,7 +28282,7 @@
       <token form="ѥ҅дного" lemma="ѥдинъ" pos="Ma" morph="-s---mg--i" rel="atr" book="1" chapter="9" bfolio="063v" bline="28" />
     </line>
     <line n="29">
-      <token form="дь҆не" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="obl" stem="n stem" after="· " book="1" chapter="9" bfolio="063v" bline="29" stemtype="etymological" />
+      <token form="дь҆не" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="obl" stem="n stem" after="· " book="1" chapter="9" bfolio="063v" bline="29" />
       <token form="вь҆н҄егда" lemma="вьнегда" pos="Dq" morph="---------n" rel="adv" book="1" chapter="9" bfolio="063v" bline="29" />
       <token form="сꙙ" lemma="себе" pos="Pk" morph="3s---qa--i" rel="aux" book="1" chapter="9" bfolio="063v" bline="29" />
       <token form="роди" lemma="родити#1" pos="V-" morph="3saia----i" rel="atr" book="1" chapter="9" bfolio="063v" bline="29" />
@@ -28292,7 +28292,7 @@
       <token form="ꙗ҅ко" lemma="ꙗко" pos="G-" morph="---------n" rel="comp" book="1" chapter="9" bfolio="063v" bline="30" />
       <token form="въ" lemma="въ" pos="R-" morph="---------n" rel="adv" book="1" chapter="9" bfolio="063v" bline="30" />
       <token form="тꙑ" lemma="тъ" pos="Pd" morph="-p---ma--i" rel="atr" book="1" chapter="9" bfolio="063v" bline="30" />
-      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" book="1" chapter="9" bfolio="063v" bline="30" stemtype="ambiguous" />
+      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" book="1" chapter="9" bfolio="063v" bline="30" />
       <token form="ѧ҅ти" lemma="ѩти" pos="V-" morph="-puppmn-si" rel="xobj" book="1" chapter="9" bfolio="063v" bline="30" />
       <token form="бꙑшꙙ" lemma="бꙑти" pos="V-" morph="3paia----i" rel="pred" book="1" chapter="9" bfolio="063v" bline="30" />
       <token form="сии҆" lemma="сь" pos="Pd" morph="-s---mn--i" rel="sub" book="1" chapter="9" bfolio="063v" bline="30" />
@@ -28688,7 +28688,7 @@
     <line n="17">
       <token form="падъша" lemma="пасти#1" pos="V-" morph="-supamg-si" rel="xobj" book="1" chapter="9" bfolio="064v" bline="17" />
       <token form="подъ" lemma="подъ" pos="R-" morph="---------n" rel="adv" book="1" chapter="9" bfolio="064v" bline="17" />
-      <token form="брѣменемъ" lemma="брѣмѧ" pos="Nb" morph="-s---ni--i" rel="obl" stem="n stem" book="1" chapter="9" bfolio="064v" bline="17" stemtype="ambiguous" />
+      <token form="брѣменемъ" lemma="брѣмѧ" pos="Nb" morph="-s---ni--i" rel="obl" stem="n stem" book="1" chapter="9" bfolio="064v" bline="17" stemtype="analogical" />
       <token form="не" lemma="не" pos="Df" morph="---------n" rel="aux" book="1" chapter="9" bfolio="064v" bline="17" />
       <token form="миноуи҆" lemma="миновати" pos="V-" morph="2spma----i" rel="pred" after="· " book="1" chapter="9" bfolio="064v" bline="17" />
     </line>
@@ -30085,7 +30085,7 @@
       <token form="бо" lemma="бо" pos="Df" morph="---------n" rel="aux" book="1" chapter="9" bfolio="067v" bline="13" />
       <token form="ѥ҅и" lemma="и" pos="Pp" morph="3s---fd--i" rel="atr" book="1" chapter="9" bfolio="067v" bline="13" />
       <token form="въ" lemma="въ" pos="R-" morph="---------n" rel="adv" book="1" chapter="9" bfolio="067v" bline="13" />
-      <token form="врѣменехъ" lemma="врѣмѧ" pos="Nb" morph="-p---nl--i" rel="obl" stem="n stem" book="1" chapter="9" bfolio="067v" bline="13" stemtype="ambiguous" />
+      <token form="врѣменехъ" lemma="врѣмѧ" pos="Nb" morph="-p---nl--i" rel="obl" stem="n stem" book="1" chapter="9" bfolio="067v" bline="13" stemtype="analogical" />
       <token form="гордиꙗна" lemma="гордиꙗнъ" pos="Ne" morph="-s---mg--i" rel="atr" stem="o stem masc" stemtype="etymological" book="1" chapter="9" bfolio="067v" bline="13" />
     </line>
     <line n="14">
@@ -30423,7 +30423,7 @@
       <token form="цръкъве" lemma="цръкꙑ" pos="Nb" morph="-s---fg--i" rel="atr" stem="ū stem" after="· " book="1" chapter="9" bfolio="068r" bline="25" stemtype="etymological" />
     </line>
     <line n="26">
-      <token form="и҅менемъ" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="1" chapter="9" bfolio="068r" bline="26" stemtype="ambiguous" />
+      <token form="и҅менемъ" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="1" chapter="9" bfolio="068r" bline="26" stemtype="analogical" />
       <token form="лимна" lemma="лимонъ" pos="Ne" morph="-s---mg--i" rel="apos" stem="o stem masc" stemtype="etymological" after="· " book="1" chapter="9" bfolio="068r" bline="26" />
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="obj" book="1" chapter="9" bfolio="068r" bline="26" />
       <token form="женѫ" lemma="жена" pos="Nb" morph="-s---fa--i" rel="obj" stem="a stem fem" book="1" chapter="9" bfolio="068r" bline="26" />
@@ -30435,7 +30435,7 @@
       <token form="о҅тъ" lemma="отъ" pos="R-" morph="---------n" rel="part" book="1" chapter="9" bfolio="068r" bline="27" />
       <token form="вѣрꙑ" lemma="вѣра" pos="Nb" morph="-s---fg--i" rel="obl" stem="a stem fem" book="1" chapter="9" bfolio="068r" bline="27" />
       <token form="фруг҄ии҅скꙑѧ" lemma="фрѵгиискъ" pos="A-" morph="-s---fgpwi" rel="atr" after="· " book="1" chapter="9" bfolio="068r" bline="27" />
-      <token form="и҅менемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="1" chapter="9" bfolio="068r" bline="27" stemtype="ambiguous" />
+      <token form="и҅менемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="1" chapter="9" bfolio="068r" bline="27" stemtype="analogical" />
     </line>
     <line n="28">
       <token form="е҅утухиꙗ҅къ" lemma="еѵтѵхиꙗкъ" pos="Ne" morph="-s---mn--i" rel="apos" stem="o stem masc" stemtype="ambiguous" after="· " book="1" chapter="9" bfolio="068r" bline="28" />
@@ -30559,7 +30559,7 @@
     <line n="14">
       <token form="молити" lemma="молити" pos="V-" morph="--pna----i" rel="xobj" book="1" chapter="9" bfolio="068v" bline="14" />
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="aux" book="1" chapter="9" bfolio="068v" bline="14" />
-      <token form="день҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="adv" stem="n stem" book="1" chapter="9" bfolio="068v" bline="14" stemtype="ambiguous" />
+      <token form="день҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="adv" stem="n stem" book="1" chapter="9" bfolio="068v" bline="14" />
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="adv" book="1" chapter="9" bfolio="068v" bline="14" />
       <token form="ношть҆" lemma="нощь" pos="Nb" morph="-s---fa--i" rel="adv" stem="i stem fem" after="· " book="1" chapter="9" bfolio="068v" bline="14" stemtype="etymological" />
       <token form="о҅баче" lemma="обаче" pos="Df" morph="---------n" rel="aux" book="1" chapter="9" bfolio="068v" bline="14" />
@@ -31650,7 +31650,7 @@
       <token form="сꙑ" lemma="бꙑти" pos="V-" morph="-sppamn-si" rel="xadv" after="· " book="1" chapter="11" bfolio="074r" bline="10" />
       <token form="славенъ" lemma="славьнъ" pos="A-" morph="-s---mnpsi" rel="xadv" book="1" chapter="11" bfolio="074r" bline="10" />
       <token form="же" lemma="же" pos="Df" morph="---------n" rel="aux" book="1" chapter="11" bfolio="074r" bline="10" />
-      <token form="и҅менемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="1" chapter="11" bfolio="074r" bline="10" stemtype="ambiguous" />
+      <token form="и҅менемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="1" chapter="11" bfolio="074r" bline="10" stemtype="analogical" />
       <token form="крь҆стиꙗ҅нъ" lemma="крьстиꙗнъ" pos="Nb" morph="-s---mn--i" rel="xobj" stem="o stem masc" stemtype="ambiguous" book="1" chapter="11" bfolio="074r" bline="10" />
     </line>
     <line n="11">
@@ -31680,7 +31680,7 @@
       <token form="молитвахъ" lemma="молитва" pos="Nb" morph="-p---fl--i" rel="obl" stem="a stem fem" book="1" chapter="11" bfolio="074r" bline="13" />
     </line>
     <line n="14">
-      <token form="дьнь" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="adv" stem="n stem" book="1" chapter="11" bfolio="074r" bline="14" stemtype="ambiguous" />
+      <token form="дьнь" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="adv" stem="n stem" book="1" chapter="11" bfolio="074r" bline="14" />
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="adv" book="1" chapter="11" bfolio="074r" bline="14" />
       <token form="ношть҆" lemma="нощь" pos="Nb" morph="-s---fa--i" rel="adv" stem="i stem fem" book="1" chapter="11" bfolio="074r" bline="14" stemtype="etymological" />
       <token form="прилежꙙ" lemma="прилежати" pos="V-" morph="-sppamn-si" rel="xadv" after="· " book="1" chapter="11" bfolio="074r" bline="14" />
@@ -31719,7 +31719,7 @@
       <token form="томꙿ" lemma="тъ" pos="Pd" morph="-s---nl--i" rel="obl" book="1" chapter="11" bfolio="074r" bline="19" />
       <token form="же" lemma="же" pos="Df" morph="---------n" rel="aux" book="1" chapter="11" bfolio="074r" bline="19" />
       <token form="мало" lemma="мало" pos="Df" morph="-------p-i" rel="adv" book="1" chapter="11" bfolio="074r" bline="19" />
-      <token form="дь҆нии" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="part" stem="n stem" book="1" chapter="11" bfolio="074r" bline="19" stemtype="analogical" />
+      <token form="дь҆нии" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="part" stem="n stem" book="1" chapter="11" bfolio="074r" bline="19" />
       <token form="ништии" lemma="нищь" pos="A-" morph="-p---mnpwi" rel="sub" book="1" chapter="11" bfolio="074r" bline="19" />
       <token form="кто" lemma="къто" pos="Px" morph="-s---mn--i" rel="atr" after="· " book="1" chapter="11" bfolio="074r" bline="19" />
       <token form="по" lemma="по" pos="R-" morph="---------n" rel="adv" book="1" chapter="11" bfolio="074r" bline="19" />
@@ -32702,7 +32702,7 @@
     </line>
     <line n="26">
       <token form="висамбонъ" lemma="висамбонъ" pos="Ne" morph="-s---mn--i" rel="apos" stem="o stem masc" stemtype="ambiguous" book="1" chapter="11" bfolio="076r" bline="26" />
-      <token form="и҅менемъ" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="1" chapter="11" bfolio="076r" bline="26" stemtype="ambiguous" />
+      <token form="и҅менемъ" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="1" chapter="11" bfolio="076r" bline="26" stemtype="analogical" />
       <token form="рече" lemma="рещи" pos="V-" morph="3saia----i" rel="pred" after="· " book="1" chapter="11" bfolio="076r" bline="26" />
       <token form="владꙑка" lemma="владꙑка" pos="Nb" morph="-s---mv--i" rel="voc" stem="a stem masc" book="1" chapter="11" bfolio="076r" bline="26" />
     </line>
@@ -33146,7 +33146,7 @@
     </line>
     <line n="21">
       <token form="савина" lemma="савинъ" pos="Ne" morph="-s---mg--i" rel="arg" stem="o stem masc" stemtype="etymological" book="1" chapter="11" bfolio="077r" bline="21" />
-      <token form="и҅менемъ" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" after="· " book="1" chapter="11" bfolio="077r" bline="21" stemtype="ambiguous" />
+      <token form="и҅менемъ" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" after="· " book="1" chapter="11" bfolio="077r" bline="21" stemtype="analogical" />
       <token form="кръстиꙗ҅на" lemma="крьстиꙗнъ" pos="Ne" morph="-s---mg--i" rel="xobj" stem="o stem masc" stemtype="etymological" book="1" chapter="11" bfolio="077r" bline="21" />
       <token form="сѫшта" lemma="бꙑти" pos="V-" morph="-sppamg-si" rel="xadv" after="· " book="1" chapter="11" bfolio="077r" bline="21" />
     </line>
@@ -33878,7 +33878,7 @@
     <line n="22">
       <token form="о҄утрѣ" lemma="оутрѣ" pos="Df" morph="---------n" rel="adv" book="1" chapter="11" bfolio="078v" bline="22" />
       <token form="третии҆" lemma="третии" pos="Mo" morph="-s---ma--i" rel="atr" book="1" chapter="11" bfolio="078v" bline="22" />
-      <token form="дьнь" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="adv" stem="n stem" book="1" chapter="11" bfolio="078v" bline="22" stemtype="ambiguous" />
+      <token form="дьнь" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="adv" stem="n stem" book="1" chapter="11" bfolio="078v" bline="22" />
       <token form="пришедъше" lemma="прити" pos="V-" morph="-pupamn-si" rel="xadv" after="· " book="1" chapter="11" bfolio="078v" bline="22" />
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="aux" book="1" chapter="11" bfolio="078v" bline="22" />
     </line>
@@ -34477,7 +34477,7 @@
     </line>
     <line n="12">
       <token form="вь" lemma="въ" pos="R-" morph="---------n" rel="adv" book="1" chapter="12" bfolio="080r" bline="12" />
-      <token form="дьнь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="1" chapter="12" bfolio="080r" bline="12" stemtype="ambiguous" />
+      <token form="дьнь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="1" chapter="12" bfolio="080r" bline="12" />
       <token form="сѫдънꙑи" lemma="сѫдьнъ" pos="A-" morph="-s---mapwi" rel="atr" after="· " book="1" chapter="12" bfolio="080r" bline="12" />
       <token form="доушеѭ̑" bform="доушеѭ҄" lemma="доуша" pos="Nb" morph="-s---fi--i" rel="narg" stem="ja stem fem" book="1" chapter="12" bfolio="080r" bline="12" />
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="narg" book="1" chapter="12" bfolio="080r" bline="12" />
@@ -35645,7 +35645,7 @@
     </line>
     <line n="20">
       <token form="о҅" lemma="о" pos="R-" morph="---------n" rel="adv" book="1" chapter="12" bfolio="082v" bline="20" />
-      <token form="и҅мени" lemma="имѧ" pos="Nb" morph="-s---nl--i" rel="obl" stem="n stem" book="1" chapter="12" bfolio="082v" bline="20" stemtype="ambiguous" />
+      <token form="и҅мени" lemma="имѧ" pos="Nb" morph="-s---nl--i" rel="obl" stem="n stem" book="1" chapter="12" bfolio="082v" bline="20" stemtype="analogical" />
       <token form="моѥ҅мъ" lemma="мои" pos="Ps" morph="1s---nl--i" rel="atr" after="· " book="1" chapter="12" bfolio="082v" bline="20" />
       <token form="о҅тъ" lemma="отъ" pos="R-" morph="---------n" rel="obl" book="1" chapter="12" bfolio="082v" bline="20" />
       <token form="вьсѣхъ" lemma="вьсь" pos="Px" morph="-p---fg--i" rel="atr" book="1" chapter="12" bfolio="082v" bline="20" />
@@ -36891,7 +36891,7 @@
     </line>
     <line n="16">
       <token form="десꙙти" lemma="десѧть" pos="Ma" morph="-p---pa--i" rel="obj" book="1" chapter="13" bfolio="085v" bline="16" />
-      <token form="дьнии" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="part" stem="n stem" book="1" chapter="13" bfolio="085v" bline="16" stemtype="analogical" />
+      <token form="дьнии" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="part" stem="n stem" book="1" chapter="13" bfolio="085v" bline="16" />
       <token form="о҅тиде" lemma="отити" pos="V-" morph="3saia----i" rel="pred" book="1" chapter="13" bfolio="085v" bline="16" />
       <token form="чистъ" lemma="чистъ" pos="A-" morph="-s---mnpsi" rel="xadv" book="1" chapter="13" bfolio="085v" bline="16" />
       <token form="къ" lemma="къ" pos="R-" morph="---------n" rel="obl" book="1" chapter="13" bfolio="085v" bline="16" />
@@ -36901,7 +36901,7 @@
       <token form="проо҄увѣдѣвъ" lemma="прооувѣдѣти" pos="V-" morph="-supamn-si" rel="xadv" book="1" chapter="13" bfolio="085v" bline="17" />
       <token form="прѣжде" lemma="прѣжде" pos="R-" morph="---------n" rel="adv" book="1" chapter="13" bfolio="085v" bline="17" />
       <token form="трии" lemma="триѥ" pos="Ma" morph="-p---mg--i" rel="atr" book="1" chapter="13" bfolio="085v" bline="17" />
-      <token form="дь҆нии" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="obl" stem="n stem" after="· " book="1" chapter="13" bfolio="085v" bline="17" stemtype="analogical" />
+      <token form="дь҆нии" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="obl" stem="n stem" after="· " book="1" chapter="13" bfolio="085v" bline="17" />
     </line>
     <line n="18">
       <token form="съконьчаниѥ" lemma="съконьчаниѥ" pos="Nb" morph="-s---na--i" rel="obj" stem="jo stem neutr" stemtype="etymological" book="1" chapter="13" bfolio="085v" bline="18" />
@@ -37282,7 +37282,7 @@
     <line n="13">
       <token form="до" lemma="до" pos="R-" morph="---------n" rel="adv" book="1" chapter="14" />
       <token form="трии" lemma="триѥ" pos="Ma" morph="-p---qg--i" rel="atr" book="1" chapter="14" />
-      <token form="дьнии" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="obl" stem="n stem" info="info_unannotatable" book="1" chapter="14" stemtype="analogical" />
+      <token form="дьнии" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="obl" stem="n stem" info="info_unannotatable" book="1" chapter="14" />
       <token form="ни" lemma="ни" pos="Df" morph="---------n" rel="aux" book="1" chapter="14" />
       <token form="заходоу" bform="ꙁаходоу" lemma="заходъ" pos="Nb" morph="-s---md--i" rel="obl" stem="o stem masc" stemtype="etymological" info="new" book="1" chapter="14" />
       <token form="себѣ" lemma="себе" pos="Pk" morph="3s---qd--i" rel="atr" info="old" after=". " book="1" chapter="14" />
@@ -37297,7 +37297,7 @@
     <line n="15">
       <token form="въ" lemma="въ" pos="R-" morph="---------n" rel="adv" book="1" chapter="14" />
       <token form="четврьтъи" lemma="четврьтъ" pos="Mo" morph="-s---ma--i" rel="atr" book="1" chapter="14" />
-      <token form="дьнь" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" info="acc_inf" after=". " book="1" chapter="14" stemtype="ambiguous" />
+      <token form="дьнь" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" info="acc_inf" after=". " book="1" chapter="14" />
       <token form="потрѣбънаꙗ" lemma="потрѣбьнъ" pos="A-" morph="-s---fnpwi" rel="atr" book="1" chapter="14" />
     </line>
     <line n="16">
@@ -37373,7 +37373,7 @@
     <line n="26">
       <token form="и" lemma="и" pos="C-" morph="---------n" rel="pred" book="1" chapter="14" bfolio="086r" bline="02" />
       <token form="четврътꙑи" lemma="четврьтъ" pos="Mo" morph="-s---ma--i" rel="atr" book="1" chapter="14" />
-      <token form="дьнь" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="adv" stem="n stem" info="info_unannotatable" book="1" chapter="14" stemtype="ambiguous" />
+      <token form="дьнь" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="adv" stem="n stem" info="info_unannotatable" book="1" chapter="14" />
       <token form="иматъ" lemma="имѣти" pos="V-" morph="3spia----i" rel="pred" book="1" chapter="14" />
     </line>
     <line n="27">
@@ -37506,7 +37506,7 @@
     <line n="16">
       <token form="оубо" lemma="оубо" pos="Df" morph="---------n" rel="aux" book="1" chapter="14" />
       <token form="отъ" lemma="отъ" pos="R-" morph="---------n" rel="part" info="info_unannotatable" book="1" chapter="14" bfolio="086r" bline="02" />
-      <token form="дьнии" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="obl" stem="n stem" info="old" after=". " book="1" chapter="14" stemtype="analogical" />
+      <token form="дьнии" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="obl" stem="n stem" info="old" after=". " book="1" chapter="14" />
       <token form="зѣло" bform="ꙁѣло" lemma="ѕѣло" pos="Df" morph="---------n" rel="adv" book="1" chapter="14" />
       <token form="лютѣ" lemma="лютѣ" pos="Df" morph="-------p-i" rel="adv" book="1" chapter="14" />
       <token form="бѣсꙙштъ" lemma="бѣсити" pos="V-" morph="-sppamn-si" rel="atr" book="1" chapter="14" />
@@ -38718,7 +38718,7 @@
       <token form="кꙑи҆" lemma="нѣкꙑи" pos="Px" morph="-s---ma--i" rel="atr" book="1" chapter="15" bfolio="089r" bline="16" />
     </line>
     <line n="17">
-      <token form="дьнь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="1" chapter="15" bfolio="089r" bline="17" stemtype="ambiguous" />
+      <token form="дьнь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="1" chapter="15" bfolio="089r" bline="17" />
       <token form="въпрашаѭ҄" lemma="въпрашати" pos="V-" morph="1spia----i" rel="pred" book="1" chapter="15" bfolio="089r" bline="17" />
       <token form="и҅хъ" lemma="и" pos="Pp" morph="3p---mg--i" rel="obj" after="· " book="1" chapter="15" bfolio="089r" bline="17" />
       <token form="блаженааго" lemma="блаженъ" pos="A-" morph="-s---mgpwi" rel="atr" book="1" chapter="15" bfolio="089r" bline="17" />
@@ -39797,7 +39797,7 @@
     </line>
     <line n="24">
       <token form="третии" lemma="третии" pos="Mo" morph="-s---ma--i" rel="atr" book="1" chapter="15" bfolio="091v" bline="24" />
-      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="1" chapter="15" bfolio="091v" bline="24" stemtype="ambiguous" />
+      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="1" chapter="15" bfolio="091v" bline="24" />
       <token form="повелѣ" lemma="повелѣти" pos="V-" morph="3saia----i" rel="pred" book="1" chapter="15" bfolio="091v" bline="24" />
       <token form="привести" lemma="привести" pos="V-" morph="--pna----i" rel="xobj" book="1" chapter="15" bfolio="091v" bline="24" />
       <token form="ꙗ" lemma="и" pos="Pp" morph="3d---ma--i" rel="obj" book="1" chapter="15" bfolio="091v" bline="24" />
@@ -40043,7 +40043,7 @@
     </line>
     <line n="29">
       <token form="три" lemma="триѥ" pos="Ma" morph="-p---ma--i" rel="atr" book="1" chapter="15" bfolio="092r" bline="29" />
-      <token form="дьни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="adv" stem="n stem" after="· " book="1" chapter="15" bfolio="092r" bline="29" stemtype="ambiguous" />
+      <token form="дьни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="adv" stem="n stem" after="· " book="1" chapter="15" bfolio="092r" bline="29" />
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="adv" book="1" chapter="15" bfolio="092r" bline="29" />
       <token form="три" lemma="триѥ" pos="Ma" morph="-p---fa--i" rel="atr" book="1" chapter="15" bfolio="092r" bline="29" />
       <token form="ношти" lemma="нощь" pos="Nb" morph="-p---fa--i" rel="adv" stem="i stem fem" after="· " book="1" chapter="15" bfolio="092r" bline="29" stemtype="etymological" />
@@ -40052,7 +40052,7 @@
     </line>
     <line n="30">
       <token form="же" lemma="же" pos="Df" morph="---------n" rel="aux" book="1" chapter="15" bfolio="092r" bline="30" />
-      <token form="дьнь" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" after="· " book="1" chapter="15" bfolio="092r" bline="30" stemtype="ambiguous" />
+      <token form="дьнь" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" after="· " book="1" chapter="15" bfolio="092r" bline="30" />
       <token form="посъла" lemma="посълати" pos="V-" morph="3saia----i" rel="pred" book="1" chapter="15" bfolio="092r" bline="30" />
       <token form="кнꙙꙁъ" lemma="кънѧѕь" pos="Nb" morph="-s---mn--i" rel="sub" stem="jo stem masc" stemtype="etymological" book="1" chapter="15" bfolio="092r" bline="30" />
       <token form="ноштиѭ҄" lemma="нощь" pos="Nb" morph="-s---fi--i" rel="adv" stem="i stem fem" after="· " book="1" chapter="15" bfolio="092r" bline="30" stemtype="etymological" />
@@ -40524,7 +40524,7 @@
     </line>
     <line n="15">
       <token form="въ" lemma="въ" pos="R-" morph="---------n" rel="adv" book="1" chapter="16" bfolio="093v" bline="15" />
-      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" book="1" chapter="16" bfolio="093v" bline="15" stemtype="ambiguous" />
+      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" book="1" chapter="16" bfolio="093v" bline="15" />
       <token form="бо" lemma="бо" pos="Df" morph="---------n" rel="aux" book="1" chapter="16" bfolio="093v" bline="15" />
       <token form="прѣдъреченаа҅го" lemma="прѣдъреченъ" pos="A-" morph="-s---mgpwi" rel="atr" book="1" chapter="16" bfolio="093v" bline="15" />
     </line>
@@ -42571,7 +42571,7 @@
       <token form="сь҆" lemma="съ" pos="R-" morph="---------n" rel="obl" book="1" chapter="16" bfolio="098v" bline="11" />
       <token form="н҄ими" lemma="и" pos="Pp" morph="3p---mi--i" rel="obl" after="· " book="1" chapter="16" bfolio="098v" bline="11" />
       <token form="нарече" lemma="нарещи" pos="V-" morph="3saia----i" rel="pred" book="1" chapter="16" bfolio="098v" bline="11" />
-      <token form="дьнь" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obj" stem="n stem" book="1" chapter="16" bfolio="098v" bline="11" stemtype="ambiguous" />
+      <token form="дьнь" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obj" stem="n stem" book="1" chapter="16" bfolio="098v" bline="11" />
       <token form="вь" lemma="въ" pos="R-" morph="---------n" rel="adv" book="1" chapter="16" bfolio="098v" bline="11" />
       <token form="н҄ьже" lemma="иже" pos="Pr" morph="-s---ma--i" rel="obl" book="1" chapter="16" bfolio="098v" bline="11" />
     </line>
@@ -42834,7 +42834,7 @@
     <line n="17">
       <token form="солоунъска" lemma="солоуньскъ" pos="A-" morph="-s---mgpsi" rel="atr" book="1" chapter="16" bfolio="099r" bline="17" />
       <token form="града" lemma="градъ" pos="Nb" morph="-s---mg--i" rel="atr" stem="o stem masc" stemtype="etymological" book="1" chapter="16" bfolio="099r" bline="17" />
-      <token form="и҅менемь" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="1" chapter="16" bfolio="099r" bline="17" stemtype="ambiguous" />
+      <token form="и҅менемь" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="1" chapter="16" bfolio="099r" bline="17" stemtype="analogical" />
       <token form="а҅холиа" lemma="ахолии" pos="Ne" morph="-s---mg--i" rel="apos" stem="ja stem masc" after="· " book="1" chapter="16" bfolio="099r" bline="17" />
     </line>
     <line n="18">
@@ -43284,7 +43284,7 @@
       <token form="ꙗ҅ко" lemma="ꙗко" pos="G-" morph="---------n" rel="comp" book="1" chapter="16" bfolio="100r" bline="23" />
       <token form="о҅тъ" lemma="отъ" pos="R-" morph="---------n" rel="adv" book="1" chapter="16" bfolio="100r" bline="23" />
       <token form="дьн҄ешь҆нꙗ҅аго" lemma="дьньшьнь" pos="A-" morph="-s---mgpwi" rel="atr" book="1" chapter="16" bfolio="100r" bline="23" />
-      <token form="дь҆не" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="obl" stem="n stem" book="1" chapter="16" bfolio="100r" bline="23" stemtype="etymological" />
+      <token form="дь҆не" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="obl" stem="n stem" book="1" chapter="16" bfolio="100r" bline="23" />
     </line>
     <line n="24">
       <token form="а҅ште" lemma="аще" pos="G-" morph="---------n" rel="apos" book="1" chapter="16" bfolio="100r" bline="24" />
@@ -43464,7 +43464,7 @@
       <token form="ꙗ҅ко" lemma="ꙗко" pos="G-" morph="---------n" rel="comp" book="1" chapter="16" bfolio="100v" bline="20" />
       <token form="о҅тъ" lemma="отъ" pos="R-" morph="---------n" rel="adv" book="1" chapter="16" bfolio="100v" bline="20" />
       <token form="дь҆нешь҆нꙗаго" lemma="дьньшьнь" pos="A-" morph="-s---mgpwi" rel="atr" book="1" chapter="16" bfolio="100v" bline="20" />
-      <token form="дьне" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="obl" stem="n stem" book="1" chapter="16" bfolio="100v" bline="20" stemtype="etymological" />
+      <token form="дьне" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="obl" stem="n stem" book="1" chapter="16" bfolio="100v" bline="20" />
       <token form="повелѣно" lemma="повелѣти" pos="V-" morph="-suppnn-si" rel="xobj" book="1" chapter="16" bfolio="100v" bline="20" />
     </line>
     <line n="21">
@@ -44536,7 +44536,7 @@
       <token form="вь҆сꙙ" lemma="вьсь" pos="Px" morph="-p---ma--i" rel="atr" book="1" chapter="16" bfolio="103r" bline="28" />
     </line>
     <line n="29">
-      <token form="дьни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" after="· " book="1" chapter="16" bfolio="103r" bline="29" stemtype="ambiguous" />
+      <token form="дьни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" after="· " book="1" chapter="16" bfolio="103r" bline="29" />
       <token form="въꙁграждаѥ҅ми" lemma="възграждати" pos="V-" morph="-ppppmn-si" rel="xadv" book="1" chapter="16" bfolio="103r" bline="29" />
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="xadv" book="1" chapter="16" bfolio="103r" bline="29" />
       <token form="о̑утврьждаѥ҅ми" bform="о҄утврьждаѥ҅ми" lemma="оутврьждати" pos="V-" morph="-ppppmn-si" rel="xadv" book="1" chapter="16" bfolio="103r" bline="29" />
@@ -46341,7 +46341,7 @@
       <token form="же" lemma="же" pos="Df" morph="---------n" rel="aux" book="1" chapter="18" bfolio="107v" bline="23" />
       <token form="на" lemma="на" pos="R-" morph="---------n" rel="obl" book="1" chapter="18" bfolio="107v" bline="23" />
       <token form="тврь҆дѣѥ҅мъ" lemma="тврьдъ" pos="A-" morph="-s---mlpwi" rel="atr" book="1" chapter="18" bfolio="107v" bline="23" />
-      <token form="камени" lemma="камꙑ" pos="Nb" morph="-s---ml--i" rel="obl" stem="n stem" book="1" chapter="18" bfolio="107v" bline="23" stemtype="ambiguous" />
+      <token form="камени" lemma="камꙑ" pos="Nb" morph="-s---ml--i" rel="obl" stem="n stem" book="1" chapter="18" bfolio="107v" bline="23" stemtype="analogical" />
       <token form="рѫгаахѫ" lemma="рѫгати" pos="V-" morph="3piia----i" rel="pred" book="1" chapter="18" bfolio="107v" bline="23" />
     </line>
     <line n="24">
@@ -46948,7 +46948,7 @@
       <token form="и҅" lemma="и" pos="Df" morph="---------n" rel="aux" book="1" chapter="18" bfolio="109r" bline="22" />
       <token form="до" lemma="до" pos="R-" morph="---------n" rel="adv" book="1" chapter="18" bfolio="109r" bline="22" />
       <token form="дь҆н҄ешь҆н҄ꙗго" lemma="дьньшьнь" pos="A-" morph="-s---mgpwi" rel="atr" book="1" chapter="18" bfolio="109r" bline="22" />
-      <token form="дьне" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="obl" stem="n stem" book="1" chapter="18" bfolio="109r" bline="22" stemtype="etymological" />
+      <token form="дьне" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="obl" stem="n stem" book="1" chapter="18" bfolio="109r" bline="22" />
       <token form="ѥ҅стъ" lemma="бꙑти" pos="V-" morph="3spia----i" rel="pred" after="· " book="1" chapter="18" bfolio="109r" bline="22" />
     </line>
     <line n="23">
@@ -47097,7 +47097,7 @@
       <token form="тоу" lemma="тоу" pos="Df" morph="---------n" rel="obl" book="1" chapter="18" bfolio="109v" bline="12" />
       <token form="до" lemma="до" pos="R-" morph="---------n" rel="adv" book="1" chapter="18" bfolio="109v" bline="12" />
       <token form="четьірь" lemma="четꙑрe" pos="Ma" morph="-p---mg--i" rel="atr" book="1" chapter="18" bfolio="109v" bline="12" />
-      <token form="дьнии" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="obl" stem="n stem" after="· " book="1" chapter="18" bfolio="109v" bline="12" stemtype="analogical" />
+      <token form="дьнии" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="obl" stem="n stem" after="· " book="1" chapter="18" bfolio="109v" bline="12" />
       <token form="и" lemma="и" pos="C-" morph="---------n" rel="adv" book="1" chapter="18" bfolio="109v" bline="12" />
       <token form="лежѧштоу" lemma="лежати" pos="V-" morph="-sppamd-si" rel="adv" book="1" chapter="18" bfolio="109v" bline="12" />
     </line>
@@ -49294,7 +49294,7 @@
       <token form="же" lemma="же" pos="Df" morph="---------n" rel="aux" book="1" chapter="19" bfolio="114v" bline="23" />
       <token form="нѣкто" lemma="нѣкъто" pos="Px" morph="-s---mn--i" rel="atr" book="1" chapter="19" bfolio="114v" bline="23" />
       <token form="жь҆рецъ" lemma="жьрьць" pos="Nb" morph="-s---mn--i" rel="sub" stem="jo stem masc" stemtype="etymological" book="1" chapter="19" bfolio="114v" bline="23" />
-      <token form="и҅менемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="1" chapter="19" bfolio="114v" bline="23" stemtype="ambiguous" />
+      <token form="и҅менемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="1" chapter="19" bfolio="114v" bline="23" stemtype="analogical" />
       <token form="виталии҆" lemma="виталии" pos="Ne" morph="-s---mn--i" rel="apos" stem="ja stem masc" after="· " book="1" chapter="19" bfolio="114v" bline="23" />
     </line>
     <line n="24">
@@ -50086,7 +50086,7 @@
       <token form="о҅" lemma="о" pos="R-" morph="---------n" rel="adv" book="1" chapter="19" bfolio="116v" bline="15" />
     </line>
     <line n="16">
-      <token form="сѣмени" lemma="сѣмѧ" pos="Nb" morph="-s---nl--i" rel="obl" stem="n stem" book="1" chapter="19" bfolio="116v" bline="16" stemtype="ambiguous" />
+      <token form="сѣмени" lemma="сѣмѧ" pos="Nb" morph="-s---nl--i" rel="obl" stem="n stem" book="1" chapter="19" bfolio="116v" bline="16" stemtype="analogical" />
       <token form="чꙙдъ" lemma="чѧдо" pos="Nb" morph="-p---ng--i" rel="obj" stem="o stem neutr" stemtype="etymological" book="1" chapter="19" bfolio="116v" bline="16" />
       <token form="славънааго" lemma="славьнъ" pos="A-" morph="-s---mgpwi" rel="atr" book="1" chapter="19" bfolio="116v" bline="16" />
       <token form="їа҅кова" lemma="иꙗковъ" pos="Ne" morph="-s---mg--i" rel="atr" stem="o stem masc" stemtype="etymological" after="· " book="1" chapter="19" bfolio="116v" bline="16" />
@@ -54155,7 +54155,7 @@
     <line n="27">
       <token form="въ" lemma="въ" pos="R-" morph="---------n" rel="adv" book="2" chapter="21" bfolio="007v" bline="27" />
       <token form="о҅гн҄ьнѣ" lemma="огньнъ" pos="A-" morph="-s---mlpsi" rel="atr" book="2" chapter="21" bfolio="007v" bline="27" />
-      <token form="пламени" lemma="пламꙑ" pos="Nb" morph="-s---ml--i" rel="obl" stem="n stem" after="· " book="2" chapter="21" bfolio="007v" bline="27" stemtype="ambiguous" />
+      <token form="пламени" lemma="пламꙑ" pos="Nb" morph="-s---ml--i" rel="obl" stem="n stem" after="· " book="2" chapter="21" bfolio="007v" bline="27" stemtype="analogical" />
       <token form="нъ" lemma="нъ" pos="C-" morph="---------n" rel="adv" book="2" chapter="21" bfolio="007v" bline="27" />
       <token form="въ" lemma="въ" pos="R-" morph="---------n" rel="adv" book="2" chapter="21" bfolio="007v" bline="27" />
       <token form="о҅браꙁѣ" lemma="образъ" pos="Nb" morph="-s---ml--i" rel="obl" stem="o stem masc" stemtype="etymological" book="2" chapter="21" bfolio="007v" bline="27" />
@@ -54553,7 +54553,7 @@
     </line>
     <line n="23">
       <token form="же" lemma="же" pos="Df" morph="---------n" rel="aux" book="2" chapter="22" bfolio="008v" bline="23" />
-      <token form="дь҆немь҆" lemma="дьнь" pos="Nb" morph="-p---md--i" rel="sub" stem="n stem" book="2" chapter="22" bfolio="008v" bline="23" stemtype="ambiguous" />
+      <token form="дь҆немь҆" lemma="дьнь" pos="Nb" morph="-p---md--i" rel="sub" stem="n stem" book="2" chapter="22" bfolio="008v" bline="23" />
       <token form="минѫвъшемъ" lemma="минѫти" pos="V-" morph="-pupamd-si" rel="adv" after="· " book="2" chapter="22" bfolio="008v" bline="23" />
       <token form="сѫштꙋ" lemma="бꙑти" pos="V-" morph="-sppamd-si" rel="adv" book="2" chapter="22" bfolio="008v" bline="23" />
     </line>
@@ -55154,7 +55154,7 @@
     <line n="13">
       <token form="и" lemma="и" pos="C-" morph="---------n" rel="xobj" book="2" chapter="23" bfolio="010r" bline="13" />
       <token form="їѡ̑на" bform="їѡ҄на" lemma="иона" pos="Ne" morph="-s---mn--i" rel="xobj" stem="a stem masc" book="2" chapter="23" bfolio="010r" bline="13" />
-      <token form="и҅менемь" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="adv" stem="n stem" book="2" chapter="23" bfolio="010r" bline="13" stemtype="ambiguous" />
+      <token form="и҅менемь" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="adv" stem="n stem" book="2" chapter="23" bfolio="010r" bline="13" stemtype="analogical" />
       <token form="нарицаѥ҅ма" lemma="нарицати" pos="V-" morph="-dpppmn-si" rel="atr" after="· " book="2" chapter="23" bfolio="010r" bline="13" />
       <token form="мѫжа" lemma="мѫжь" pos="Nb" morph="-d---mn--i" rel="apos" stem="jo stem masc" stemtype="etymological" book="2" chapter="23" bfolio="010r" bline="13" />
       <token form="правь҆дива" lemma="правьдивъ" pos="A-" morph="-d---mnpsi" rel="atr" after="· " book="2" chapter="23" bfolio="010r" bline="13" />
@@ -56363,7 +56363,7 @@
       <token form="бо" lemma="бо" pos="Df" morph="---------n" rel="aux" book="2" chapter="23" bfolio="012v" bline="23" />
       <token form="по" lemma="по" pos="R-" morph="---------n" rel="adv" book="2" chapter="23" bfolio="012v" bline="23" />
       <token form="вь҆сꙙ" lemma="вьсь" pos="Px" morph="-p---ma--i" rel="atr" book="2" chapter="23" bfolio="012v" bline="23" />
-      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" book="2" chapter="23" bfolio="012v" bline="23" stemtype="ambiguous" />
+      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" book="2" chapter="23" bfolio="012v" bline="23" />
     </line>
     <line n="24">
       <token form="о҅жидаѭ̑" bform="о҅жидаѭ҄" lemma="ожидати" pos="V-" morph="1spia----i" rel="pred" after="· " book="2" chapter="23" bfolio="012v" bline="24" />
@@ -58770,7 +58770,7 @@
       <token form="доброговѣи҅нъ" lemma="доброговѣинъ" pos="A-" morph="-s---mnpsi" rel="atr" after="· " book="3" chapter="23" bfolio="001v" bline="22" />
     </line>
     <line n="23">
-      <token form="и҅менемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="3" chapter="23" bfolio="001v" bline="23" stemtype="ambiguous" />
+      <token form="и҅менемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="3" chapter="23" bfolio="001v" bline="23" stemtype="analogical" />
       <token form="а҅удисотъ" lemma="аѵдисотъ" pos="Ne" morph="-s---mn--i" rel="apos" stem="o stem masc" stemtype="ambiguous" after="· " book="3" chapter="23" bfolio="001v" bline="23" />
       <token form="ꙗ҅ко" lemma="ꙗко" pos="G-" morph="---------n" rel="comp" book="3" chapter="23" bfolio="001v" bline="23" />
       <token form="съконьчаста" lemma="съконьчати" pos="V-" morph="3daia----i" rel="pred" book="3" chapter="23" bfolio="001v" bline="23" />
@@ -58968,7 +58968,7 @@
       <token form="ст꙯ꙑи҅хъ" lemma="свѧтъ" pos="A-" morph="-p---mgpwi" rel="atr" after="· " book="3" chapter="23" bfolio="002r" bline="20" />
       <token form="и҅саи҅ꙗ" lemma="исаиꙗ" pos="Ne" morph="-s---mn--i" rel="apos" stem="ja stem masc" book="3" chapter="23" bfolio="002r" bline="20" />
       <token form="нѣкꙿто" lemma="нѣкъто" pos="Px" morph="-s---mn--i" rel="sub" book="3" chapter="23" bfolio="002r" bline="20" />
-      <token form="и҅менемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" after="· " book="3" chapter="23" bfolio="002r" bline="20" stemtype="ambiguous" />
+      <token form="и҅менемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" after="· " book="3" chapter="23" bfolio="002r" bline="20" stemtype="analogical" />
     </line>
     <line n="21">
       <token form="сꙑнъ" lemma="сꙑнъ#1" pos="Nb" morph="-s---mn--i" rel="apos" stem="ŭ stem" stemtype="ambiguous" book="3" chapter="23" bfolio="002r" bline="21" />
@@ -59772,7 +59772,7 @@
       <token form="ѥ҅дноѭ̑" bform="ѥ҅дноѭ҄" lemma="ѥдиноѭ" pos="Df" morph="---------n" rel="adv" book="3" chapter="24" bfolio="004r" bline="10" />
       <token form="о̑убо" bform="о҄убо" lemma="оубо" pos="Df" morph="---------n" rel="aux" book="3" chapter="24" bfolio="004r" bline="10" />
       <token form="о҅тъ" lemma="отъ" pos="R-" morph="---------n" rel="part" book="3" chapter="24" bfolio="004r" bline="10" />
-      <token form="дьниї" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="obl" stem="n stem" after="· " book="3" chapter="24" bfolio="004r" bline="10" stemtype="analogical" />
+      <token form="дьниї" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="obl" stem="n stem" after="· " book="3" chapter="24" bfolio="004r" bline="10" />
       <token form="повелѣ" lemma="повелѣти" pos="V-" morph="3saia----i" rel="pred" book="3" chapter="24" bfolio="004r" bline="10" />
       <token form="о҅тъць҆" lemma="отьць" pos="Nb" morph="-s---mn--i" rel="sub" stem="jo stem masc" stemtype="etymological" book="3" chapter="24" bfolio="004r" bline="10" />
     </line>
@@ -59998,7 +59998,7 @@
     </line>
     <line n="10">
       <token form="и҅саак҄ии" lemma="исаакии" pos="Ne" morph="-s---mn--i" rel="apos" stem="ja stem masc" book="3" chapter="24" bfolio="004v" bline="10" />
-      <token form="и҅менемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" after="· " book="3" chapter="24" bfolio="004v" bline="10" stemtype="ambiguous" />
+      <token form="и҅менемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" after="· " book="3" chapter="24" bfolio="004v" bline="10" stemtype="analogical" />
       <token form="тꙙжестиѭ̑" bform="тꙙжестиѭ҄" lemma="тѧжесть" pos="Nb" morph="-s---fi--i" rel="ag" stem="i stem fem" book="3" chapter="24" bfolio="004v" bline="10" stemtype="etymological" />
       <token form="пльтолюбивааго" lemma="плътолюбивъ" pos="A-" morph="-s---mgpwi" rel="atr" book="3" chapter="24" bfolio="004v" bline="10" />
     </line>
@@ -60229,7 +60229,7 @@
     </line>
     <line n="13">
       <token form="въꙁводимъ" lemma="възводити" pos="V-" morph="-supamn-si" rel="xadv" book="3" chapter="24" bfolio="005r" bline="13" />
-      <token form="степень҆ми" lemma="степень" pos="Nb" morph="-p---mi--i" rel="adv" stem="n stem" book="3" chapter="24" bfolio="005r" bline="13" stemtype="ambiguous" />
+      <token form="степень҆ми" lemma="степень" pos="Nb" morph="-p---mi--i" rel="adv" stem="n stem" book="3" chapter="24" bfolio="005r" bline="13" stemtype="etymological" />
       <token form="ꙁаконоположениѥ҆" lemma="законоположениѥ" pos="Nb" morph="-s---na--i" rel="obj" stem="jo stem neutr" stemtype="etymological" after="· " book="3" chapter="24" bfolio="005r" bline="13" />
     </line>
     <line n="14">
@@ -62594,7 +62594,7 @@
       <token form="вь҆" lemma="въ" pos="R-" morph="---------n" rel="adv" book="3" chapter="25" bfolio="010v" bline="09" />
     </line>
     <line n="10">
-      <token form="дьнь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="3" chapter="25" bfolio="010v" bline="10" stemtype="ambiguous" />
+      <token form="дьнь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="3" chapter="25" bfolio="010v" bline="10" />
       <token form="свꙙштениꙗ" lemma="свѧщениѥ" pos="Nb" morph="-s---ng--i" rel="atr" stem="jo stem neutr" stemtype="etymological" after="· " book="3" chapter="25" bfolio="010v" bline="10" />
       <token form="бꙑвъшааго" lemma="бꙑти" pos="V-" morph="-supang-wi" rel="atr" book="3" chapter="25" bfolio="010v" bline="10" />
       <token form="въ" lemma="въ" pos="R-" morph="---------n" rel="adv" book="3" chapter="25" bfolio="010v" bline="10" />
@@ -62826,7 +62826,7 @@
       <token form="въ" lemma="въ" pos="R-" morph="---------n" rel="adv" book="3" chapter="25" bfolio="011r" bline="13" />
       <token form="ѥ҅динъ" lemma="ѥдинъ" pos="Px" morph="-s---ma--i" rel="obl" book="3" chapter="25" bfolio="011r" bline="13" />
       <token form="о҅тъ" lemma="отъ" pos="R-" morph="---------n" rel="part" book="3" chapter="25" bfolio="011r" bline="13" />
-      <token form="дь҆нии҆" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="obl" stem="n stem" after="· " book="3" chapter="25" bfolio="011r" bline="13" stemtype="analogical" />
+      <token form="дь҆нии҆" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="obl" stem="n stem" after="· " book="3" chapter="25" bfolio="011r" bline="13" />
     </line>
     <line n="14">
       <token form="въ" lemma="въ" pos="R-" morph="---------n" rel="apos" book="3" chapter="25" bfolio="011r" bline="14" />
@@ -63277,7 +63277,7 @@
       <token form="въꙁврати" lemma="възвратити" pos="V-" morph="3saia----i" rel="pred" book="3" chapter="25" bfolio="012r" bline="13" />
       <token form="сꙙ" lemma="себе" pos="Pk" morph="3s---qa--i" rel="aux" book="3" chapter="25" bfolio="012r" bline="13" />
       <token form="третии" lemma="третии" pos="Mo" morph="-s---ma--i" rel="atr" book="3" chapter="25" bfolio="012r" bline="13" />
-      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="adv" stem="n stem" book="3" chapter="25" bfolio="012r" bline="13" stemtype="ambiguous" />
+      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="adv" stem="n stem" book="3" chapter="25" bfolio="012r" bline="13" />
     </line>
     <line n="14">
       <token form="гладъмъ" lemma="гладъ" pos="Nb" morph="-s---mi--i" rel="adv" stem="o stem masc" stemtype="analogical" book="3" chapter="25" bfolio="012r" bline="14" />
@@ -63602,7 +63602,7 @@
       <token form="о̑убо" bform="о҄убо" lemma="оубо" pos="Df" morph="---------n" rel="aux" book="3" chapter="25" bfolio="012v" bline="28" />
       <token form="ношть҆" lemma="нощь" pos="Nb" morph="-s---fa--i" rel="adv" stem="i stem fem" book="3" chapter="25" bfolio="012v" bline="28" stemtype="etymological" />
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="adv" book="3" chapter="25" bfolio="012v" bline="28" />
-      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="adv" stem="n stem" book="3" chapter="25" bfolio="012v" bline="28" stemtype="ambiguous" />
+      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="adv" stem="n stem" book="3" chapter="25" bfolio="012v" bline="28" />
       <token form="вь҆слѣдоуѭ̑шта" bform="вь҆слѣдоуѭ҄шта" lemma="въслѣдовати" pos="V-" morph="-sppamg-si" rel="xobj" book="3" chapter="25" bfolio="012v" bline="28" />
     </line>
     <line n="29">
@@ -63999,7 +63999,7 @@
       <token form="о̑у" bform="о҄у" lemma="оу" pos="R-" morph="---------n" rel="xobj" book="3" chapter="25" bfolio="013v" bline="23" />
       <token form="н҄его" lemma="и" pos="Pp" morph="3s---mg--i" rel="obl" book="3" chapter="25" bfolio="013v" bline="23" />
       <token form="дьва" lemma="дъва" pos="Ma" morph="-d---ma--i" rel="atr" book="3" chapter="25" bfolio="013v" bline="23" />
-      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-d---ma--i" rel="adv" stem="n stem" after="· " book="3" chapter="25" bfolio="013v" bline="23" stemtype="ambiguous" />
+      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-d---ma--i" rel="adv" stem="n stem" after="· " book="3" chapter="25" bfolio="013v" bline="23" />
     </line>
     <line n="24">
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="aux" book="3" chapter="25" bfolio="013v" bline="24" />
@@ -64751,7 +64751,7 @@
     <line n="28">
       <token form="василина" lemma="василина" pos="Ne" morph="-s---fn--i" rel="apos" stem="a stem fem" book="3" chapter="25" bfolio="015r" bline="28" />
       <token form="же" lemma="же" pos="Df" morph="---------n" rel="aux" book="3" chapter="25" bfolio="015r" bline="28" />
-      <token form="и҅менемь" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" after="· " book="3" chapter="25" bfolio="015r" bline="28" stemtype="ambiguous" />
+      <token form="и҅менемь" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" after="· " book="3" chapter="25" bfolio="015r" bline="28" stemtype="analogical" />
       <token form="диꙗ҅кониса" lemma="диꙗкониса" pos="Nb" morph="-s---fn--i" rel="xobj" stem="a stem fem" book="3" chapter="25" bfolio="015r" bline="28" />
       <token form="сѫшти" lemma="бꙑти" pos="V-" morph="-sppafn-si" rel="atr" book="3" chapter="25" bfolio="015r" bline="28" />
     </line>
@@ -65562,7 +65562,7 @@
     <line n="10">
       <token form="и҅" lemma="и" pos="Df" morph="---------n" rel="aux" book="3" chapter="25" bfolio="017r" bline="10" />
       <token form="много" lemma="мъногъ" pos="A-" morph="-s---napsi" rel="adv" book="3" chapter="25" bfolio="017r" bline="10" />
-      <token form="дь҆нии҆" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="part" stem="n stem" book="3" chapter="25" bfolio="017r" bline="10" stemtype="analogical" />
+      <token form="дь҆нии҆" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="part" stem="n stem" book="3" chapter="25" bfolio="017r" bline="10" />
       <token form="и҅скоусъ" lemma="искоусъ" pos="Nb" morph="-s---ma--i" rel="obj" stem="o stem masc" stemtype="ambiguous" book="3" chapter="25" bfolio="017r" bline="10" />
       <token form="и҅мѫште" lemma="имѣти" pos="V-" morph="-pppamn-si" rel="xadv" book="3" chapter="25" bfolio="017r" bline="10" />
       <token form="лаврꙑ" lemma="лавра" pos="Nb" morph="-s---fg--i" rel="atr" stem="a stem fem" book="3" chapter="25" bfolio="017r" bline="10" />
@@ -68505,7 +68505,7 @@
     </line>
     <line n="20">
       <token form="дъва" lemma="дъва" pos="Ma" morph="-d---ma--i" rel="atr" book="3" chapter="27" bfolio="023r" bline="20" />
-      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-d---ma--i" rel="adv" stem="n stem" after="· " book="3" chapter="27" bfolio="023r" bline="20" stemtype="ambiguous" />
+      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-d---ma--i" rel="adv" stem="n stem" after="· " book="3" chapter="27" bfolio="023r" bline="20" />
       <token form="каꙗ҅" lemma="кꙑи" pos="Pi" morph="-s---fn--i" rel="atr" book="3" chapter="27" bfolio="023r" bline="20" />
       <token form="же" lemma="же" pos="Df" morph="---------n" rel="aux" book="3" chapter="27" bfolio="023r" bline="20" />
       <token form="бѣ" lemma="бꙑти" pos="V-" morph="3siia----i" rel="pred" book="3" chapter="27" bfolio="023r" bline="20" />
@@ -76010,7 +76010,7 @@
       <token form="послѣдь҆н҄ꙙѧ" lemma="послѣдьнии" pos="A-" morph="-p---mapwi" rel="atr" book="3" chapter="30" bfolio="040r" bline="14" />
     </line>
     <line n="15">
-      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" book="3" chapter="30" bfolio="040r" bline="15" stemtype="ambiguous" />
+      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" book="3" chapter="30" bfolio="040r" bline="15" />
       <token form="о҅бѣшта" lemma="обѣщати" pos="V-" morph="3saia----i" rel="pred" after="· " book="3" chapter="30" bfolio="040r" bline="15" />
       <token form="ѥ҅же" lemma="иже" pos="Pr" morph="-s---nn--i" rel="sub" book="3" chapter="30" bfolio="040r" bline="15" />
       <token form="глагол҄етъ" lemma="глаголати" pos="V-" morph="3spia----i" rel="sub" after="· " book="3" chapter="30" bfolio="040r" bline="15" />
@@ -78334,7 +78334,7 @@
       <token form="о҄уреченъи҆" lemma="оурещи" pos="V-" morph="-suppma-wi" rel="atr" book="3" chapter="31" bfolio="045r" bline="20" />
     </line>
     <line n="21">
-      <token form="дьнь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="3" chapter="31" bfolio="045r" bline="21" stemtype="ambiguous" />
+      <token form="дьнь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="3" chapter="31" bfolio="045r" bline="21" />
       <token form="раꙁоумѣваи҆" lemma="разоумѣвати" pos="V-" morph="2spma----i" rel="pred" after="· " book="3" chapter="31" bfolio="045r" bline="21" />
       <token form="нъ" lemma="нъ" pos="C-" morph="---------n" rel="pred" book="3" chapter="31" bfolio="045r" bline="21" />
       <token form="въи҅нѫ" lemma="вꙑинѫ" pos="Df" morph="---------n" rel="adv" book="3" chapter="31" bfolio="045r" bline="21" />
@@ -78367,7 +78367,7 @@
     <line n="25">
       <token form="вь҆" lemma="въ" pos="R-" morph="---------n" rel="adv" book="3" chapter="31" bfolio="045r" bline="25" />
       <token form="н҄ьже" lemma="иже" pos="Pr" morph="-s---ma--i" rel="atr" book="3" chapter="31" bfolio="045r" bline="25" />
-      <token form="дь҆нь" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="3" chapter="31" bfolio="045r" bline="25" stemtype="ambiguous" />
+      <token form="дь҆нь" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="3" chapter="31" bfolio="045r" bline="25" />
       <token form="слꙑшите" lemma="слꙑшати" pos="V-" morph="2ppia----i" rel="adv" book="3" chapter="31" bfolio="045r" bline="25" />
       <token form="господь" lemma="господь" pos="Nb" morph="-s---ma--i" rel="obj" stem="i stem masc" book="3" chapter="31" bfolio="045r" bline="25" stemtype="ambiguous" />
       <token form="глагол҄ѫштъ" lemma="глаголати" pos="V-" morph="-sppama-si" rel="xobj" after="· " book="3" chapter="31" bfolio="045r" bline="25" />
@@ -78532,7 +78532,7 @@
       <token form="а҅ште" lemma="аще" pos="G-" morph="---------n" rel="adv" book="3" chapter="31" bfolio="045v" bline="16" />
       <token form="и҅" lemma="и" pos="Df" morph="---------n" rel="aux" book="3" chapter="31" bfolio="045v" bline="16" />
       <token form="ѥ҅динъ" lemma="ѥдинъ" pos="Ma" morph="-s---ma--i" rel="atr" book="3" chapter="31" bfolio="045v" bline="16" />
-      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="adv" stem="n stem" book="3" chapter="31" bfolio="045v" bline="16" stemtype="ambiguous" />
+      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="adv" stem="n stem" book="3" chapter="31" bfolio="045v" bline="16" />
       <token form="поживетъ" lemma="пожити" pos="V-" morph="3spia----i" rel="pred" book="3" chapter="31" bfolio="045v" bline="16" />
       <token form="на" lemma="на" pos="R-" morph="---------n" rel="obl" book="3" chapter="31" bfolio="045v" bline="16" />
       <token form="ꙁеми" lemma="землꙗ" pos="Nb" morph="-s---fl--i" rel="obl" stem="ja stem fem" after="· " book="3" chapter="31" bfolio="045v" bline="16" />
@@ -80712,7 +80712,7 @@
     </line>
     <line n="21">
       <token form="о҅" lemma="о" pos="R-" morph="---------n" rel="obl" book="3" chapter="31" bfolio="050r" bline="21" />
-      <token form="брѣмене" lemma="брѣмѧ" pos="Nb" morph="-s---nl--i" rel="obl" stem="n stem" after="· " book="3" chapter="31" bfolio="050r" bline="21" stemtype="ambiguous" />
+      <token form="брѣмене" lemma="брѣмѧ" pos="Nb" morph="-s---nl--i" rel="obl" stem="n stem" after="· " book="3" chapter="31" bfolio="050r" bline="21" stemtype="analogical" />
       <token form="ни" lemma="ни" pos="C-" morph="---------n" rel="aux" book="3" chapter="31" bfolio="050r" bline="21" />
       <token form="приснаа҅го" lemma="приснъ" pos="A-" morph="-s---mgpwi" rel="atr" book="3" chapter="31" bfolio="050r" bline="21" />
       <token form="брата" lemma="братръ" pos="Nb" morph="-s---mg--i" rel="atr" stem="o stem masc" stemtype="etymological" book="3" chapter="31" bfolio="050r" bline="21" />
@@ -81140,7 +81140,7 @@
       <token form="ꙗ҅ко" lemma="ꙗко" pos="G-" morph="---------n" rel="adv" book="3" chapter="32" bfolio="051r" bline="14" />
       <token form="не" lemma="не" pos="Df" morph="---------n" rel="aux" book="3" chapter="32" bfolio="051r" bline="14" />
       <token form="вѣсте" lemma="вѣдѣти" pos="V-" morph="2ppia----i" rel="pred" book="3" chapter="32" bfolio="051r" bline="14" />
-      <token form="дь҆не" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="obj" stem="n stem" after="· " book="3" chapter="32" bfolio="051r" bline="14" stemtype="etymological" />
+      <token form="дь҆не" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="obj" stem="n stem" after="· " book="3" chapter="32" bfolio="051r" bline="14" />
     </line>
     <line n="15">
       <token form="таче" lemma="таче" pos="Df" morph="---------n" rel="adv" book="3" chapter="32" bfolio="051r" bline="15" />
@@ -84622,7 +84622,7 @@
       <token form="рече" lemma="рещи" pos="V-" morph="3saia----i" rel="pred" after="· " book="3" chapter="32" bfolio="058r" bline="21" />
     </line>
     <line n="22">
-      <token form="и҅менемь" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="adv" stem="n stem" book="3" chapter="32" bfolio="058r" bline="22" stemtype="ambiguous" />
+      <token form="и҅менемь" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="adv" stem="n stem" book="3" chapter="32" bfolio="058r" bline="22" stemtype="analogical" />
       <token form="твои҅мъ" lemma="твои" pos="Ps" morph="2s---ni--i" rel="atr" book="3" chapter="32" bfolio="058r" bline="22" />
       <token form="прорицахомъ" lemma="прорицати" pos="V-" morph="1piia----i" rel="pred" after="· " book="3" chapter="32" bfolio="058r" bline="22" />
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="aux" book="3" chapter="32" bfolio="058r" bline="22" />
@@ -84797,7 +84797,7 @@
       <token form="млѣко" lemma="млѣко" pos="Nb" morph="-s---na--i" rel="obj" stem="o stem neutr" stemtype="ambiguous" book="3" chapter="33" bfolio="058v" bline="14" />
       <token form="по" lemma="по" pos="R-" morph="---------n" rel="adv" book="3" chapter="33" bfolio="058v" bline="14" />
       <token form="вь҆сꙙ" lemma="вьсь" pos="Px" morph="-p---ma--i" rel="atr" book="3" chapter="33" bfolio="058v" bline="14" />
-      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" after="· " book="3" chapter="33" bfolio="058v" bline="14" stemtype="ambiguous" />
+      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" after="· " book="3" chapter="33" bfolio="058v" bline="14" />
       <token form="пишти" lemma="пища" pos="Nb" morph="-s---fg--i" rel="apos" stem="ja stem fem" book="3" chapter="33" bfolio="058v" bline="14" />
     </line>
     <line n="15">
@@ -85309,7 +85309,7 @@
     </line>
     <line n="16">
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="pred" book="3" chapter="33" bfolio="059v" bline="16" />
-      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obj" stem="n stem" book="3" chapter="33" bfolio="059v" bline="16" stemtype="ambiguous" />
+      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obj" stem="n stem" book="3" chapter="33" bfolio="059v" bline="16" />
       <token form="славь҆нъ" lemma="славьнъ" pos="A-" morph="-s---mapsi" rel="atr" book="3" chapter="33" bfolio="059v" bline="16" />
       <token form="творити" lemma="творити" pos="V-" morph="--pna----i" rel="pred" after="· " book="3" chapter="33" bfolio="059v" bline="16" />
       <token form="ꙗ҅ко" lemma="ꙗко" pos="G-" morph="---------n" rel="adv" book="3" chapter="33" bfolio="059v" bline="16" />
@@ -87642,7 +87642,7 @@
       <token form="и҅ꙁгоубити" lemma="изгоубити" pos="V-" morph="--pna----i" rel="xobj" after="· " book="3" chapter="35" bfolio="064v" bline="13" />
       <token form="ꙗ҅ко" lemma="ꙗко" pos="G-" morph="---------n" rel="comp" book="3" chapter="35" bfolio="064v" bline="13" />
       <token form="вь҆" lemma="въ" pos="R-" morph="---------n" rel="adv" book="3" chapter="35" bfolio="064v" bline="13" />
-      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="3" chapter="35" bfolio="064v" bline="13" stemtype="ambiguous" />
+      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="3" chapter="35" bfolio="064v" bline="13" />
     </line>
     <line n="14">
       <token form="сѫботънꙑи҆" lemma="сѫботьнъ" pos="A-" morph="-s---mapwi" rel="atr" book="3" chapter="35" bfolio="064v" bline="14" />
@@ -87657,7 +87657,7 @@
       <token form="рѫкѫ" lemma="рѫка" pos="Nb" morph="-s---fa--i" rel="obj" stem="a stem fem" book="3" chapter="35" bfolio="064v" bline="15" />
       <token form="вь҆" lemma="въ" pos="R-" morph="---------n" rel="adv" book="3" chapter="35" bfolio="064v" bline="15" />
       <token form="праꙁдь҆нъ" lemma="праздьнъ" pos="A-" morph="-s---mapsi" rel="atr" book="3" chapter="35" bfolio="064v" bline="15" />
-      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="3" chapter="35" bfolio="064v" bline="15" stemtype="ambiguous" />
+      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="3" chapter="35" bfolio="064v" bline="15" />
       <token form="на" lemma="на" pos="R-" morph="---------n" rel="obl" book="3" chapter="35" bfolio="064v" bline="15" />
       <token form="дѣло" lemma="дѣло" pos="Nb" morph="-s---na--i" rel="obl" stem="o stem neutr" stemtype="ambiguous" book="3" chapter="35" bfolio="064v" bline="15" />
       <token form="прость҆рѣ" lemma="прострѣти" pos="V-" morph="3saia----i" rel="pred" after="· " book="3" chapter="35" bfolio="064v" bline="15" />
@@ -90145,7 +90145,7 @@
       <token form="дѣл҄ьма" lemma="дѣльма" pos="R-" morph="---------n" rel="adv" book="3" chapter="36" bfolio="069v" bline="28" />
       <token form="четврь҆тъи҅" lemma="четврьтъ" pos="Mo" morph="-s---ma--i" rel="atr" book="3" chapter="36" bfolio="069v" bline="28" />
       <token form="се" lemma="сь" pos="Pd" morph="-s---na--i" rel="atr" book="3" chapter="36" bfolio="069v" bline="28" />
-      <token form="дьнꙿ" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obj" stem="n stem" book="3" chapter="36" bfolio="069v" bline="28" stemtype="ambiguous" />
+      <token form="дьнꙿ" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obj" stem="n stem" book="3" chapter="36" bfolio="069v" bline="28" />
     </line>
     <line n="29">
       <token form="и҅мамъ" lemma="имѣти" pos="V-" morph="1spia----i" rel="pred" book="3" chapter="36" bfolio="069v" bline="29" />
@@ -91616,7 +91616,7 @@
       <token form="бо" lemma="бо" pos="Df" morph="---------n" rel="aux" book="3" chapter="36" bfolio="072v" bline="19" />
       <token form="ѥ҅моу" lemma="и" pos="Pp" morph="3s---md--i" rel="obl" book="3" chapter="36" bfolio="072v" bline="19" />
       <token form="поминаа҅ше" lemma="поминати" pos="V-" morph="3siia----i" rel="pred" book="3" chapter="36" bfolio="072v" bline="19" />
-      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="adv" stem="n stem" book="3" chapter="36" bfolio="072v" bline="19" stemtype="ambiguous" />
+      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="adv" stem="n stem" book="3" chapter="36" bfolio="072v" bline="19" />
     </line>
     <line n="20">
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="aux" book="3" chapter="36" bfolio="072v" bline="20" />
@@ -91683,7 +91683,7 @@
       <token form="и҅" lemma="и" pos="Df" morph="---------n" rel="aux" book="3" chapter="36" bfolio="072v" bline="27" />
       <token form="о҅" lemma="о" pos="R-" morph="---------n" rel="atr" book="3" chapter="36" bfolio="072v" bline="27" />
       <token form="сѫдь҆нѣѣ҅мь҆" lemma="сѫдьнъ" pos="A-" morph="-s---mlpwi" rel="atr" book="3" chapter="36" bfolio="072v" bline="27" />
-      <token form="дьни" lemma="дьнь" pos="Nb" morph="-s---ml--i" rel="obl" stem="n stem" book="3" chapter="36" bfolio="072v" bline="27" stemtype="ambiguous" />
+      <token form="дьни" lemma="дьнь" pos="Nb" morph="-s---ml--i" rel="obl" stem="n stem" book="3" chapter="36" bfolio="072v" bline="27" stemtype="analogical" />
       <token form="съкаꙁова" lemma="съказовати" pos="V-" morph="3saia----i" rel="pred" book="3" chapter="36" bfolio="072v" bline="27" />
       <token form="словеса" lemma="слово" pos="Nb" morph="-p---na--i" rel="obj" stem="s stem" stemtype="etymological" after="· " book="3" chapter="36" bfolio="072v" bline="27" />
       <token form="многа" lemma="мъногъ" pos="A-" morph="-p---napsi" rel="obj" book="3" chapter="36" bfolio="072v" bline="27" />
@@ -93894,7 +93894,7 @@
     </line>
     <line n="25">
       <token form="ѥ҅днѣмъ҆" lemma="ѥдинъ" pos="Ma" morph="-s---mi--i" rel="atr" book="3" chapter="36" bfolio="077r" bline="25" />
-      <token form="дь҆немъ" lemma="дьнь" pos="Nb" morph="-s---mi--i" rel="adv" stem="n stem" book="3" chapter="36" bfolio="077r" bline="25" stemtype="ambiguous" />
+      <token form="дь҆немъ" lemma="дьнь" pos="Nb" morph="-s---mi--i" rel="adv" stem="n stem" book="3" chapter="36" bfolio="077r" bline="25" />
       <token form="семоу" lemma="сь" pos="Pd" morph="-s---nd--i" rel="adv" book="3" chapter="36" bfolio="077r" bline="25" />
       <token form="бꙑти" lemma="бꙑти" pos="V-" morph="--pna----i" rel="comp" after="· " book="3" chapter="36" bfolio="077r" bline="25" />
       <token form="како" lemma="како" pos="Du" morph="---------n" rel="adv" book="3" chapter="36" bfolio="077r" bline="25" />
@@ -94136,7 +94136,7 @@
       <token form="сѫдънъи҆" lemma="сѫдьнъ" pos="A-" morph="-s---mapwi" rel="atr" book="3" chapter="36" bfolio="077v" bline="22" />
     </line>
     <line n="23">
-      <token form="дьнь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" after="· " book="3" chapter="36" bfolio="077v" bline="23" stemtype="ambiguous" />
+      <token form="дьнь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" after="· " book="3" chapter="36" bfolio="077v" bline="23" />
       <token form="ничсоже" lemma="ничьтоже" pos="Px" morph="-s---ng--i" rel="arg" book="3" chapter="36" bfolio="077v" bline="23" />
       <token form="по" lemma="по" pos="R-" morph="---------n" rel="adv" book="3" chapter="36" bfolio="077v" bline="23" />
       <token form="сице" lemma="сице" pos="Df" morph="---------n" rel="adv" book="3" chapter="36" bfolio="077v" bline="23" />
@@ -95555,7 +95555,7 @@
       <token form="дрѣво" lemma="дрѣво" pos="Nb" morph="-s---nn--i" rel="sub" stem="o stem neutr" stemtype="ambiguous" book="3" chapter="38" bfolio="080v" bline="22" />
       <token form="въ" lemma="въ" pos="R-" morph="---------n" rel="atr" book="3" chapter="38" bfolio="080v" bline="22" />
       <token form="тъ" lemma="тъ" pos="Pd" morph="-s---ma--i" rel="atr" book="3" chapter="38" bfolio="080v" bline="22" />
-      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="3" chapter="38" bfolio="080v" bline="22" stemtype="ambiguous" />
+      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="3" chapter="38" bfolio="080v" bline="22" />
       <token form="дастъ" lemma="дати" pos="V-" morph="3saia----i" rel="pred" book="3" chapter="38" bfolio="080v" bline="22" />
       <token form="о̑успѣхъ" bform="о҄успѣхъ" lemma="оуспѣхъ" pos="Nb" morph="-s---ma--i" rel="obj" stem="o stem masc" stemtype="ambiguous" after="· " book="3" chapter="38" bfolio="080v" bline="22" />
       <token form="а҅ꙁъ" lemma="азъ" pos="Pp" morph="1s---mn--i" rel="sub" book="3" chapter="38" bfolio="080v" bline="22" />
@@ -95740,7 +95740,7 @@
     <line n="17">
       <token form="ѡ̑" bform="ѡ҄" lemma="ѡ" pos="I-" morph="---------n" rel="voc" book="3" chapter="38" bfolio="081r" bline="17" />
       <token form="многоо҅браꙁь҆наа҅го" lemma="мъногообразьнъ" pos="A-" morph="-s---mgpwi" rel="atr" book="3" chapter="38" bfolio="081r" bline="17" />
-      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="voc" stem="n stem" after="· " book="3" chapter="38" bfolio="081r" bline="17" stemtype="analogical" />
+      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="voc" stem="n stem" after="· " book="3" chapter="38" bfolio="081r" bline="17" />
       <token form="ѡ̑" bform="ѡ҄" lemma="ѡ" pos="I-" morph="---------n" rel="voc" book="3" chapter="38" bfolio="081r" bline="17" />
       <token form="многоплачь҆нааго" lemma="мъногоплачьнъ" pos="A-" morph="-s---mgpwi" rel="voc" book="3" chapter="38" bfolio="081r" bline="17" />
     </line>
@@ -96001,14 +96001,14 @@
     <line n="22">
       <token form="съпасъ" lemma="съпасъ" pos="Nb" morph="-s---ma--i" rel="obl" stem="o stem masc" stemtype="ambiguous" book="3" chapter="38" bfolio="081v" bline="22" />
       <token form="прѣложивъ" lemma="прѣложити" pos="V-" morph="-supamn-si" rel="xadv" after="· " book="3" chapter="38" bfolio="081v" bline="22" />
-      <token form="дьнь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obj" stem="n stem" book="3" chapter="38" bfolio="081v" bline="22" stemtype="ambiguous" />
+      <token form="дьнь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obj" stem="n stem" book="3" chapter="38" bfolio="081v" bline="22" />
       <token form="вь҆ꙁь҆мъ" lemma="възѧти" pos="V-" morph="-supamn-si" rel="pred" book="3" chapter="38" bfolio="081v" bline="22" />
       <token form="миръ" lemma="миръ#2" pos="Nb" morph="-s---ma--i" rel="obj" stem="ŭ stem" stemtype="ambiguous" book="3" chapter="38" bfolio="081v" bline="22" />
       <token form="о҅печаливꙑи҆" lemma="опечалити" pos="V-" morph="-supama-wi" rel="atr" after="· " book="3" chapter="38" bfolio="081v" bline="22" />
     </line>
     <line n="23">
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="pred" book="3" chapter="38" bfolio="081v" bline="23" />
-      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obj" stem="n stem" book="3" chapter="38" bfolio="081v" bline="23" stemtype="ambiguous" />
+      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obj" stem="n stem" book="3" chapter="38" bfolio="081v" bline="23" />
       <token form="о҅тъда" lemma="отъдати" pos="V-" morph="3saia----i" rel="pred" book="3" chapter="38" bfolio="081v" bline="23" />
       <token form="миръ" lemma="миръ#2" pos="Nb" morph="-s---ma--i" rel="obj" stem="ŭ stem" stemtype="ambiguous" book="3" chapter="38" bfolio="081v" bline="23" />
       <token form="вь҆ꙁвеселивъи҆" lemma="възвеселити" pos="V-" morph="-supama-wi" rel="atr" after="· " book="3" chapter="38" bfolio="081v" bline="23" />
@@ -96032,7 +96032,7 @@
     </line>
     <line n="26">
       <token form="о̑уставь҆ꙗ҅ѧ" bform="о҄уставь҆ꙗ҅ѧ" lemma="оуставлꙗти" pos="V-" morph="-sppamn-si" rel="xobj" book="3" chapter="38" bfolio="081v" bline="26" />
-      <token form="дь҆нь" lemma="дьнь" pos="Nb" morph="-s---mn--i" rel="sub" stem="n stem" book="3" chapter="38" bfolio="081v" bline="26" stemtype="analogical" />
+      <token form="дь҆нь" lemma="дьнь" pos="Nb" morph="-s---mn--i" rel="sub" stem="n stem" book="3" chapter="38" bfolio="081v" bline="26" stemtype="etymological" />
       <token form="крь҆стьнꙑи҆" lemma="крьстьнъ" pos="A-" morph="-s---mnpwi" rel="atr" after="· " book="3" chapter="38" bfolio="081v" bline="26" />
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="aux" book="3" chapter="38" bfolio="081v" bline="26" />
       <token form="вьси" lemma="вьсь" pos="Px" morph="-p---mn--i" rel="sub" book="3" chapter="38" bfolio="081v" bline="26" />
@@ -96197,7 +96197,7 @@
     </line>
     <line n="16">
       <token form="прѣтекѫтъ" lemma="прѣтещи" pos="V-" morph="3ppia----i" rel="pred" after="· " book="3" chapter="38" bfolio="082r" bline="16" />
-      <token form="дьни" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="atr" stem="n stem" book="3" chapter="38" bfolio="082r" bline="16" stemtype="analogical" />
+      <token form="дьни" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="atr" stem="n stem" book="3" chapter="38" bfolio="082r" bline="16" />
       <token form="сего" lemma="сь" pos="Pd" morph="-s---mg--i" rel="atr" book="3" chapter="38" bfolio="082r" bline="16" />
       <token form="чоудеса" lemma="чоудо" pos="Nb" morph="-p---nn--i" rel="sub" stem="s stem" stemtype="etymological" after="· " book="3" chapter="38" bfolio="082r" bline="16" />
       <token form="мѣсꙙчꙿно" lemma="мѣсѧчьнъ" pos="A-" morph="-s---nnpsi" rel="xobj" book="3" chapter="38" bfolio="082r" bline="16" />
@@ -97239,7 +97239,7 @@
     </line>
     <line n="29">
       <token form="чꙙсть҆" lemma="чѧсть" pos="Nb" morph="-s---fa--i" rel="obj" stem="i stem fem" book="3" chapter="38" bfolio="084r" bline="29" stemtype="etymological" />
-      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="part" stem="n stem" after="· " book="3" chapter="38" bfolio="084r" bline="29" stemtype="analogical" />
+      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="part" stem="n stem" after="· " book="3" chapter="38" bfolio="084r" bline="29" />
       <token form="вь҆сь҆" lemma="вьсь" pos="Px" morph="-s---mn--i" rel="sub" book="3" chapter="38" bfolio="084r" bline="29" />
       <token form="бо" lemma="бо" pos="Df" morph="---------n" rel="aux" book="3" chapter="38" bfolio="084r" bline="29" />
       <token form="ѥ҅стъ" lemma="бꙑти" pos="V-" morph="3spia----i" rel="pred" book="3" chapter="38" bfolio="084r" bline="29" />
@@ -97979,7 +97979,7 @@
       <token form="ꙗ҅ко" lemma="ꙗко" pos="G-" morph="---------n" rel="comp" book="3" chapter="38" bfolio="085v" bline="28" />
       <token form="по" lemma="по" pos="R-" morph="---------n" rel="adv" book="3" chapter="38" bfolio="085v" bline="28" />
       <token form="трехъ" lemma="триѥ" pos="Ma" morph="-p---ml--i" rel="atr" book="3" chapter="38" bfolio="085v" bline="28" />
-      <token form="дьнехъ" lemma="дьнь" pos="Nb" morph="-p---ml--i" rel="obl" stem="n stem" book="3" chapter="38" bfolio="085v" bline="28" stemtype="ambiguous" />
+      <token form="дьнехъ" lemma="дьнь" pos="Nb" morph="-p---ml--i" rel="obl" stem="n stem" book="3" chapter="38" bfolio="085v" bline="28" stemtype="analogical" />
       <token form="въстанѫ" lemma="въстати" pos="V-" morph="1spia----i" rel="pred" after="· " book="3" chapter="38" bfolio="085v" bline="28" />
       <token form="ꙁѣло" lemma="ѕѣло" pos="Df" morph="---------n" rel="adv" book="3" chapter="38" bfolio="085v" bline="28" />
       <token form="ли" lemma="ли" pos="Du" morph="---------n" rel="aux" book="3" chapter="38" bfolio="085v" bline="28" />
@@ -98153,7 +98153,7 @@
       <token form="ꙗ҅ко" lemma="ꙗко" pos="G-" morph="---------n" rel="comp" book="3" chapter="39" bfolio="086r" bline="19" />
       <token form="по" lemma="по" pos="R-" morph="---------n" rel="adv" book="3" chapter="39" bfolio="086r" bline="19" />
       <token form="трь҆хъ" lemma="триѥ" pos="Ma" morph="-p---ml--i" rel="atr" book="3" chapter="39" bfolio="086r" bline="19" />
-      <token form="дь҆нехъ" lemma="дьнь" pos="Nb" morph="-p---ml--i" rel="obl" stem="n stem" book="3" chapter="39" bfolio="086r" bline="19" stemtype="ambiguous" />
+      <token form="дь҆нехъ" lemma="дьнь" pos="Nb" morph="-p---ml--i" rel="obl" stem="n stem" book="3" chapter="39" bfolio="086r" bline="19" stemtype="analogical" />
     </line>
     <line n="20">
       <token form="вь҆станѫ" lemma="въстати" pos="V-" morph="1spia----i" rel="pred" after="· " book="3" chapter="39" bfolio="086r" bline="20" />
@@ -98165,7 +98165,7 @@
       <token form="третиꙗ҅го" lemma="третии" pos="Mo" morph="-s---mg--i" rel="atr" book="3" chapter="39" bfolio="086r" bline="20" />
     </line>
     <line n="21">
-      <token form="дь҆не" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="obl" stem="n stem" after="· " book="3" chapter="39" bfolio="086r" bline="21" stemtype="etymological" />
+      <token form="дь҆не" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="obl" stem="n stem" after="· " book="3" chapter="39" bfolio="086r" bline="21" />
       <token form="ѥ҅да" lemma="еда" pos="G-" morph="---------n" rel="adv" book="3" chapter="39" bfolio="086r" bline="21" />
       <token form="како" lemma="како" pos="Df" morph="---------n" rel="adv" book="3" chapter="39" bfolio="086r" bline="21" />
       <token form="пришъдъше" lemma="прити" pos="V-" morph="-pupamn-si" rel="xadv" book="3" chapter="39" bfolio="086r" bline="21" />
@@ -98422,7 +98422,7 @@
     </line>
     <line n="20">
       <token form="трехъ" lemma="триѥ" pos="Ma" morph="-p---ml--i" rel="atr" book="3" chapter="39" bfolio="086v" bline="20" />
-      <token form="дь҆нехъ" lemma="дьнь" pos="Nb" morph="-p---ml--i" rel="obl" stem="n stem" book="3" chapter="39" bfolio="086v" bline="20" stemtype="ambiguous" />
+      <token form="дь҆нехъ" lemma="дьнь" pos="Nb" morph="-p---ml--i" rel="obl" stem="n stem" book="3" chapter="39" bfolio="086v" bline="20" stemtype="analogical" />
       <token form="въстанѫ" lemma="въстати" pos="V-" morph="1spia----i" rel="pred" after="· " book="3" chapter="39" bfolio="086v" bline="20" />
       <token form="не" lemma="не" pos="Df" morph="---------n" rel="aux" book="3" chapter="39" bfolio="086v" bline="20" />
       <token form="бо" lemma="бо" pos="Df" morph="---------n" rel="aux" book="3" chapter="39" bfolio="086v" bline="20" />
@@ -98752,7 +98752,7 @@
       <token form="трь҆хъ" lemma="триѥ" pos="Ma" morph="-p---ml--i" rel="atr" book="3" chapter="39" bfolio="087r" bline="28" />
     </line>
     <line n="29">
-      <token form="дь҆нехъ" lemma="дьнь" pos="Nb" morph="-p---ml--i" rel="obl" stem="n stem" book="3" chapter="39" bfolio="087r" bline="29" stemtype="ambiguous" />
+      <token form="дь҆нехъ" lemma="дьнь" pos="Nb" morph="-p---ml--i" rel="obl" stem="n stem" book="3" chapter="39" bfolio="087r" bline="29" stemtype="analogical" />
       <token form="въстанѫ" lemma="въстати" pos="V-" morph="1spia----i" rel="pred" after="· " book="3" chapter="39" bfolio="087r" bline="29" />
       <token form="да" lemma="да" pos="C-" morph="---------n" rel="aux" book="3" chapter="39" bfolio="087r" bline="29" />
       <token form="а҅ште" lemma="аще" pos="G-" morph="---------n" rel="adv" book="3" chapter="39" bfolio="087r" bline="29" />
@@ -99021,7 +99021,7 @@
       <token form="вь҆сꙙ" lemma="вьсь" pos="Px" morph="-p---ma--i" rel="atr" book="3" chapter="39" bfolio="087v" bline="29" />
     </line>
     <line n="30">
-      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" book="3" chapter="39" bfolio="087v" bline="30" stemtype="ambiguous" />
+      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" book="3" chapter="39" bfolio="087v" bline="30" />
       <token form="сьмрьти" lemma="съмрьть" pos="Nb" morph="-p---fn--i" rel="sub" stem="i stem fem" after="· " book="3" chapter="39" bfolio="087v" bline="30" stemtype="etymological" />
       <token form="а҅ште" lemma="аще" pos="G-" morph="---------n" rel="adv" book="3" chapter="39" bfolio="087v" bline="30" />
       <token form="да" lemma="да" pos="Df" morph="---------n" rel="aux" book="3" chapter="39" bfolio="087v" bline="30" />
@@ -99104,7 +99104,7 @@
     </line>
     <line n="10">
       <token form="трехъ" lemma="триѥ" pos="Ma" morph="-p---ml--i" rel="atr" book="3" chapter="39" bfolio="088r" bline="10" />
-      <token form="дь҆нехъ" lemma="дьнь" pos="Nb" morph="-p---ml--i" rel="obl" stem="n stem" book="3" chapter="39" bfolio="088r" bline="10" stemtype="ambiguous" />
+      <token form="дь҆нехъ" lemma="дьнь" pos="Nb" morph="-p---ml--i" rel="obl" stem="n stem" book="3" chapter="39" bfolio="088r" bline="10" stemtype="analogical" />
       <token form="въстанѫ" lemma="въстати" pos="V-" morph="1spia----i" rel="pred" after="· " book="3" chapter="39" bfolio="088r" bline="10" />
       <token form="да" lemma="да" pos="C-" morph="---------n" rel="aux" book="3" chapter="39" bfolio="088r" bline="10" />
       <token form="а҅ште" lemma="аще" pos="G-" morph="---------n" rel="adv" book="3" chapter="39" bfolio="088r" bline="10" />
@@ -99170,7 +99170,7 @@
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="aux" book="3" chapter="39" bfolio="088r" bline="17" />
       <token form="до" lemma="до" pos="R-" morph="---------n" rel="adv" book="3" chapter="39" bfolio="088r" bline="17" />
       <token form="третиꙗ҅го" lemma="третии" pos="Mo" morph="-s---mg--i" rel="atr" book="3" chapter="39" bfolio="088r" bline="17" />
-      <token form="дь҆не" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="obl" stem="n stem" book="3" chapter="39" bfolio="088r" bline="17" stemtype="etymological" />
+      <token form="дь҆не" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="obl" stem="n stem" book="3" chapter="39" bfolio="088r" bline="17" />
       <token form="повелѣшꙙ" lemma="повелѣти" pos="V-" morph="3paia----i" rel="pred" book="3" chapter="39" bfolio="088r" bline="17" />
     </line>
     <line n="18">
@@ -99251,7 +99251,7 @@
       <token form="трь҆хъ" lemma="триѥ" pos="Ma" morph="-p---ml--i" rel="atr" book="3" chapter="39" bfolio="088r" bline="26" />
     </line>
     <line n="27">
-      <token form="дьнехъ" lemma="дьнь" pos="Nb" morph="-p---ml--i" rel="obl" stem="n stem" after="· " book="3" chapter="39" bfolio="088r" bline="27" stemtype="ambiguous" />
+      <token form="дьнехъ" lemma="дьнь" pos="Nb" morph="-p---ml--i" rel="obl" stem="n stem" after="· " book="3" chapter="39" bfolio="088r" bline="27" stemtype="analogical" />
       <token form="и҅мѣли" lemma="имѣти" pos="V-" morph="-pspamn-si" rel="pred" book="3" chapter="39" bfolio="088r" bline="27" />
       <token form="бꙑшꙙ" lemma="бꙑти" pos="V-" morph="3paia----i" rel="aux" book="3" chapter="39" bfolio="088r" bline="27" />
       <token form="что" lemma="чьто" pos="Px" morph="-s---na--i" rel="obj" book="3" chapter="39" bfolio="088r" bline="27" />
@@ -100009,7 +100009,7 @@
       <token form="и҅" lemma="и" pos="Df" morph="---------n" rel="aux" book="3" chapter="39" bfolio="089v" bline="24" />
       <token form="въ" lemma="въ" pos="R-" morph="---------n" rel="adv" book="3" chapter="39" bfolio="089v" bline="24" />
       <token form="и҅нъ" lemma="инъ" pos="Px" morph="-s---ma--i" rel="atr" book="3" chapter="39" bfolio="089v" bline="24" />
-      <token form="дьнь" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="3" chapter="39" bfolio="089v" bline="24" stemtype="ambiguous" />
+      <token form="дьнь" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="3" chapter="39" bfolio="089v" bline="24" />
       <token form="о̑уꙁь҆рите" bform="о҄уꙁь҆рите" lemma="оузьрѣти" pos="V-" morph="2ppia----i" rel="pred" book="3" chapter="39" bfolio="089v" bline="24" />
       <token form="и҆" lemma="и" pos="Pp" morph="3s---ma--i" rel="obj" after="· " book="3" chapter="39" bfolio="089v" bline="24" />
       <token form="сь҆" lemma="съ" pos="R-" morph="---------n" rel="adv" book="3" chapter="39" bfolio="089v" bline="24" />
@@ -101343,7 +101343,7 @@
       <token form="по" lemma="по" pos="R-" morph="---------n" rel="adv" book="3" chapter="40" bfolio="092v" bline="11" />
       <token form="четꙑрехъ" lemma="четꙑрe" pos="Ma" morph="-p---pl--i" rel="atr" book="3" chapter="40" bfolio="092v" bline="11" />
       <token form="десꙙтехъ" lemma="десѧть" pos="Ma" morph="-p---pl--i" rel="obl" book="3" chapter="40" bfolio="092v" bline="11" />
-      <token form="дьнии҆" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="part" stem="n stem" book="3" chapter="40" bfolio="092v" bline="11" stemtype="analogical" />
+      <token form="дьнии҆" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="part" stem="n stem" book="3" chapter="40" bfolio="092v" bline="11" />
     </line>
     <line n="12">
       <token form="вь҆ꙁиде" lemma="възити" pos="V-" morph="3saia----i" rel="pred" book="3" chapter="40" bfolio="092v" bline="12" />
@@ -101391,7 +101391,7 @@
       <token form="сумеѡ̑нъ" bform="сумеѡ҄нъ" lemma="сѵмеонъ" pos="Ne" morph="-s---mn--i" rel="obj" stem="o stem masc" stemtype="ambiguous" book="3" chapter="40" bfolio="092v" bline="17" />
       <token form="е҅теръ" lemma="етеръ" pos="Px" morph="-s---mn--i" rel="atr" after="· " book="3" chapter="40" bfolio="092v" bline="17" />
       <token form="ветъхъи" lemma="ветъхъ" pos="A-" morph="-s---mnpwi" rel="sub" book="3" chapter="40" bfolio="092v" bline="17" />
-      <token form="дьнемъ" lemma="дьнь" pos="Nb" morph="-p---md--i" rel="atr" stem="n stem" book="3" chapter="40" bfolio="092v" bline="17" stemtype="ambiguous" />
+      <token form="дьнемъ" lemma="дьнь" pos="Nb" morph="-p---md--i" rel="atr" stem="n stem" book="3" chapter="40" bfolio="092v" bline="17" />
       <token form="богъ" lemma="богъ" pos="Nb" morph="-s---mn--i" rel="apos" stem="o stem masc" stemtype="ambiguous" after="· " book="3" chapter="40" bfolio="092v" bline="17" />
       <token form="ꙗ҅ко" lemma="ꙗко#1" pos="Df" morph="---------n" rel="adv" book="3" chapter="40" bfolio="092v" bline="17" />
     </line>
@@ -101481,7 +101481,7 @@
     </line>
     <line n="28">
       <token form="богатъ" lemma="богатъ" pos="A-" morph="-s---mnpsi" rel="atr" book="3" chapter="40" bfolio="092v" bline="28" />
-      <token form="и҅менемь" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="3" chapter="40" bfolio="092v" bline="28" stemtype="ambiguous" />
+      <token form="и҅менемь" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="3" chapter="40" bfolio="092v" bline="28" stemtype="analogical" />
       <token form="їѡ̑сифъ" bform="їѡ҄сифъ" lemma="иосифъ" pos="Ne" morph="-s---mn--i" rel="apos" stem="o stem masc" stemtype="ambiguous" after="· " book="3" chapter="40" bfolio="092v" bline="28" />
       <token form="сь" lemma="сь" pos="Pd" morph="-s---mn--i" rel="sub" book="3" chapter="40" bfolio="092v" bline="28" />
       <token form="дръꙁнѫвъ" lemma="дрьзнѫти" pos="V-" morph="-supamn-si" rel="xadv" book="3" chapter="40" bfolio="092v" bline="28" />
@@ -101578,7 +101578,7 @@
       <token form="бꙑвъшоу" lemma="бꙑти" pos="V-" morph="-supand-si" rel="adv" book="3" chapter="40" bfolio="093r" bline="10" />
       <token form="приде" lemma="прити" pos="V-" morph="3saia----i" rel="pred" book="3" chapter="40" bfolio="093r" bline="10" />
       <token form="чловѣкъ" lemma="чловѣкъ" pos="Nb" morph="-s---mn--i" rel="sub" stem="o stem masc" stemtype="ambiguous" after="· " book="3" chapter="40" bfolio="093r" bline="10" />
-      <token form="и҅менемъ" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="3" chapter="40" bfolio="093r" bline="10" stemtype="ambiguous" />
+      <token form="и҅менемъ" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="3" chapter="40" bfolio="093r" bline="10" stemtype="analogical" />
       <token form="їѡ̑сифꙿ" bform="їѡ҄сифꙿ" lemma="иосифъ" pos="Ne" morph="-s---mn--i" rel="apos" stem="o stem masc" stemtype="ambiguous" after="· " book="3" chapter="40" bfolio="093r" bline="10" />
     </line>
     <line n="11">
@@ -101674,7 +101674,7 @@
       <token form="приде" lemma="прити" pos="V-" morph="3saia----i" rel="pred" book="3" chapter="40" bfolio="093r" bline="22" />
       <token form="чловѣкъ" lemma="чловѣкъ" pos="Nb" morph="-s---mn--i" rel="sub" stem="o stem masc" stemtype="ambiguous" book="3" chapter="40" bfolio="093r" bline="22" />
       <token form="богатъ" lemma="богатъ" pos="A-" morph="-s---mnpsi" rel="atr" book="3" chapter="40" bfolio="093r" bline="22" />
-      <token form="и҅менемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="3" chapter="40" bfolio="093r" bline="22" stemtype="ambiguous" />
+      <token form="и҅менемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="3" chapter="40" bfolio="093r" bline="22" stemtype="analogical" />
       <token form="їѡ̑сифъ" bform="їѡ҄сифъ" lemma="иосифъ" pos="Ne" morph="-s---mn--i" rel="apos" stem="o stem masc" stemtype="ambiguous" after="· " book="3" chapter="40" bfolio="093r" bline="22" />
       <token form="о҅тъ" lemma="отъ" pos="R-" morph="---------n" rel="apos" book="3" chapter="40" bfolio="093r" bline="22" />
     </line>
@@ -105650,7 +105650,7 @@
       <token form="ꙁь҆лѣ" lemma="зълѣ" pos="Df" morph="-------p-i" rel="adv" book="3" chapter="40" bfolio="101r" bline="17" />
       <token form="въ" lemma="въ" pos="R-" morph="---------n" rel="adv" book="3" chapter="40" bfolio="101r" bline="17" />
       <token form="шестꙑи" lemma="шестъ" pos="Mo" morph="-s---ma--i" rel="atr" book="3" chapter="40" bfolio="101r" bline="17" />
-      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" after="· " book="3" chapter="40" bfolio="101r" bline="17" stemtype="ambiguous" />
+      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" after="· " book="3" chapter="40" bfolio="101r" bline="17" />
       <token form="твоѥ" lemma="твои" pos="Ps" morph="2s---nn--i" rel="atr" book="3" chapter="40" bfolio="101r" bline="17" />
       <token form="о҅сѫждень҆ѥ" lemma="осѫждениѥ" pos="Nb" morph="-s---nn--i" rel="sub" stem="jo stem neutr" stemtype="etymological" book="3" chapter="40" bfolio="101r" bline="17" />
     </line>
@@ -105658,7 +105658,7 @@
       <token form="бꙑстъ" lemma="бꙑти" pos="V-" morph="3saia----i" rel="pred" book="3" chapter="40" bfolio="101r" bline="18" />
       <token form="вь҆" lemma="въ" pos="R-" morph="---------n" rel="adv" book="3" chapter="40" bfolio="101r" bline="18" />
       <token form="шестꙑи҆" lemma="шестъ" pos="Mo" morph="-s---ma--i" rel="atr" book="3" chapter="40" bfolio="101r" bline="18" />
-      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" after="· " book="3" chapter="40" bfolio="101r" bline="18" stemtype="ambiguous" />
+      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" after="· " book="3" chapter="40" bfolio="101r" bline="18" />
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="aux" book="3" chapter="40" bfolio="101r" bline="18" />
       <token form="твоѥ" lemma="твои" pos="Ps" morph="2s---na--i" rel="narg" book="3" chapter="40" bfolio="101r" bline="18" />
       <token form="посѫждениѥ҆" lemma="посѫждениѥ" pos="Nb" morph="-s---na--i" rel="obj" stem="jo stem neutr" stemtype="etymological" book="3" chapter="40" bfolio="101r" bline="18" />
@@ -106169,7 +106169,7 @@
     </line>
     <line n="18">
       <token form="ть҆" lemma="тъ" pos="Pd" morph="-s---ma--i" rel="atr" book="3" chapter="41" bfolio="102r" bline="18" />
-      <token form="дьнь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" after="· " book="3" chapter="41" bfolio="102r" bline="18" stemtype="ambiguous" />
+      <token form="дьнь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" after="· " book="3" chapter="41" bfolio="102r" bline="18" />
       <token form="въ" lemma="въ" pos="R-" morph="---------n" rel="obl" book="3" chapter="41" bfolio="102r" bline="18" />
       <token form="вь҆сь҆" lemma="вьсь" pos="Nb" morph="-s---fa--i" rel="obl" stem="i stem fem" book="3" chapter="41" bfolio="102r" bline="18" stemtype="etymological" />
       <token form="сѫштѫѭ̑" bform="сѫштѫѭ҄" lemma="бꙑти" pos="V-" morph="-sppafa-wi" rel="atr" book="3" chapter="41" bfolio="102r" bline="18" />
@@ -106430,11 +106430,11 @@
     <line n="19">
       <token form="вь" lemma="въ" pos="R-" morph="---------n" rel="adv" book="3" chapter="41" bfolio="102v" bline="19" />
       <token form="тъ" lemma="тъ" pos="Pd" morph="-s---ma--i" rel="atr" book="3" chapter="41" bfolio="102v" bline="19" />
-      <token form="дьнь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" after="· " book="3" chapter="41" bfolio="102v" bline="19" stemtype="ambiguous" />
+      <token form="дьнь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" after="· " book="3" chapter="41" bfolio="102v" bline="19" />
       <token form="ни" lemma="ни" pos="C-" morph="---------n" rel="aux" book="3" chapter="41" bfolio="102v" bline="19" />
       <token form="треть҆ꙗ҆го" lemma="третии" pos="Mo" morph="-s---mg--i" rel="atr" book="3" chapter="41" bfolio="102v" bline="19" />
       <token form="же" lemma="же" pos="Df" morph="---------n" rel="aux" book="3" chapter="41" bfolio="102v" bline="19" />
-      <token form="дьне" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="adv" stem="n stem" book="3" chapter="41" bfolio="102v" bline="19" stemtype="etymological" />
+      <token form="дьне" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="adv" stem="n stem" book="3" chapter="41" bfolio="102v" bline="19" />
       <token form="прѣбꙑсте" lemma="прѣбꙑти" pos="V-" morph="3daia----i" rel="pred" book="3" chapter="41" bfolio="102v" bline="19" />
       <token form="ѥ҅же" lemma="ѥже" pos="Dq" morph="---------n" rel="adv" book="3" chapter="41" bfolio="102v" bline="19" />
     </line>
@@ -106471,7 +106471,7 @@
       <token form="гробъ" lemma="гробъ" pos="Nb" morph="-s---ma--i" rel="obj" stem="o stem masc" stemtype="ambiguous" after="· " book="3" chapter="41" bfolio="102v" bline="23" />
       <token form="въ" lemma="въ" pos="R-" morph="---------n" rel="apos" book="3" chapter="41" bfolio="102v" bline="23" />
       <token form="тъ" lemma="тъ" pos="Pd" morph="-s---ma--i" rel="atr" book="3" chapter="41" bfolio="102v" bline="23" />
-      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="3" chapter="41" bfolio="102v" bline="23" stemtype="ambiguous" />
+      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="3" chapter="41" bfolio="102v" bline="23" />
       <token form="и҅дѣа҅шета" lemma="ити" pos="V-" morph="2diia----i" rel="pred" after="· " book="3" chapter="41" bfolio="102v" bline="23" />
       <token form="не" lemma="не" pos="Df" morph="---------n" rel="aux" book="3" chapter="41" bfolio="102v" bline="23" />
       <token form="пожꙿдаста" lemma="пожьдати" pos="V-" morph="2daia----i" rel="pred" after="· " book="3" chapter="41" bfolio="102v" bline="23" />
@@ -107207,7 +107207,7 @@
     <line n="16">
       <token form="раꙁдъра" lemma="раздьрати" pos="V-" morph="3saia----i" rel="pred" book="3" chapter="41" bfolio="104r" bline="16" />
       <token form="сꙙ" lemma="себе" pos="Pk" morph="3s---qa--i" rel="aux" after="· " book="3" chapter="41" bfolio="104r" bline="16" />
-      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---mn--i" rel="sub" stem="n stem" book="3" chapter="41" bfolio="104r" bline="16" stemtype="analogical" />
+      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---mn--i" rel="sub" stem="n stem" book="3" chapter="41" bfolio="104r" bline="16" stemtype="etymological" />
       <token form="вь҆" lemma="въ" pos="R-" morph="---------n" rel="obl" book="3" chapter="41" bfolio="104r" bline="16" />
       <token form="ноштъ" lemma="нощь" pos="Nb" morph="-s---fa--i" rel="obl" stem="i stem fem" book="3" chapter="41" bfolio="104r" bline="16" stemtype="etymological" />
       <token form="сꙙ" lemma="себе" pos="Pk" morph="3s---qa--i" rel="aux" book="3" chapter="41" bfolio="104r" bline="16" />
@@ -107297,7 +107297,7 @@
       <token form="вь҆" lemma="въ" pos="R-" morph="---------n" rel="adv" book="3" chapter="41" bfolio="104r" bline="25" />
       <token form="н҄емь҆" lemma="и" pos="Pp" morph="3s---ml--i" rel="obl" book="3" chapter="41" bfolio="104r" bline="25" />
       <token form="вь҆" lemma="въ" pos="R-" morph="---------n" rel="adv" book="3" chapter="41" bfolio="104r" bline="25" />
-      <token form="дни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" book="3" chapter="41" bfolio="104r" bline="25" stemtype="ambiguous" />
+      <token form="дни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" book="3" chapter="41" bfolio="104r" bline="25" />
       <token form="сиѧ҆" lemma="сь" pos="Pd" morph="-p---ma--i" rel="atr" after="· " book="3" chapter="41" bfolio="104r" bline="25" />
     </line>
     <line n="26">
@@ -108112,7 +108112,7 @@
     <line n="26">
       <token form="їѡ̑на" bform="їѡ҄на" lemma="иона" pos="Ne" morph="-s---mn--i" rel="sub" stem="a stem masc" book="3" chapter="41" bfolio="105v" bline="26" />
       <token form="три" lemma="триѥ" pos="Ma" morph="-p---ma--i" rel="atr" book="3" chapter="41" bfolio="105v" bline="26" />
-      <token form="дни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="adv" stem="n stem" book="3" chapter="41" bfolio="105v" bline="26" stemtype="ambiguous" />
+      <token form="дни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="adv" stem="n stem" book="3" chapter="41" bfolio="105v" bline="26" />
       <token form="въ" lemma="въ" pos="R-" morph="---------n" rel="obl" book="3" chapter="41" bfolio="105v" bline="26" />
       <token form="к҄итѣ" lemma="китъ" pos="Nb" morph="-s---ml--i" rel="obl" stem="o stem masc" stemtype="etymological" book="3" chapter="41" bfolio="105v" bline="26" />
       <token form="поживъ" lemma="пожити" pos="V-" morph="-supamn-si" rel="xadv" after="· " book="3" chapter="41" bfolio="105v" bline="26" />
@@ -108231,7 +108231,7 @@
       <token form="и҅стинѫ" lemma="истина" pos="Nb" morph="-s---fa--i" rel="obl" stem="a stem fem" book="3" chapter="42" bfolio="106r" bline="10" />
     </line>
     <line n="11">
-      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---mn--i" rel="xobj" stem="n stem" book="3" chapter="42" bfolio="106r" bline="11" stemtype="analogical" />
+      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---mn--i" rel="xobj" stem="n stem" book="3" chapter="42" bfolio="106r" bline="11" stemtype="etymological" />
       <token form="и҅же" lemma="иже" pos="Pr" morph="-s---ma--i" rel="obj" book="3" chapter="42" bfolio="106r" bline="11" />
       <token form="сътворилъ" lemma="сътворити" pos="V-" morph="-sspamn-si" rel="atr" book="3" chapter="42" bfolio="106r" bline="11" />
       <token form="г꙯ь" lemma="господь" pos="Nb" morph="-s---mn--i" rel="sub" stem="i stem masc" after="· " book="3" chapter="42" bfolio="106r" bline="11" stemtype="ambiguous" />
@@ -108246,7 +108246,7 @@
       <token form="н҄ь" lemma="и" pos="Pp" morph="3s---ma--i" rel="obl" after="· " book="3" chapter="42" bfolio="106r" bline="12" />
       <token form="проповѣдимъ" lemma="проповѣдѣти" pos="V-" morph="1ppma----i" rel="pred" book="3" chapter="42" bfolio="106r" bline="12" />
       <token form="сьпась҆нааго" lemma="съпасьнъ" pos="A-" morph="-s---mgpwi" rel="atr" book="3" chapter="42" bfolio="106r" bline="12" />
-      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="narg" stem="n stem" book="3" chapter="42" bfolio="106r" bline="12" stemtype="analogical" />
+      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="narg" stem="n stem" book="3" chapter="42" bfolio="106r" bline="12" />
     </line>
     <line n="13">
       <token form="памꙙтиѥ" lemma="памѧтиѥ" pos="Nb" morph="-s---na--i" rel="obj" stem="jo stem neutr" stemtype="etymological" after="· " book="3" chapter="42" bfolio="106r" bline="13" />
@@ -110159,7 +110159,7 @@
     <line n="26">
       <token form="праꙁдень҆ство" lemma="праздьньство" pos="Nb" morph="-s---nn--i" rel="sub" stem="o stem neutr" stemtype="ambiguous" after="· " book="3" chapter="43" bfolio="109v" bline="26" />
       <token form="вь҆скрѣсьнꙑи҆" lemma="въскрѣсьнъ" pos="A-" morph="-s---mnpwi" rel="atr" book="3" chapter="43" bfolio="109v" bline="26" />
-      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---mn--i" rel="apos" stem="n stem" book="3" chapter="43" bfolio="109v" bline="26" stemtype="analogical" />
+      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---mn--i" rel="apos" stem="n stem" book="3" chapter="43" bfolio="109v" bline="26" stemtype="etymological" />
       <token form="г꙯и" lemma="господь" pos="Nb" morph="-s---mg--i" rel="atr" stem="i stem masc" book="3" chapter="43" bfolio="109v" bline="26" stemtype="etymological" />
       <token form="нашего" lemma="нашь" pos="Ps" morph="1s---mg--i" rel="atr" book="3" chapter="43" bfolio="109v" bline="26" />
       <token form="їсꙋ" lemma="исоусъ" pos="Ne" morph="-s---mg--i" rel="apos" stem="o stem masc" stemtype="ambiguous" book="3" chapter="43" bfolio="109v" bline="26" />
@@ -110311,7 +110311,7 @@
       <token form="слꙑшꙙ" lemma="слꙑшати" pos="V-" morph="-sppamn-si" rel="xadv" after="· " book="3" chapter="43" bfolio="110r" bline="13" />
       <token form="вь҆" lemma="въ" pos="R-" morph="---------n" rel="adv" book="3" chapter="43" bfolio="110r" bline="13" />
       <token form="н҄ьже" lemma="иже" pos="Pr" morph="-s---ma--i" rel="adv" book="3" chapter="43" bfolio="110r" bline="13" />
-      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="3" chapter="43" bfolio="110r" bline="13" stemtype="ambiguous" />
+      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="3" chapter="43" bfolio="110r" bline="13" />
       <token form="ꙗ҅си" lemma="ꙗсти" pos="V-" morph="2spia----i" rel="atr" book="3" chapter="43" bfolio="110r" bline="13" />
     </line>
     <line n="14">
@@ -110324,7 +110324,7 @@
       <token form="симъ" lemma="сь" pos="Pd" morph="-s---ni--i" rel="atr" book="3" chapter="43" bfolio="110r" bline="14" />
     </line>
     <line n="15">
-      <token form="и҅менемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="adv" stem="n stem" book="3" chapter="43" bfolio="110r" bline="15" stemtype="ambiguous" />
+      <token form="и҅менемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="adv" stem="n stem" book="3" chapter="43" bfolio="110r" bline="15" stemtype="analogical" />
       <token form="нарече" lemma="нарещи" pos="V-" morph="3saia----i" rel="pred" book="3" chapter="43" bfolio="110r" bline="15" />
       <token form="глагол҄ꙙ" lemma="глаголати" pos="V-" morph="-sppamn-si" rel="xadv" after="· " book="3" chapter="43" bfolio="110r" bline="15" />
       <token form="сьмрьть" lemma="съмрьть" pos="Nb" morph="-s---fn--i" rel="sub" stem="i stem fem" book="3" chapter="43" bfolio="110r" bline="15" stemtype="ambiguous" />
@@ -113366,7 +113366,7 @@
     </line>
     <line n="14">
       <token form="трь҆хъ" lemma="триѥ" pos="Ma" morph="-p---ml--i" rel="atr" book="3" chapter="44" bfolio="116r" bline="14" />
-      <token form="дь҆нехъ" lemma="дьнь" pos="Nb" morph="-p---ml--i" rel="obl" stem="n stem" book="3" chapter="44" bfolio="116r" bline="14" stemtype="ambiguous" />
+      <token form="дь҆нехъ" lemma="дьнь" pos="Nb" morph="-p---ml--i" rel="obl" stem="n stem" book="3" chapter="44" bfolio="116r" bline="14" stemtype="analogical" />
       <token form="вь҆станѫ" lemma="въстати" pos="V-" morph="1spia----i" rel="parpred" after="· " book="3" chapter="44" bfolio="116r" bline="14" />
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="pred" book="3" chapter="44" bfolio="116r" bline="14" />
       <token form="рѣчми" lemma="рѣчь" pos="Nb" morph="-p---fi--i" rel="adv" stem="i stem fem" book="3" chapter="44" bfolio="116r" bline="14" stemtype="etymological" />
@@ -114450,7 +114450,7 @@
       <token form="да" lemma="да" pos="C-" morph="---------n" rel="pred" book="3" chapter="44" bfolio="118r" bline="16" />
       <token form="ношть҆" lemma="нощь" pos="Nb" morph="-s---fa--i" rel="obj" stem="i stem fem" book="3" chapter="44" bfolio="118r" bline="16" stemtype="etymological" />
       <token form="въ" lemma="въ" pos="R-" morph="---------n" rel="adv" book="3" chapter="44" bfolio="118r" bline="16" />
-      <token form="дни" lemma="дьнь" pos="Nb" morph="-s---ml--i" rel="obl" stem="n stem" book="3" chapter="44" bfolio="118r" bline="16" stemtype="ambiguous" />
+      <token form="дни" lemma="дьнь" pos="Nb" morph="-s---ml--i" rel="obl" stem="n stem" book="3" chapter="44" bfolio="118r" bline="16" stemtype="analogical" />
     </line>
     <line n="17">
       <token form="сътвори" lemma="сътворити" pos="V-" morph="3saia----i" rel="pred" after="· " book="3" chapter="44" bfolio="118r" bline="17" />
@@ -116128,7 +116128,7 @@
       <token form="а҅" lemma="а" pos="C-" morph="---------n" rel="aux" book="3" chapter="45" bfolio="121r" bline="24" />
       <token form="чь҆тꙑ" lemma="чистити" pos="V-" morph="-sppamn-si" rel="xadv" book="3" chapter="45" bfolio="121r" bline="24" />
       <token form="ѥ҅моу" lemma="и" pos="Pp" morph="3s---md--i" rel="obl" book="3" chapter="45" bfolio="121r" bline="24" />
-      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="adv" stem="n stem" book="3" chapter="45" bfolio="121r" bline="24" stemtype="analogical" />
+      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="adv" stem="n stem" book="3" chapter="45" bfolio="121r" bline="24" />
       <token form="и" lemma="и" pos="C-" morph="---------n" rel="xadv" book="3" chapter="45" bfolio="121r" bline="24" />
       <token form="праꙁдьнꙋѧ" lemma="праздьновати" pos="V-" morph="-sppamn-si" rel="xadv" book="3" chapter="45" bfolio="121r" bline="24" />
     </line>
@@ -117355,7 +117355,7 @@
       <token form="хс꙯а" lemma="христ(ос)ъ" pos="Ne" morph="-s---mg--i" rel="atr" stem="o stem masc" stemtype="etymological" book="3" chapter="46" bfolio="123v" bline="13" />
       <token form="нашего" lemma="нашь" pos="Ps" morph="1s---mg--i" rel="atr" book="3" chapter="46" bfolio="123v" bline="13" />
       <token form="творити" lemma="творити" pos="V-" morph="--pna----i" rel="pred" book="3" chapter="46" bfolio="123v" bline="13" />
-      <token form="їменемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="adv" stem="n stem" after="· " book="3" chapter="46" bfolio="123v" bline="13" stemtype="ambiguous" />
+      <token form="їменемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="adv" stem="n stem" after="· " book="3" chapter="46" bfolio="123v" bline="13" stemtype="analogical" />
       <token form="Вьси" lemma="вьсь" pos="Px" morph="-p---mn--i" rel="sub" book="3" chapter="46" bfolio="123v" bline="13" />
       <token form="же" lemma="же" pos="Df" morph="---------n" rel="aux" book="3" chapter="46" bfolio="123v" bline="13" />
       <token form="мѫжа" lemma="мѫжь" pos="Nb" morph="-s---mg--i" rel="atr" stem="jo stem masc" stemtype="etymological" book="3" chapter="46" bfolio="123v" bline="13" />
@@ -118537,7 +118537,7 @@
       <token form="о҅нъ" lemma="онъ" pos="Pd" morph="-s---mn--i" rel="sub" book="3" chapter="46" bfolio="125v" bline="21" />
       <token form="же" lemma="же" pos="Df" morph="---------n" rel="aux" book="3" chapter="46" bfolio="125v" bline="21" />
       <token form="три" lemma="триѥ" pos="Ma" morph="-p---ma--i" rel="atr" book="3" chapter="46" bfolio="125v" bline="21" />
-      <token form="дни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="adv" stem="n stem" book="3" chapter="46" bfolio="125v" bline="21" stemtype="ambiguous" />
+      <token form="дни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="adv" stem="n stem" book="3" chapter="46" bfolio="125v" bline="21" />
       <token form="а҅лꙿкавъ" lemma="алъкати" pos="V-" morph="-supamn-si" rel="xadv" book="3" chapter="46" bfolio="125v" bline="21" />
     </line>
     <line n="22">
@@ -118793,7 +118793,7 @@
       <token form="мѫжа" lemma="мѫжь" pos="Nb" morph="-s---mg--i" rel="obj" stem="jo stem masc" stemtype="etymological" book="3" chapter="46" bfolio="126r" bline="19" />
     </line>
     <line n="20">
-      <token form="и҅менемь" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="adv" stem="n stem" book="3" chapter="46" bfolio="126r" bline="20" stemtype="ambiguous" />
+      <token form="и҅менемь" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="adv" stem="n stem" book="3" chapter="46" bfolio="126r" bline="20" stemtype="analogical" />
       <token form="приꙁꙑвати" lemma="призꙑвати" pos="V-" morph="--pna----i" rel="xobj" after="· " book="3" chapter="46" bfolio="126r" bline="20" />
       <token form="ꙗ҅коже" lemma="ꙗкоже" pos="G-" morph="---------n" rel="adv" book="3" chapter="46" bfolio="126r" bline="20" />
       <token form="приноужденомъ" lemma="приноудити" pos="V-" morph="-puppmd-si" rel="xobj" book="3" chapter="46" bfolio="126r" bline="20" />
@@ -119040,7 +119040,7 @@
       <token form="о̑у" bform="о҄у" lemma="оу" pos="R-" morph="---------n" rel="obl" book="3" chapter="46" bfolio="126v" bline="14" />
       <token form="н҄его" lemma="и" pos="Pp" morph="3s---mg--i" rel="obl" book="3" chapter="46" bfolio="126v" bline="14" />
       <token form="в꙯" lemma="триѥ" pos="Ma" morph="---------n" rel="atr" book="3" chapter="46" bfolio="126v" bline="14" />
-      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="adv" stem="n stem" after="· " book="3" chapter="46" bfolio="126v" bline="14" stemtype="ambiguous" />
+      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="adv" stem="n stem" after="· " book="3" chapter="46" bfolio="126v" bline="14" />
       <token form="дон҄елиже" lemma="донѥлиже" pos="G-" morph="---------n" rel="adv" book="3" chapter="46" bfolio="126v" bline="14" />
     </line>
     <line n="15">
@@ -120436,7 +120436,7 @@
       <token form="мене" lemma="азъ" pos="Pp" morph="1s---mg--i" rel="obl" book="3" chapter="46" bfolio="129r" bline="24" />
       <token form="на" lemma="на" pos="R-" morph="---------n" rel="adv" book="3" chapter="46" />
       <token form="дь҆ва" lemma="дъва" pos="Ma" morph="-d---ma--i" rel="atr" book="3" chapter="46" />
-      <token form="дьни" lemma="дьнь" pos="Nb" morph="-d---ma--i" rel="obl" stem="n stem" after="· " book="3" chapter="46" bfolio="129r" bline="24" stemtype="ambiguous" />
+      <token form="дьни" lemma="дьнь" pos="Nb" morph="-d---ma--i" rel="obl" stem="n stem" after="· " book="3" chapter="46" bfolio="129r" bline="24" />
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="aux" book="3" chapter="46" bfolio="129r" bline="24" />
       <token form="о҅тидошꙙ" lemma="отити" pos="V-" morph="3paia----i" rel="pred" book="3" chapter="46" bfolio="129r" bline="24" />
     </line>
@@ -122209,7 +122209,7 @@
       <token form="мѣстѣ" lemma="мѣсто" pos="Nb" morph="-s---nl--i" rel="obl" stem="o stem neutr" stemtype="etymological" book="3" chapter="46" bfolio="132v" bline="11" />
       <token form="до" lemma="до" pos="R-" morph="---------n" rel="adv" book="3" chapter="46" bfolio="132v" bline="11" />
       <token form="дь҆н҄ешь҆нꙗа҅го" lemma="дьньшьнь" pos="A-" morph="-s---mgpwi" rel="atr" book="3" chapter="46" bfolio="132v" bline="11" />
-      <token form="дь҆не" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="obl" stem="n stem" book="3" chapter="46" bfolio="132v" bline="11" stemtype="etymological" />
+      <token form="дь҆не" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="obl" stem="n stem" book="3" chapter="46" bfolio="132v" bline="11" />
     </line>
     <line n="12">
       <token form="цѣлꙿбꙑ" lemma="цѣльба" pos="Nb" morph="-p---fn--i" rel="sub" stem="a stem fem" book="3" chapter="46" bfolio="132v" bline="12" />
@@ -122281,7 +122281,7 @@
       <token form="марта" lemma="мартъ" pos="Nb" morph="-s---mg--i" rel="part" stem="o stem masc" stemtype="etymological" book="3" chapter="47" bfolio="132v" bline="20" />
       <token form="въ" lemma="въ" pos="R-" morph="---------n" rel="adv" book="3" chapter="47" bfolio="132v" bline="20" />
       <token form="ꙁ꙯" lemma="седмь" pos="Ma" morph="---------n" rel="atr" book="3" chapter="47" bfolio="132v" bline="20" />
-      <token form="дꙿнь" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="3" chapter="47" stemtype="ambiguous" />
+      <token form="дꙿнь" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="3" chapter="47" />
       <token form="житиѥ" lemma="житиѥ" pos="Nb" morph="-s---nn--i" rel="sub" stem="jo stem neutr" stemtype="etymological" book="3" chapter="47" />
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="sub" book="3" chapter="47" bfolio="132v" bline="20" />
       <token form="страсть҆" lemma="страсть" pos="Nb" morph="-s---fn--i" rel="sub" stem="i stem fem" book="3" chapter="47" bfolio="132v" bline="20" stemtype="ambiguous" />
@@ -123326,7 +123326,7 @@
       <token form="рѣчи" lemma="рѣчь" pos="Nb" morph="-s---fd--i" rel="obl" stem="i stem fem" book="3" chapter="47" bfolio="134v" bline="17" stemtype="etymological" />
       <token form="къждо" lemma="къжьдо" pos="Px" morph="-s---mn--i" rel="sub" book="3" chapter="47" bfolio="134v" bline="17" />
       <token form="ѥ҅ю҄" lemma="и" pos="Pp" morph="3d---mg--i" rel="atr" after="· " book="3" chapter="47" bfolio="134v" bline="17" />
-      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-s---md--i" rel="sub" stem="n stem" book="3" chapter="47" bfolio="134v" bline="17" stemtype="etymological" />
+      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-s---md--i" rel="sub" stem="n stem" book="3" chapter="47" bfolio="134v" bline="17" />
       <token form="же" lemma="же" pos="Df" morph="---------n" rel="aux" book="3" chapter="47" bfolio="134v" bline="17" />
       <token form="бꙑвшоу" lemma="бꙑти" pos="V-" morph="-supamd-si" rel="adv" book="3" chapter="47" bfolio="134v" bline="17" />
     </line>
@@ -123677,7 +123677,7 @@
     <line n="26">
       <token form="на" lemma="на" pos="R-" morph="---------n" rel="adv" book="3" chapter="47" bfolio="135r" bline="26" />
       <token form="многꙑ" lemma="мъногъ" pos="A-" morph="-p---mapsi" rel="atr" book="3" chapter="47" bfolio="135r" bline="26" />
-      <token form="дꙿни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" after="· " book="3" chapter="47" bfolio="135r" bline="26" stemtype="ambiguous" />
+      <token form="дꙿни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" after="· " book="3" chapter="47" bfolio="135r" bline="26" />
       <token form="промꙑсломъ" lemma="промꙑслъ" pos="Nb" morph="-s---mi--i" rel="adv" stem="o stem masc" stemtype="etymological" book="3" chapter="47" bfolio="135r" bline="26" />
       <token form="бж꙯иѥ҅мъ" lemma="божии" pos="A-" morph="-s---mipti" rel="atr" after="· " book="3" chapter="47" bfolio="135r" bline="26" />
       <token form="не" lemma="не" pos="Df" morph="---------n" rel="aux" book="3" chapter="47" bfolio="135r" bline="26" />
@@ -123874,7 +123874,7 @@
       <token form="вѣроуѭ҄штии҅хъ" lemma="вѣровати" pos="V-" morph="-pppamg-wi" rel="part" book="3" chapter="47" bfolio="135v" bline="19" />
       <token form="по" lemma="по" pos="R-" morph="---------n" rel="adv" book="3" chapter="47" bfolio="135v" bline="19" />
       <token form="вь҆сꙙ" lemma="вьсь" pos="Px" morph="-p---ma--i" rel="atr" book="3" chapter="47" bfolio="135v" bline="19" />
-      <token form="дьни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" after="· " book="3" chapter="47" bfolio="135v" bline="19" stemtype="ambiguous" />
+      <token form="дьни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" after="· " book="3" chapter="47" bfolio="135v" bline="19" />
       <token form="и҅сконьнꙑи" lemma="исконьнъ" pos="A-" morph="-s---mnpwi" rel="atr" book="3" chapter="47" bfolio="135v" bline="19" />
     </line>
     <line n="20">
@@ -123953,7 +123953,7 @@
       <token form="дек҄ꙙбра" lemma="декѧбръ" pos="Ne" morph="-s---mg--i" rel="apos" stem="o stem masc" stemtype="etymological" book="3" chapter="47" bfolio="135v" bline="29" />
       <token form="въ" lemma="въ" pos="R-" morph="---------n" rel="adv" book="3" chapter="47" bfolio="135v" bline="29" />
       <token form="ѕ꙯" lemma="шесть" pos="Ma" morph="---------n" rel="atr" book="3" chapter="47" bfolio="135v" bline="29" />
-      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" after="· " book="3" chapter="47" bfolio="135v" bline="29" stemtype="ambiguous" />
+      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" after="· " book="3" chapter="47" bfolio="135v" bline="29" />
       <token form="памꙙть҆" lemma="памѧть" pos="Nb" morph="-s---fa--i" rel="obj" stem="i stem fem" book="3" chapter="47" bfolio="135v" bline="29" stemtype="etymological" />
       <token form="и҅мъ" lemma="и" pos="Pp" morph="3p---md--i" rel="adv" book="3" chapter="47" bfolio="135v" bline="29" />
       <token form="творꙙште" lemma="творити" pos="V-" morph="-pppamn-si" rel="xadv" book="3" chapter="47" bfolio="135v" bline="29" />
@@ -123966,7 +123966,7 @@
       <token form="По" lemma="по" pos="R-" morph="---------n" rel="adv" book="3" chapter="47" bfolio="135v" bline="30" />
       <token form="мноꙁѣ" lemma="мъногъ" pos="A-" morph="-s---nlpsi" rel="atr" book="3" chapter="47" bfolio="135v" bline="30" />
       <token form="же" lemma="же" pos="Df" morph="---------n" rel="aux" book="3" chapter="47" bfolio="135v" bline="30" />
-      <token form="врѣмени" lemma="врѣмѧ" pos="Nb" morph="-s---nl--i" rel="obl" stem="n stem" after="· " book="3" chapter="47" bfolio="135v" bline="30" stemtype="ambiguous" />
+      <token form="врѣмени" lemma="врѣмѧ" pos="Nb" morph="-s---nl--i" rel="obl" stem="n stem" after="· " book="3" chapter="47" bfolio="135v" bline="30" stemtype="analogical" />
     </line>
   </folio>
   <folio n="270r">
@@ -124076,7 +124076,7 @@
     </line>
     <line n="13">
       <token form="же" lemma="же" pos="Df" morph="---------n" rel="aux" book="3" chapter="47" bfolio="136r" bline="13" />
-      <token form="врѣмени" lemma="врѣмѧ" pos="Nb" morph="-s---nl--i" rel="obl" stem="n stem" book="3" chapter="47" bfolio="136r" bline="13" stemtype="ambiguous" />
+      <token form="врѣмени" lemma="врѣмѧ" pos="Nb" morph="-s---nl--i" rel="obl" stem="n stem" book="3" chapter="47" bfolio="136r" bline="13" stemtype="analogical" />
       <token form="минѫвъшоу" lemma="минѫти" pos="V-" morph="-supand-si" rel="adv" book="3" chapter="47" bfolio="136r" bline="13" />
       <token form="гон҄ению҄" lemma="гонѥниѥ" pos="Nb" morph="-s---nd--i" rel="sub" stem="jo stem neutr" stemtype="etymological" book="3" chapter="47" bfolio="136r" bline="13" />
       <token form="о҅тъ" lemma="отъ" pos="R-" morph="---------n" rel="ag" book="3" chapter="47" bfolio="136r" bline="13" />
@@ -124090,7 +124090,7 @@
     </line>
     <line n="15">
       <token form="цр꙯ѣ" lemma="цѣсарь" pos="Nb" morph="-s---mg--i" rel="obj" stem="jo stem masc" stemtype="etymological" book="3" chapter="47" bfolio="136r" bline="15" />
-      <token form="и҅менемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="3" chapter="47" bfolio="136r" bline="15" stemtype="ambiguous" />
+      <token form="и҅менемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="3" chapter="47" bfolio="136r" bline="15" stemtype="analogical" />
       <token form="костантина" lemma="константинъ" pos="Ne" morph="-s---mg--i" rel="apos" stem="o stem masc" stemtype="etymological" after="· " book="3" chapter="47" bfolio="136r" bline="15" />
       <token form="ѥ҅гоже" lemma="иже" pos="Pr" morph="-s---mg--i" rel="obj" book="3" chapter="47" bfolio="136r" bline="15" />
       <token form="бж꙯иѥ҆" lemma="божии" pos="A-" morph="-s---nnpsi" rel="atr" book="3" chapter="47" bfolio="136r" bline="15" />
@@ -124192,7 +124192,7 @@
       <token form="дастъ" lemma="дати" pos="V-" morph="3saia----i" rel="pred" book="3" chapter="47" bfolio="136r" bline="27" />
       <token form="и҅мъ" lemma="и" pos="Pp" morph="3p---md--i" rel="obl" book="3" chapter="47" bfolio="136r" bline="27" />
       <token form="е҅п꙯па" lemma="епискоупъ" pos="Nb" morph="-s---mg--i" rel="obj" stem="o stem masc" stemtype="etymological" book="3" chapter="47" bfolio="136r" bline="27" />
-      <token form="и҅менемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="3" chapter="47" bfolio="136r" bline="27" stemtype="ambiguous" />
+      <token form="и҅менемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="3" chapter="47" bfolio="136r" bline="27" stemtype="analogical" />
     </line>
     <line n="28">
       <token form="капитона" lemma="капитонъ" pos="Ne" morph="-s---mg--i" rel="apos" stem="o stem masc" stemtype="etymological" after="· " book="3" chapter="47" bfolio="136r" bline="28" />
@@ -124661,7 +124661,7 @@
       <token form="хс꙯а" lemma="христ(ос)ъ" pos="Ne" morph="-s---mg--i" rel="apos" stem="o stem masc" stemtype="etymological" after="· " book="3" chapter="47" bfolio="137r" bline="18" />
       <token form="по" lemma="по" pos="R-" morph="---------n" rel="adv" book="3" chapter="47" bfolio="137r" bline="18" />
       <token form="вь҆сꙙ" lemma="вьсь" pos="Px" morph="-p---ma--i" rel="atr" book="3" chapter="47" bfolio="137r" bline="18" />
-      <token form="дьни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" book="3" chapter="47" bfolio="137r" bline="18" stemtype="ambiguous" />
+      <token form="дьни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" book="3" chapter="47" bfolio="137r" bline="18" />
       <token form="пририштѫште" lemma="приристати" pos="V-" morph="-pppamn-si" rel="xadv" after="· " book="3" chapter="47" bfolio="137r" bline="18" />
     </line>
     <line n="19">
@@ -125119,7 +125119,7 @@
       <token form="прѣподобь҆наа҅го" lemma="прѣподобьнъ" pos="A-" morph="-s---mgpwi" rel="atr" book="3" chapter="48" bfolio="138r" bline="13" />
       <token form="а҅нина" lemma="анинъ" pos="Ne" morph="-s---mg--i" rel="atr" stem="o stem masc" stemtype="etymological" after=" ⁘ " book="3" chapter="48" bfolio="138r" bline="13" />
       <token form="і꙯и" lemma="осмь на десѧте" pos="Ma" morph="---------n" rel="atr" book="3" chapter="48" />
-      <token form="днъ" lemma="дьнь" pos="Nb" morph="-s---mn--i" rel="sub" stem="n stem" book="3" chapter="48" bfolio="138r" bline="13" stemtype="analogical" />
+      <token form="днъ" lemma="дьнь" pos="Nb" morph="-s---mn--i" rel="sub" stem="n stem" book="3" chapter="48" bfolio="138r" bline="13" stemtype="etymological" />
     </line>
     <line n="14">
       <token form="Пришъдъ" lemma="прити" pos="V-" morph="-supamn-si" rel="xadv" book="3" chapter="48" bfolio="138r" bline="14" />
@@ -126219,7 +126219,7 @@
       <token form="достои҅нъ" lemma="достоинъ" pos="A-" morph="-s---mnpsi" rel="xobj" book="3" chapter="48" bfolio="140r" bline="15" />
       <token form="ѥ҅стъ" lemma="бꙑти" pos="V-" morph="3spia----i" rel="atr" after="· " book="3" chapter="48" bfolio="140r" bline="15" />
       <token form="каи҅ю҄на" lemma="маиюма" pos="Ne" morph="-s---mn--i" rel="apos" stem="a stem masc" book="3" chapter="48" bfolio="140r" bline="15" />
-      <token form="и҅менемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" after="· " book="3" chapter="48" bfolio="140r" bline="15" stemtype="ambiguous" />
+      <token form="и҅менемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" after="· " book="3" chapter="48" bfolio="140r" bline="15" stemtype="analogical" />
       <token form="живѫшта" lemma="жити" pos="V-" morph="-sppamg-si" rel="atr" book="3" chapter="48" bfolio="140r" bline="15" />
     </line>
     <line n="16">
@@ -126309,7 +126309,7 @@
       <token form="лишении҅мъ" lemma="лишениѥ" pos="Nb" morph="-s---ni--i" rel="adv" stem="jo stem neutr" stemtype="etymological" book="3" chapter="48" bfolio="140r" bline="24" />
       <token form="хлѣба" lemma="хлѣбъ" pos="Nb" morph="-s---mg--i" rel="narg" stem="o stem masc" stemtype="etymological" after="· " book="3" chapter="48" bfolio="140r" bline="24" />
       <token form="многꙑ" lemma="мъногъ" pos="A-" morph="-p---mapsi" rel="atr" book="3" chapter="48" bfolio="140r" bline="24" />
-      <token form="дьни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="adv" stem="n stem" book="3" chapter="48" bfolio="140r" bline="24" stemtype="ambiguous" />
+      <token form="дьни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="adv" stem="n stem" book="3" chapter="48" bfolio="140r" bline="24" />
       <token form="беꙁъ" lemma="без" pos="R-" morph="---------n" rel="xobj" book="3" chapter="48" bfolio="140r" bline="24" />
       <token form="ꙗ҅ди" lemma="ꙗдь" pos="Nb" morph="-s---fg--i" rel="obl" stem="i stem fem" book="3" chapter="48" bfolio="140r" bline="24" stemtype="etymological" />
     </line>
@@ -126325,7 +126325,7 @@
     <line n="26">
       <token form="а҅лчь҆бѫ" lemma="алъчьба" pos="Nb" morph="-s---fa--i" rel="adv" stem="a stem fem" book="3" chapter="48" bfolio="140r" bline="26" />
       <token form="м꙯" lemma="четꙑрe десѧтe" pos="Ma" morph="---------n" rel="apos" book="3" chapter="48" bfolio="140r" bline="26" />
-      <token form="днии҆" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="part" stem="n stem" after="· " book="3" chapter="48" bfolio="140r" bline="26" stemtype="analogical" />
+      <token form="днии҆" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="part" stem="n stem" after="· " book="3" chapter="48" bfolio="140r" bline="26" />
       <token form="любь҆ꙁно" lemma="любьзно" pos="Df" morph="-------p-i" rel="adv" book="3" chapter="48" bfolio="140r" bline="26" />
       <token form="беꙁъ" lemma="без" pos="R-" morph="---------n" rel="xobj" book="3" chapter="48" bfolio="140r" bline="26" />
       <token form="ꙗ҅ди" lemma="ꙗдь" pos="Nb" morph="-s---fg--i" rel="obl" stem="i stem fem" book="3" chapter="48" bfolio="140r" bline="26" stemtype="etymological" />
@@ -126467,9 +126467,9 @@
       <token form="дх꙯овь҆нъ" lemma="доуховьнъ" pos="A-" morph="-s---mnpsi" rel="xobj" book="3" chapter="48" bfolio="140v" bline="10" />
       <token form="ѥ҅стъ" lemma="бꙑти" pos="V-" morph="3spia----i" rel="pred" after="· " book="3" chapter="48" bfolio="140v" bline="10" />
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="pred" book="3" chapter="48" bfolio="140v" bline="10" />
-      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="adv" stem="n stem" book="3" chapter="48" bfolio="140v" bline="10" stemtype="ambiguous" />
+      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="adv" stem="n stem" book="3" chapter="48" bfolio="140v" bline="10" />
       <token form="ꙗ҅че" lemma="ꙗче" pos="R-" morph="---------n" rel="atr" book="3" chapter="48" bfolio="140v" bline="10" />
-      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" after="· " book="3" chapter="48" bfolio="140v" bline="10" stemtype="ambiguous" />
+      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" after="· " book="3" chapter="48" bfolio="140v" bline="10" />
       <token form="на" lemma="на" pos="R-" morph="---------n" rel="obl" book="3" chapter="48" bfolio="140v" bline="10" />
     </line>
     <line n="11">
@@ -126590,7 +126590,7 @@
     </line>
     <line n="24">
       <token form="Вь҆" lemma="въ" pos="R-" morph="---------n" rel="adv" book="3" chapter="48" bfolio="140v" bline="24" />
-      <token form="днехъ" lemma="дьнь" pos="Nb" morph="-p---ml--i" rel="obl" stem="n stem" book="3" chapter="48" bfolio="140v" bline="24" stemtype="ambiguous" />
+      <token form="днехъ" lemma="дьнь" pos="Nb" morph="-p---ml--i" rel="obl" stem="n stem" book="3" chapter="48" bfolio="140v" bline="24" stemtype="analogical" />
       <token form="же" lemma="же" pos="Df" morph="---------n" rel="aux" book="3" chapter="48" bfolio="140v" bline="24" />
       <token form="тѣхъ" lemma="тъ" pos="Pd" morph="-p---ml--i" rel="atr" book="3" chapter="48" bfolio="140v" bline="24" />
       <token form="начꙙшꙙ" lemma="начѧти" pos="V-" morph="3paia----i" rel="pred" book="3" chapter="48" bfolio="140v" bline="24" />
@@ -126614,7 +126614,7 @@
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="aux" book="3" chapter="48" bfolio="140v" bline="26" />
       <token form="по" lemma="по" pos="R-" morph="---------n" rel="adv" book="3" chapter="48" bfolio="140v" bline="26" />
       <token form="вь҆сꙙ" lemma="вьсь" pos="Px" morph="-p---ma--i" rel="atr" book="3" chapter="48" bfolio="140v" bline="26" />
-      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" book="3" chapter="48" bfolio="140v" bline="26" stemtype="ambiguous" />
+      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" book="3" chapter="48" bfolio="140v" bline="26" />
       <token form="ꙗ҅коже" lemma="ꙗкоже" pos="Dq" morph="---------n" rel="adv" book="3" chapter="48" bfolio="140v" bline="26" />
       <token form="решти" lemma="рещи" pos="V-" morph="--pna----i" rel="parpred" after="· " book="3" chapter="48" bfolio="140v" bline="26" />
     </line>
@@ -126811,7 +126811,7 @@
       <token form="же" lemma="же" pos="Df" morph="---------n" rel="aux" book="3" chapter="48" bfolio="141r" bline="17" />
       <token form="и҅ностань҆" lemma="иностань" pos="Df" morph="---------n" rel="adv" book="3" chapter="48" bfolio="141r" bline="17" />
       <token form="ѥ҅ликоже" lemma="ѥликоже" pos="Dq" morph="---------n" rel="adv" book="3" chapter="48" bfolio="141r" bline="17" />
-      <token form="дꙿниї" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="part" stem="n stem" after="· " book="3" chapter="48" bfolio="141r" bline="17" stemtype="analogical" />
+      <token form="дꙿниї" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="part" stem="n stem" after="· " book="3" chapter="48" bfolio="141r" bline="17" />
     </line>
     <line n="18">
       <token form="въи҅нѫ" lemma="вꙑинѫ" pos="Df" morph="---------n" rel="adv" book="3" chapter="48" bfolio="141r" bline="18" />
@@ -126837,7 +126837,7 @@
       <token form="раꙁвѣ" lemma="развѣ" pos="Df" morph="---------n" rel="adv" book="3" chapter="48" bfolio="141r" bline="20" />
       <token form="на" lemma="на" pos="R-" morph="---------n" rel="adv" book="3" chapter="48" bfolio="141r" bline="20" />
       <token form="мало" lemma="малъ" pos="A-" morph="-s---napsi" rel="obl" book="3" chapter="48" bfolio="141r" bline="20" />
-      <token form="днии҆" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="part" stem="n stem" after="· " book="3" chapter="48" bfolio="141r" bline="20" stemtype="analogical" />
+      <token form="днии҆" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="part" stem="n stem" after="· " book="3" chapter="48" bfolio="141r" bline="20" />
       <token form="и҅бо" lemma="ибо" pos="Df" morph="---------n" rel="aux" book="3" chapter="48" bfolio="141r" bline="20" />
       <token form="и҅чръпанѣ" lemma="ищрьпати" pos="V-" morph="-suppfd-si" rel="adv" book="3" chapter="48" bfolio="141r" bline="20" />
       <token form="вь҆сеи" lemma="вьсь" pos="Px" morph="-s---fd--i" rel="atr" book="3" chapter="48" bfolio="141r" bline="20" />
@@ -127150,7 +127150,7 @@
       <token form="дш꙯еѭ҄" lemma="доуша" pos="Nb" morph="-s---fi--i" rel="adv" stem="ja stem fem" book="3" chapter="48" bfolio="141v" bline="21" />
       <token form="ношть҆" lemma="нощь" pos="Nb" morph="-s---fa--i" rel="adv" stem="i stem fem" book="3" chapter="48" bfolio="141v" bline="21" stemtype="etymological" />
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="adv" book="3" chapter="48" bfolio="141v" bline="21" />
-      <token form="дь҆нь" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="adv" stem="n stem" after="· " book="3" chapter="48" bfolio="141v" bline="21" stemtype="ambiguous" />
+      <token form="дь҆нь" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="adv" stem="n stem" after="· " book="3" chapter="48" bfolio="141v" bline="21" />
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="xadv" book="3" chapter="48" bfolio="141v" bline="21" />
       <token form="любь҆виѭ҄" lemma="любꙑ" pos="Nb" morph="-s---fi--i" rel="adv" stem="ū stem" after="· " book="3" chapter="48" bfolio="141v" bline="21" stemtype="ambiguous" />
       <token form="странънꙑмъ" lemma="страньнъ" pos="A-" morph="-p---mdpsi" rel="obl" book="3" chapter="48" bfolio="141v" bline="21" />
@@ -127161,7 +127161,7 @@
       <token form="ѥ҅динъ" lemma="ѥдинъ" pos="Px" morph="-s---ma--i" rel="obl" book="3" chapter="48" bfolio="141v" bline="22" />
       <token form="же" lemma="же" pos="Df" morph="---------n" rel="aux" book="3" chapter="48" bfolio="141v" bline="22" />
       <token form="о҅тъ" lemma="отъ" pos="R-" morph="---------n" rel="part" book="3" chapter="48" bfolio="141v" bline="22" />
-      <token form="дꙿнии" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="obl" stem="n stem" after="· " book="3" chapter="48" bfolio="141v" bline="22" stemtype="analogical" />
+      <token form="дꙿнии" lemma="дьнь" pos="Nb" morph="-p---mg--i" rel="obl" stem="n stem" after="· " book="3" chapter="48" bfolio="141v" bline="22" />
       <token form="Хоужде" lemma="хоужде" pos="Df" morph="-------c-i" rel="adv" book="3" chapter="48" bfolio="141v" bline="22" />
       <token form="лѣпааго" lemma="лѣпъ" pos="A-" morph="-s---ngpwi" rel="obl" book="3" chapter="48" bfolio="141v" bline="22" />
     </line>
@@ -127433,7 +127433,7 @@
       <token form="По" lemma="по" pos="R-" morph="---------n" rel="adv" book="3" chapter="48" bfolio="142r" bline="19" />
       <token form="тѣхъ" lemma="тъ" pos="Pd" morph="-p---nl--i" rel="atr" book="3" chapter="48" bfolio="142r" bline="19" />
       <token form="же" lemma="же" pos="Df" morph="---------n" rel="aux" book="3" chapter="48" bfolio="142r" bline="19" />
-      <token form="врѣменехъ" lemma="врѣмѧ" pos="Nb" morph="-p---nl--i" rel="obl" stem="n stem" after="· " book="3" chapter="48" bfolio="142r" bline="19" stemtype="ambiguous" />
+      <token form="врѣменехъ" lemma="врѣмѧ" pos="Nb" morph="-p---nl--i" rel="obl" stem="n stem" after="· " book="3" chapter="48" bfolio="142r" bline="19" stemtype="analogical" />
       <token form="о҄увѣдѣвъ" lemma="оувѣдѣти" pos="V-" morph="-supamn-si" rel="xadv" book="3" chapter="48" bfolio="142r" bline="19" />
     </line>
     <line n="20">
@@ -127727,7 +127727,7 @@
       <token form="ѭ҄" lemma="и" pos="Pp" morph="3s---fa--i" rel="obj" after="· " book="3" chapter="48" bfolio="142v" bline="19" />
       <token form="примик҄ириї" lemma="примикирии" pos="Nb" morph="-s---mn--i" rel="sub" stem="ja stem masc" book="3" chapter="48" bfolio="142v" bline="19" />
       <token form="нѣкꙑ" lemma="нѣкꙑи" pos="Px" morph="-s---mn--i" rel="atr" book="3" chapter="48" bfolio="142v" bline="19" />
-      <token form="и҅менемꙿ" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="3" chapter="48" bfolio="142v" bline="19" stemtype="ambiguous" />
+      <token form="и҅менемꙿ" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="3" chapter="48" bfolio="142v" bline="19" stemtype="analogical" />
       <token form="серг҄ии҆" lemma="сергии" pos="Ne" morph="-s---mn--i" rel="apos" stem="ja stem masc" after="· " book="3" chapter="48" bfolio="142v" bline="19" />
       <token form="секоундо" lemma="секоундо" pos="Ne" morph="-s---mn--i" rel="apos" stem="o stem neutr" stemtype="ambiguous" book="3" chapter="48" bfolio="142v" bline="19" />
     </line>
@@ -127785,7 +127785,7 @@
     <line n="26">
       <token form="тъ" lemma="тъ" pos="Pd" morph="-s---ma--i" rel="atr" book="3" chapter="48" bfolio="142v" bline="26" />
       <token form="прь҆вꙑи҆" lemma="прьвъ" pos="Mo" morph="-s---ma--i" rel="atr" book="3" chapter="48" bfolio="142v" bline="26" />
-      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="3" chapter="48" bfolio="142v" bline="26" stemtype="ambiguous" />
+      <token form="дь҆нь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="3" chapter="48" bfolio="142v" bline="26" />
       <token form="благодѣтиѭ҄" lemma="благодѣть" pos="Nb" morph="-s---fi--i" rel="adv" stem="i stem fem" book="3" chapter="48" bfolio="142v" bline="26" stemtype="etymological" />
       <token form="бж꙯ъѭ҄" lemma="божии" pos="A-" morph="-s---fipsi" rel="atr" book="3" chapter="48" bfolio="142v" bline="26" />
       <token form="прь҆стꙑ" lemma="прьстъ" pos="Nb" morph="-p---ma--i" rel="obj" stem="o stem masc" stemtype="ambiguous" book="3" chapter="48" bfolio="142v" bline="26" />
@@ -127906,7 +127906,7 @@
       <token form="ѥ҅динъ" lemma="ѥдинъ" pos="Px" morph="-s---ma--i" rel="atr" book="3" chapter="48" bfolio="143r" bline="09" />
     </line>
     <line n="10">
-      <token form="дь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="3" chapter="48" bfolio="143r" bline="10" stemtype="ambiguous" />
+      <token form="дь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="obl" stem="n stem" book="3" chapter="48" bfolio="143r" bline="10" />
       <token form="примик҄ирии҆" lemma="примикирии" pos="Nb" morph="-s---mn--i" rel="sub" stem="ja stem masc" book="3" chapter="48" bfolio="143r" bline="10" />
       <token form="на" lemma="на" pos="R-" morph="---------n" rel="obl" book="3" chapter="48" bfolio="143r" bline="10" />
       <token form="видѣньѥ" lemma="видѣниѥ" pos="Nb" morph="-s---na--i" rel="obl" stem="jo stem neutr" stemtype="etymological" book="3" chapter="48" bfolio="143r" bline="10" />
@@ -127957,7 +127957,7 @@
       <token form="старца" lemma="старьць" pos="Nb" morph="-s---mg--i" rel="obj" stem="jo stem masc" stemtype="etymological" book="3" chapter="48" bfolio="143r" bline="15" />
       <token form="сего" lemma="сь" pos="Pd" morph="-s---mg--i" rel="atr" book="3" chapter="48" bfolio="143r" bline="15" />
       <token form="ꙗ҅ко" lemma="ꙗко" pos="G-" morph="---------n" rel="adv" book="3" chapter="48" bfolio="143r" bline="15" />
-      <token form="дꙿни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obj" stem="n stem" book="3" chapter="48" bfolio="143r" bline="15" stemtype="ambiguous" />
+      <token form="дꙿни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obj" stem="n stem" book="3" chapter="48" bfolio="143r" bline="15" />
       <token form="многꙑ" lemma="мъногъ" pos="A-" morph="-p---mapsi" rel="atr" book="3" chapter="48" bfolio="143r" bline="15" />
       <token form="и҅матъ" lemma="имѣти" pos="V-" morph="3spia----i" rel="pred" book="3" chapter="48" bfolio="143r" bline="15" />
       <token form="сь҆де" lemma="сьде" pos="Df" morph="---------n" rel="adv" after="· " book="3" chapter="48" bfolio="143r" bline="15" />
@@ -128668,7 +128668,7 @@
     </line>
     <line n="27">
       <token form="и҅цѣл҄енъи҆" lemma="ицѣлити" pos="V-" morph="-suppmn-wi" rel="sub" after="· " book="3" chapter="48" bfolio="144r" bline="27" />
-      <token form="и҅менемь" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="3" chapter="48" bfolio="144r" bline="27" stemtype="ambiguous" />
+      <token form="и҅менемь" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="atr" stem="n stem" book="3" chapter="48" bfolio="144r" bline="27" stemtype="analogical" />
       <token form="сꙑ" lemma="бꙑти" pos="V-" morph="-sppamn-si" rel="atr" book="3" chapter="48" bfolio="144r" bline="27" />
       <token form="серг҄иї" lemma="сергии" pos="Ne" morph="-s---mn--i" rel="xobj" stem="ja stem masc" after="· " book="3" chapter="48" bfolio="144r" bline="27" />
       <token form="по" lemma="по" pos="R-" morph="---------n" rel="adv" book="3" chapter="48" bfolio="144r" bline="27" />
@@ -128676,7 +128676,7 @@
     </line>
     <line n="28">
       <token form="многꙑ" lemma="мъногъ" pos="A-" morph="-p---mapsi" rel="atr" book="3" chapter="48" bfolio="144r" bline="28" />
-      <token form="дꙿни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obj" stem="n stem" book="3" chapter="48" bfolio="144r" bline="28" stemtype="ambiguous" />
+      <token form="дꙿни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obj" stem="n stem" book="3" chapter="48" bfolio="144r" bline="28" />
       <token form="тоу" lemma="тоу" pos="Df" morph="---------n" rel="adv" book="3" chapter="48" bfolio="144r" bline="28" />
       <token form="благодарꙙ" lemma="благодарити" pos="V-" morph="-sppamn-si" rel="xadv" book="3" chapter="48" bfolio="144r" bline="28" />
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="xadv" book="3" chapter="48" bfolio="144r" bline="28" />
@@ -130009,7 +130009,7 @@
       <token form="дꙿнешь҆нꙗаго" lemma="дьньшьнь" pos="A-" morph="-s---mgpwi" rel="atr" book="3" chapter="48" bfolio="146v" bline="25" />
     </line>
     <line n="26">
-      <token form="дьне" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="obl" stem="n stem" after="· " book="3" chapter="48" bfolio="146v" bline="26" stemtype="etymological" />
+      <token form="дьне" lemma="дьнь" pos="Nb" morph="-s---mg--i" rel="obl" stem="n stem" after="· " book="3" chapter="48" bfolio="146v" bline="26" />
       <token form="величиѥ҆" lemma="величиѥ" pos="Nb" morph="-s---na--i" rel="obj" stem="jo stem neutr" stemtype="etymological" book="3" chapter="48" bfolio="146v" bline="26" />
       <token form="чоудесъ" lemma="чоудо" pos="Nb" morph="-p---ng--i" rel="atr" stem="s stem" stemtype="etymological" after="· " book="3" chapter="48" bfolio="146v" bline="26" />
       <token form="ѧ҅же" lemma="иже" pos="Pr" morph="-p---ma--i" rel="obj" book="3" chapter="48" bfolio="146v" bline="26" />
@@ -130249,7 +130249,7 @@
       <token form="а҅биѥ҆" lemma="абиѥ" pos="Df" morph="---------n" rel="adv" book="3" chapter="48" bfolio="147r" bline="23" />
       <token form="по" lemma="по" pos="R-" morph="---------n" rel="adv" book="3" chapter="48" bfolio="147r" bline="23" />
       <token form="ѥ҅дꙿномъ" lemma="ѥдьнъ" pos="Ma" morph="-s---ml--i" rel="atr" book="3" chapter="48" bfolio="147r" bline="23" />
-      <token form="дꙿни" lemma="дьнь" pos="Nb" morph="-s---md--i" rel="obl" stem="n stem" after="· " book="3" chapter="48" bfolio="147r" bline="23" stemtype="etymological" />
+      <token form="дꙿни" lemma="дьнь" pos="Nb" morph="-s---md--i" rel="obl" stem="n stem" after="· " book="3" chapter="48" bfolio="147r" bline="23" />
       <token form="приде" lemma="прити" pos="V-" morph="3saia----i" rel="pred" book="3" chapter="48" bfolio="147r" bline="23" />
     </line>
     <line n="24">
@@ -131119,7 +131119,7 @@
       <token form="въ" lemma="въ" pos="R-" morph="---------n" rel="xobj" book="3" chapter="48" bfolio="148v" bline="26" />
       <token form="манастꙑри" lemma="манастꙑрь" pos="Nb" morph="-s---ml--i" rel="obl" stem="jo stem masc" stemtype="etymological" book="3" chapter="48" bfolio="148v" bline="26" />
       <token form="многꙑ" lemma="мъногъ" pos="A-" morph="-p---mapsi" rel="atr" book="3" chapter="48" bfolio="148v" bline="26" />
-      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="adv" stem="n stem" after="· " book="3" chapter="48" bfolio="148v" bline="26" stemtype="ambiguous" />
+      <token form="дь҆ни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="adv" stem="n stem" after="· " book="3" chapter="48" bfolio="148v" bline="26" />
       <token form="ходꙙ" lemma="ходити" pos="V-" morph="-sppamn-si" rel="xadv" book="3" chapter="48" bfolio="148v" bline="26" />
     </line>
     <line n="27">
@@ -131408,7 +131408,7 @@
       <token form="ѧ" lemma="и" pos="Pp" morph="3p---ma--i" rel="obj" book="3" chapter="48" bfolio="149r" bline="28" />
       <token form="съблюде" lemma="съблюсти" pos="V-" morph="3saia----i" rel="pred" after="· " book="3" chapter="48" bfolio="149r" bline="28" />
       <token form="въ" lemma="въ" pos="R-" morph="---------n" rel="adv" book="3" chapter="48" bfolio="149r" bline="28" />
-      <token form="пламени" lemma="пламꙑ" pos="Nb" morph="-s---ml--i" rel="obl" stem="n stem" book="3" chapter="48" bfolio="149r" bline="28" stemtype="ambiguous" />
+      <token form="пламени" lemma="пламꙑ" pos="Nb" morph="-s---ml--i" rel="obl" stem="n stem" book="3" chapter="48" bfolio="149r" bline="28" stemtype="analogical" />
       <token form="о҅гнь҆нѣꙿмь" lemma="огньнъ" pos="A-" morph="-s---mlpwi" rel="atr" after="· " book="3" chapter="48" bfolio="149r" bline="28" />
       <token form="молитвоѭ҄" lemma="молитва" pos="Nb" morph="-s---fi--i" rel="adv" stem="a stem fem" book="3" chapter="48" bfolio="149r" bline="28" />
     </line>
@@ -131865,7 +131865,7 @@
       <token form="дон҄елиже" lemma="донѥлиже" pos="Dq" morph="---------n" rel="adv" book="3" chapter="48" bfolio="150r" bline="18" />
       <token form="на" lemma="на" pos="R-" morph="---------n" rel="adv" book="3" chapter="48" bfolio="150r" bline="18" />
       <token form="многꙑ" lemma="мъногъ" pos="A-" morph="-p---mapsi" rel="atr" book="3" chapter="48" bfolio="150r" bline="18" />
-      <token form="дни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" book="3" chapter="48" bfolio="150r" bline="18" stemtype="ambiguous" />
+      <token form="дни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" book="3" chapter="48" bfolio="150r" bline="18" />
       <token form="въ" lemma="въ" pos="R-" morph="---------n" rel="xobj" book="3" chapter="48" bfolio="150r" bline="18" />
       <token form="а҅лꙿчьбѣ" lemma="алъчьба" pos="Nb" morph="-s---fl--i" rel="obl" stem="a stem fem" book="3" chapter="48" bfolio="150r" bline="18" />
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="obl" book="3" chapter="48" bfolio="150r" bline="18" />
@@ -132712,7 +132712,7 @@
       <token form="гн꙯ѫ" lemma="господьнь" pos="A-" morph="-s---fapsi" rel="atr" after="· " book="3" chapter="48" bfolio="151v" bline="16" />
       <token form="по" lemma="по" pos="R-" morph="---------n" rel="adv" book="3" chapter="48" bfolio="151v" bline="16" />
       <token form="вь҆сꙙ" lemma="вьсь" pos="Px" morph="-p---ma--i" rel="atr" book="3" chapter="48" bfolio="151v" bline="16" />
-      <token form="дни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" after="· " book="3" chapter="48" bfolio="151v" bline="16" stemtype="ambiguous" />
+      <token form="дни" lemma="дьнь" pos="Nb" morph="-p---ma--i" rel="obl" stem="n stem" after="· " book="3" chapter="48" bfolio="151v" bline="16" />
       <token form="а҅бъѥ҅" lemma="абиѥ" pos="Df" morph="---------n" rel="adv" book="3" chapter="48" bfolio="151v" bline="16" />
     </line>
     <line n="17">
@@ -132864,7 +132864,7 @@
   </folio>
   <folio n="069v">
     <line n="17">
-      <token form="и҅менемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="adv" stem="n stem" book="1" chapter="9" bfolio="069v" bline="17" stemtype="ambiguous" />
+      <token form="и҅менемь҆" lemma="имѧ" pos="Nb" morph="-s---ni--i" rel="adv" stem="n stem" book="1" chapter="9" bfolio="069v" bline="17" stemtype="analogical" />
       <token form="толико" lemma="толикъ" pos="Pd" morph="-s---na--i" rel="adv" book="1" chapter="9" bfolio="069v" bline="17" />
       <token form="лѣтъ" lemma="лѣто" pos="Nb" morph="-p---ng--i" rel="part" stem="o stem neutr" stemtype="etymological" book="1" chapter="9" bfolio="069v" bline="17" />
     </line>
@@ -134296,7 +134296,7 @@
     </line>
     <line n="15">
       <token form="в꙯ї" lemma="дъва на десѧте" pos="Ma" morph="---------n" rel="atr" after="· " book="1" chapter="9" bfolio="072v" bline="15" />
-      <token form="дьнь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="adv" stem="n stem" book="1" chapter="9" bfolio="072v" bline="15" stemtype="ambiguous" />
+      <token form="дьнь҆" lemma="дьнь" pos="Nb" morph="-s---ma--i" rel="adv" stem="n stem" book="1" chapter="9" bfolio="072v" bline="15" />
       <token form="сѫбота" lemma="сѫбота" pos="Nb" morph="-s---fn--i" rel="apos" stem="a stem fem" book="1" chapter="9" bfolio="072v" bline="15" />
       <token form="часъ" lemma="часъ" pos="Nb" morph="-s---ma--i" rel="adv" stem="o stem masc" stemtype="ambiguous" book="1" chapter="9" bfolio="072v" bline="15" />
       <token form="ї꙯" lemma="десѧть" pos="Ma" morph="---------n" rel="atr" after="· " book="1" chapter="9" bfolio="072v" bline="15" />
