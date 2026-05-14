@@ -66501,13 +66501,13 @@
       <token form="бꙑтиꙗ" lemma="бꙑтиѥ" pos="Nb" morph="-s---ng--i" rel="obl" stem="jo stem neutr" stemtype="etymological" book="3" chapter="26" bfolio="019r" bline="04" />
       <token form="и҅мъ" lemma="и" pos="Pp" morph="3p---md--i" rel="atr" after="· " book="3" chapter="26" bfolio="019r" bline="04" />
       <token form="питаѧи҅" lemma="питати" pos="V-" morph="-sppamn-wi" rel="atr" book="3" chapter="26" bfolio="019r" bline="04" />
-      <token form="и҅стеса" lemma="исто" pos="Nb" morph="-p---na--i" rel="obj" stem="o stem neutr" stemtype="analogical" book="3" chapter="26" bfolio="019r" bline="04" />
+      <token form="и҅стеса" lemma="исто" pos="Nb" morph="-p---na--i" rel="obj" stem="o stem neutr" stemtype="etymological" book="3" chapter="26" bfolio="019r" bline="04" />
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="obj" book="3" chapter="26" bfolio="019r" bline="04" />
       <token form="сръдь҆ца" lemma="срьдьце" pos="Nb" morph="-p---na--i" rel="obj" stem="jo stem neutr" stemtype="etymological" book="3" chapter="26" bfolio="019r" bline="04" />
     </line>
     <line n="05">
       <token form="и" lemma="и" pos="C-" morph="---------n" rel="aux" book="3" chapter="26" bfolio="019r" bline="05" />
-      <token form="и҅стеса" lemma="исто" pos="Nb" morph="-p---na--i" rel="obj" stem="o stem neutr" stemtype="analogical" book="3" chapter="26" bfolio="019r" bline="05" />
+      <token form="и҅стеса" lemma="исто" pos="Nb" morph="-p---na--i" rel="obj" stem="o stem neutr" stemtype="etymological" book="3" chapter="26" bfolio="019r" bline="05" />
       <token form="богъ" lemma="богъ" pos="Nb" morph="-s---mn--i" rel="sub" stem="o stem masc" stemtype="ambiguous" after="· " book="3" chapter="26" bfolio="019r" bline="05" />
       <token form="вѣдꙑи" lemma="вѣдѣти" pos="V-" morph="-sppamn-wi" rel="atr" book="3" chapter="26" bfolio="019r" bline="05" />
       <token form="мꙑсли" lemma="мꙑсль" pos="Nb" morph="-p---fa--i" rel="obj" stem="i stem fem" book="3" chapter="26" bfolio="019r" bline="05" stemtype="etymological" />
@@ -76347,7 +76347,7 @@
   <folio n="175r">
     <line n="01">
       <token form="раждьꙁи" lemma="раждещи" pos="V-" morph="2spma----i" rel="pred" book="3" chapter="30" bfolio="041r" bline="01" />
-      <token form="и҅стесѣ" lemma="исто" pos="Nb" morph="-d---na--i" rel="obj" stem="o stem neutr" stemtype="analogical" book="3" chapter="30" bfolio="041r" bline="01" />
+      <token form="и҅стесѣ" lemma="исто" pos="Nb" morph="-d---na--i" rel="obj" stem="o stem neutr" stemtype="etymological" book="3" chapter="30" bfolio="041r" bline="01" />
       <token form="мои" lemma="мои" pos="Ps" morph="1d---na--i" rel="atr" book="3" chapter="30" bfolio="041r" bline="01" />
       <token form="и҅" lemma="и" pos="C-" morph="---------n" rel="obj" book="3" chapter="30" bfolio="041r" bline="01" />
       <token form="срь҆дь҆це" lemma="срьдьце" pos="Nb" morph="-s---na--i" rel="obj" stem="jo stem neutr" stemtype="etymological" book="3" chapter="30" bfolio="041r" bline="01" />
