@@ -67,6 +67,7 @@ STEM_CLASSES = {
     'tel stem':      ['tel stem'],
     's stem':        ['s stem'],
     'r stems':       ['r stems'],
+    't stem':        ['t stem'],
 }
 
 # ── Colors ────────────────────────────────────────────────────────────────────

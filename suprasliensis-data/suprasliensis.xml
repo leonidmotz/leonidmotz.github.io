@@ -9940,7 +9940,7 @@
     </line>
     <line n="29">
       <token form="дастъ" lemma="дати" pos="V-" morph="3saia----i" rel="pred" book="1" chapter="3" bfolio="022v" bline="29" />
-      <token form="матери" lemma="мати" pos="Nb" morph="-s---fd--i" rel="obl" stem="r stems" info="old" after=". " book="1" chapter="3" bfolio="022v" bline="29" stemtype="analogical" />
+      <token form="матери" lemma="мати" pos="Nb" morph="-s---fd--i" rel="obl" stem="r stems" info="old" after=". " book="1" chapter="3" bfolio="022v" bline="29" stemtype="etymological" />
       <token form="и͑" bform="и҅" lemma="и" pos="C-" morph="---------n" rel="aux" book="1" chapter="3" bfolio="022v" bline="29" />
       <token form="молитвѫ" lemma="молитва" pos="Nb" morph="-s---fa--i" rel="obj" stem="a stem fem" info="new" book="1" chapter="3" bfolio="022v" bline="29" />
       <token form="сътворивъ" lemma="сътворити" pos="V-" morph="-supamn-si" rel="xadv" book="1" chapter="3" bfolio="022v" bline="29" />
@@ -84816,7 +84816,7 @@
       <token form="и҅" lemma="и" pos="Df" morph="---------n" rel="aux" book="3" chapter="33" bfolio="058v" bline="16" />
       <token form="мꙑ" lemma="мꙑ" pos="Pp" morph="1p---qn--i" rel="sub" book="3" chapter="33" bfolio="058v" bline="16" />
       <token form="сꙙ" lemma="себе" pos="Pk" morph="3s---qa--i" rel="aux" book="3" chapter="33" bfolio="058v" bline="16" />
-      <token form="матери" lemma="мати" pos="Nb" morph="-s---fd--i" rel="obl" stem="r stems" book="3" chapter="33" bfolio="058v" bline="16" stemtype="analogical" />
+      <token form="матери" lemma="мати" pos="Nb" morph="-s---fd--i" rel="obl" stem="r stems" book="3" chapter="33" bfolio="058v" bline="16" stemtype="etymological" />
       <token form="о҄убоꙁѣи҆" lemma="оубогъ" pos="A-" morph="-s---fdpwi" rel="atr" after="· " book="3" chapter="33" bfolio="058v" bline="16" />
     </line>
     <line n="17">
@@ -101151,7 +101151,7 @@
     </line>
     <line n="18">
       <token form="марии҆" lemma="мариꙗ" pos="Ne" morph="-s---fd--i" rel="obl" stem="ja stem fem" book="3" chapter="40" bfolio="092r" bline="18" />
-      <token form="матери" lemma="мати" pos="Nb" morph="-s---fd--i" rel="apos" stem="r stems" book="3" chapter="40" bfolio="092r" bline="18" stemtype="analogical" />
+      <token form="матери" lemma="мати" pos="Nb" morph="-s---fd--i" rel="apos" stem="r stems" book="3" chapter="40" bfolio="092r" bline="18" stemtype="etymological" />
       <token form="христосовѣ" lemma="христ(ос)овъ" pos="A-" morph="-s---fdpsi" rel="atr" after="· " book="3" chapter="40" bfolio="092r" bline="18" />
       <token form="родь҆ство" lemma="родьство" pos="Nb" morph="-s---na--i" rel="obj" stem="o stem neutr" stemtype="ambiguous" book="3" chapter="40" bfolio="092r" bline="18" />
       <token form="ѥго" lemma="и" pos="Pp" morph="3s---mg--i" rel="narg" book="3" chapter="40" bfolio="092r" bline="18" />
