@@ -89,6 +89,7 @@ TITLE_MAP = {
     's stem':        '*s-Stämme',
     'r stems':       '*r-Stämme',
     'tel stem':      'teľ-Stämme',
+    't stem':        '*t-Stämme',
 }
 
 def make_heatmap(stem_label, stem_values, gender=None):

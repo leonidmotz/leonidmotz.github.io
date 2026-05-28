@@ -1,0 +1,792 @@
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=1  fo=005v  ln=09
+──────────────────────────────────────────────────────────────────────
+    -3  дръжимыи͑хъ                lemma=дрьжати                    stem=—                     st=—             morph=G.Pl
+    -2  а͑домъ                     lemma=адъ                        stem=o stem masc           st=etymological  morph=I.Sg
+    -1  свои͑мъ                    lemma=свои                       stem=—                     st=—             morph=I.Sg
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  ѥ͑же                       lemma=иже                        stem=—                     st=—             morph=N.Sg
+    +2  ѥ͑стъ                      lemma=бꙑти                       stem=—                     st=—             morph=—
+    +3  ѥ͑го                       lemma=и                          stem=—                     st=—             morph=G.Sg
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=1  fo=006r  ln=27
+──────────────────────────────────────────────────────────────────────
+    -3  сⱕ                         lemma=себе                       stem=—                     st=—             morph=A.Sg
+    -2  съ                         lemma=съ                         stem=—                     st=—             morph=—
+    -1  бж͆иѥ͑мъ                   lemma=божии                      stem=—                     st=—             morph=I.Sg
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  и͑                         lemma=и                          stem=—                     st=—             morph=—
+    +2  того                       lemma=тъ                         stem=—                     st=—             morph=G.Sg
+    +3  ради                       lemma=ради                       stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ANALOGICAL]  form=тѣломь  lemma=тѣло  ch=3  fo=018v  ln=21
+──────────────────────────────────────────────────────────────────────
+    -3  а͑кы                       lemma=акꙑ                        stem=—                     st=—             morph=—
+    -2  старица                    lemma=старица                    stem=ja stem fem           st=—             morph=N.Sg
+    -1  растрьзана                 lemma=растрьѕати                 stem=—                     st=—             morph=N.Sg
+  >>>  тѣломь                     lemma=тѣло                       stem=s stem                st=analogical    morph=I.Sg
+    +1  и͑                         lemma=и                          stem=—                     st=—             morph=—
+    +2  вь͗скрича                  lemma=въскричати                 stem=—                     st=—             morph=—
+    +3  весь                       lemma=вьсь                       stem=—                     st=—             morph=N.Sg
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=6  fo=043r  ln=10
+──────────────────────────────────────────────────────────────────────
+    -3  шарописател҄е              lemma=шарописатель               stem=tel stem              st=etymological  morph=N.Pl
+    -2  начрь͗таѭ҄тʼ               lemma=начрьтати                  stem=—                     st=—             morph=—
+    -1  о͑ви                       lemma=овъ                        stem=—                     st=—             morph=N.Pl
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  о҄украшаѭ҄ште              lemma=оукрашати                  stem=—                     st=—             morph=N.Pl
+    +2  а͑                         lemma=а                          stem=—                     st=—             morph=—
+    +3  сии͗                       lemma=сь                         stem=—                     st=—             morph=N.Pl
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=7  fo=053v  ln=09
+──────────────────────────────────────────────────────────────────────
+    -3  а͑нѳупатъ                  lemma=анѳѵпатъ                   stem=o stem masc           st=ambiguous     morph=N.Sg
+    -2  рече                       lemma=рещи                       stem=—                     st=—             morph=—
+    -1  ть͗мномъ                   lemma=тьмьнъ                     stem=—                     st=—             morph=I.Sg
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  хоулиши                    lemma=хоулити                    stem=—                     st=—             morph=—
+    +2  мь͗нꙙ                      lemma=мьнѣти                     stem=—                     st=—             morph=N.Sg
+    +3  зазь͗рѣти                  lemma=зазьрѣти                   stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ETYMOLOGICAL]  form=словесемъ  lemma=слово  ch=7  fo=053v  ln=11
+──────────────────────────────────────────────────────────────────────
+    -3  ст͆ꙑи                      lemma=свѧтъ                      stem=—                     st=—             morph=N.Sg
+    -2  кодратъ                    lemma=кодратъ                    stem=o stem masc           st=ambiguous     morph=N.Sg
+    -1  рече                       lemma=рещи                       stem=—                     st=—             morph=—
+  >>>  словесемъ                  lemma=слово                      stem=s stem                st=etymological  morph=I.Sg
+    +1  ть͗мнꙑи͗мъ                 lemma=тьмьнъ                     stem=—                     st=—             morph=I.Sg
+    +2  добрѣ                      lemma=добрѣ                      stem=—                     st=—             morph=—
+    +3  рече                       lemma=рещи                       stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ETYMOLOGICAL]  form=словесемъ  lemma=слово  ch=7  fo=053v  ln=14
+──────────────────────────────────────────────────────────────────────
+    -3  свѣтъла                    lemma=свѣтьлъ                    stem=—                     st=—             morph=N.Sg
+    -2  свѣтъломъ                  lemma=свѣтьлъ                    stem=—                     st=—             morph=I.Sg
+    -1  о̑убо                      lemma=оубо                       stem=—                     st=—             morph=—
+  >>>  словесемъ                  lemma=слово                      stem=s stem                st=etymological  morph=I.Sg
+    +1  прѣродител̑ьнꙑи͗ми         lemma=прародительнъ              stem=—                     st=—             morph=I.Pl
+    +2  начь͗нѫ                    lemma=начѧти                     stem=—                     st=—             morph=—
+    +3  гласꙑ                      lemma=гласъ                      stem=o stem masc           st=etymological  morph=I.Pl
+
+======================================================================
+TARGET [ANALOGICAL]  form=тѣломъ  lemma=тѣло  ch=11  fo=078v  ln=26
+──────────────────────────────────────────────────────────────────────
+    -3  погребете                  lemma=погрети                    stem=—                     st=—             morph=—
+    -2  съ                         lemma=съ                         stem=—                     st=—             morph=—
+    -1  мои҅мъ                     lemma=мои                        stem=—                     st=—             morph=I.Sg
+  >>>  тѣломъ                     lemma=тѣло                       stem=s stem                st=analogical    morph=I.Sg
+    +1  и҅                         lemma=и                          stem=—                     st=—             morph=—
+    +2  се                         lemma=сь                         stem=—                     st=—             morph=A.Sg
+    +3  рекъ                       lemma=рещи                       stem=—                     st=—             morph=N.Sg
+
+======================================================================
+TARGET [ANALOGICAL]  form=тѣломъ  lemma=тѣло  ch=12  fo=080r  ln=12
+──────────────────────────────────────────────────────────────────────
+    -3  сѫдънꙑи                    lemma=сѫдьнъ                     stem=—                     st=—             morph=A.Sg
+    -2  доушеѭ̑                    lemma=доуша                      stem=ja stem fem           st=—             morph=I.Sg
+    -1  и҅                         lemma=и                          stem=—                     st=—             morph=—
+  >>>  тѣломъ                     lemma=тѣло                       stem=s stem                st=analogical    morph=I.Sg
+    +1  ҅Антонинъ                  lemma=антонинъ                   stem=o stem masc           st=ambiguous     morph=N.Sg
+    +2  глагола                    lemma=глаголати                  stem=—                     st=—             morph=—
+    +3  въꙁгнѣтите                 lemma=възгнѣтити                 stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ANALOGICAL]  form=тѣломъ  lemma=тѣло  ch=13  fo=085r  ln=25
+──────────────────────────────────────────────────────────────────────
+    -3  сꙙ                         lemma=себе                       stem=—                     st=—             morph=A.Sg
+    -2  а҅ште                      lemma=аще                        stem=—                     st=—             morph=—
+    -1  не                         lemma=не                         stem=—                     st=—             morph=—
+  >>>  тѣломъ                     lemma=тѣло                       stem=s stem                st=analogical    morph=I.Sg
+    +1  и҅мꙿже                     lemma=иже                        stem=—                     st=—             morph=I.Sg
+    +2  съгрѣши                    lemma=съгрѣшити                  stem=—                     st=—             morph=—
+    +3  и҅                         lemma=и                          stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=15  fo=038r  ln=24
+──────────────────────────────────────────────────────────────────────
+    -3  и҅                         lemma=и                          stem=—                     st=—             morph=—
+    -2  красънꙑ                    lemma=красьнъ                    stem=—                     st=—             morph=A.Pl
+    -1  и҅                         lemma=и                          stem=—                     st=—             morph=—
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  о҄умѫдренꙑ                 lemma=оумѫдрити                  stem=—                     st=—             morph=A.Pl
+    +2  и҅                         lemma=и                          stem=—                     st=—             morph=—
+    +3  како                       lemma=како                       stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=19  fo=112r  ln=06
+──────────────────────────────────────────────────────────────────────
+    -3  дивиѧѧ                     lemma=дивии                      stem=—                     st=—             morph=A.Pl
+    -2  животꙑ                     lemma=животъ                     stem=o stem masc           st=ambiguous     morph=A.Pl
+    -1  о҄улавь҆ꙗѧ                 lemma=оулавлꙗти                  stem=—                     st=—             morph=N.Sg
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  хс꙯овомъ                   lemma=христ(ос)овъ               stem=—                     st=—             morph=I.Sg
+    +2  вь҆слѣдьствоваста          lemma=въслѣдьствовати            stem=—                     st=—             morph=—
+    +3  же                         lemma=же                         stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ETYMOLOGICAL]  form=словесемь҆  lemma=слово  ch=19  fo=112r  ln=17
+──────────────────────────────────────────────────────────────────────
+    -3  рабъ                       lemma=рабъ                       stem=o stem masc           st=ambiguous     morph=N.Sg
+    -2  божии                      lemma=божии                      stem=—                     st=—             morph=N.Sg
+    -1  а҅ртемонъ                  lemma=артемонъ                   stem=o stem masc           st=ambiguous     morph=N.Sg
+  >>>  словесемь҆                 lemma=слово                      stem=s stem                st=etymological  morph=I.Sg
+    +1  христосомъ                 lemma=христ(ос)овъ               stem=—                     st=—             morph=I.Sg
+    +2  си                         lemma=сь                         stem=—                     st=—             morph=N.Pl
+    +3  о҄уловь҆ѥ҅ни               lemma=оуловити                   stem=—                     st=—             morph=N.Pl
+
+======================================================================
+TARGET [ETYMOLOGICAL]  form=небесемь҆  lemma=небо  ch=19  fo=116v  ln=04
+──────────────────────────────────────────────────────────────────────
+    -3  вь҆се                      lemma=вьсь                       stem=—                     st=—             morph=A.Sg
+    -2  чоудимоѥ                   lemma=чоудимъ                    stem=—                     st=—             morph=A.Sg
+    -1  подъ                       lemma=подъ                       stem=—                     st=—             morph=—
+  >>>  небесемь҆                  lemma=небо                       stem=s stem                st=etymological  morph=I.Sg
+    +1  и҅                         lemma=и                          stem=—                     st=—             morph=—
+    +2  господь                    lemma=господь                    stem=i stem masc           st=ambiguous     morph=N.Sg
+    +3  ѥ҅си                       lemma=бꙑти                       stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=21  fo=125r  ln=18
+──────────────────────────────────────────────────────────────────────
+    -3  мене                       lemma=азъ                        stem=—                     st=—             morph=G.Sg
+    -2  сътворь҆шоуо̑умоу          lemma=сътворити                  stem=—                     st=—             morph=Dt.Sg
+    -1  вь҆сѣчь҆скаꙗ҆              lemma=вьсꙗчьскъ                  stem=—                     st=—             morph=A.Pl
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  почто                      lemma=почьто                     stem=—                     st=—             morph=—
+    +2  въ                         lemma=въ                         stem=—                     st=—             morph=—
+    +3  дь҆вѣ                      lemma=дъва                       stem=—                     st=—             morph=A.Du
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=24  fo=139r  ln=14
+──────────────────────────────────────────────────────────────────────
+    -3  ꙁаконоположениѥ҆           lemma=законоположениѥ            stem=jo stem neutr         st=etymological  morph=A.Sg
+    -2  и҅                         lemma=и                          stem=—                     st=—             morph=—
+    -1  видъ                       lemma=видъ                       stem=o stem masc           st=ambiguous     morph=A.Sg
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  божиѥ҅мъ                   lemma=божии                      stem=—                     st=—             morph=I.Sg
+    +2  о҅твръꙁаатъ                lemma=отврьзати                  stem=—                     st=—             morph=—
+    +3  о̑уста                     lemma=оуста                      stem=o stem neutr          st=etymological  morph=A.Pl
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=25  fo=140r  ln=29
+──────────────────────────────────────────────────────────────────────
+    -3  божь҆ствънѫѭ̑              lemma=божьствьнъ                 stem=—                     st=—             morph=I.Sg
+    -2  и҅же                       lemma=иже                        stem=—                     st=—             morph=N.Sg
+    -1  плодънꙑи҅мъ                lemma=плодьнъ                    stem=—                     st=—             morph=I.Sg
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  и҅                         lemma=и                          stem=—                     st=—             morph=—
+    +2  дѣломъ                     lemma=дѣло                       stem=o stem neutr          st=etymological  morph=I.Sg
+    +3  на                         lemma=на                         stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ETYMOLOGICAL]  form=словесемь҆  lemma=слово  ch=25  fo=144v  ln=04
+──────────────────────────────────────────────────────────────────────
+    -3  о҅бѣшта                    lemma=обѣщати                    stem=—                     st=—             morph=—
+    -2  сꙙ                         lemma=себе                       stem=—                     st=—             morph=A.Sg
+    -1  богоу                      lemma=богъ                       stem=o stem masc           st=etymological  morph=Dt.Sg
+  >>>  словесемь҆                 lemma=слово                      stem=s stem                st=etymological  morph=I.Sg
+    +1  никомоуже                  lemma=никътоже                   stem=—                     st=—             morph=Dt.Sg
+    +2  съпроста                   lemma=съпроста                   stem=—                     st=—             morph=—
+    +3  того                       lemma=тъ                         stem=—                     st=—             morph=G.Sg
+
+======================================================================
+TARGET [ETYMOLOGICAL]  form=чоудесьмь  lemma=чоудо  ch=25  fo=150r  ln=02
+──────────────────────────────────────────────────────────────────────
+    -3  проꙁорьнѣѣмь҆              lemma=прозорьнъ                  stem=—                     st=—             morph=L.Sg
+    -2  дароу                      lemma=даръ                       stem=ŭ stem                st=etymological  morph=L.Sg
+    -1  и҅                         lemma=и                          stem=—                     st=—             morph=—
+  >>>  чоудесьмь                  lemma=чоудо                      stem=s stem                st=etymological  morph=I.Sg
+    +1  и҅ꙁмѣнивъ                  lemma=измѣнити                   stem=—                     st=—             morph=N.Sg
+    +2  сꙙ                         lemma=себе                       stem=—                     st=—             morph=A.Sg
+    +3  о҅бѣшта                    lemma=обѣщати                    stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=26  fo=154r  ln=09
+──────────────────────────────────────────────────────────────────────
+    -3  о̑учител҄и                 lemma=оучитель                   stem=tel stem              st=etymological  morph=L.Sg
+    -2  о̑ученици                  lemma=оученикъ                   stem=o stem masc           st=etymological  morph=N.Pl
+    -1  ѥ҅моу                      lemma=и                          stem=—                     st=—             morph=Dt.Sg
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  мрь҆твꙑѧ҆                  lemma=мрьтвъ                     stem=—                     st=—             morph=A.Pl
+    +2  вь҆ставишꙙ                 lemma=въставити                  stem=—                     st=—             morph=—
+    +3  петръ                      lemma=петръ                      stem=o stem masc           st=ambiguous     morph=N.Sg
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомь҆  lemma=слово  ch=26  fo=154r  ln=11
+──────────────────────────────────────────────────────────────────────
+    -3  петръ                      lemma=петръ                      stem=o stem masc           st=ambiguous     morph=N.Sg
+    -2  тавиѳѫ                     lemma=тавиѳа                     stem=a stem fem            st=—             morph=A.Sg
+    -1  не                         lemma=не                         stem=—                     st=—             morph=—
+  >>>  словомь҆                   lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  ли                         lemma=ли                         stem=—                     st=—             morph=—
+    +2  вс҆тави                    lemma=въставити                  stem=—                     st=—             morph=—
+    +3  паулъ                      lemma=павьлъ                     stem=o stem masc           st=ambiguous     morph=N.Sg
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомь҆  lemma=слово  ch=26  fo=154r  ln=30
+──────────────────────────────────────────────────────────────────────
+    -3  и҅нъ                       lemma=инъ                        stem=—                     st=—             morph=N.Sg
+    -2  вѣшта                      lemma=вѣщати                     stem=—                     st=—             morph=—
+    -1  рь҆ци                      lemma=рещи                       stem=—                     st=—             morph=—
+  >>>  словомь҆                   lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  и҅                         lemma=и                          stem=—                     st=—             morph=—
+    +2  и҅сцѣлѣѥ҅тъ                lemma=ицѣлѣти                    stem=—                     st=—             morph=—
+    +3  о҅трокъ                    lemma=отрокъ                     stem=o stem masc           st=ambiguous     morph=N.Sg
+
+======================================================================
+TARGET [ANALOGICAL]  form=словъмъ  lemma=слово  ch=27  fo=156v  ln=14
+──────────────────────────────────────────────────────────────────────
+    -3  вамъ                       lemma=вꙑ                         stem=—                     st=—             morph=Dt.Pl
+    -2  сѫштемъ                    lemma=бꙑти                       stem=—                     st=—             morph=Dt.Pl
+    -1  млѣка                      lemma=млѣко                      stem=o stem neutr          st=etymological  morph=N.Pl
+  >>>  словъмъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  таже                       lemma=таже                       stem=—                     st=—             morph=—
+    +2  ѥ҅гда                      lemma=ѥгда                       stem=—                     st=—             morph=—
+    +3  ꙁабꙑтиꙗ                    lemma=забꙑтиѥ                    stem=jo stem neutr         st=etymological  morph=G.Sg
+
+======================================================================
+TARGET [ANALOGICAL]  form=тѣломъ  lemma=тѣло  ch=27  fo=158r  ln=10
+──────────────────────────────────────────────────────────────────────
+    -3  о̑убо                      lemma=оубо                       stem=—                     st=—             morph=—
+    -2  тоу                        lemma=тоу                        stem=—                     st=—             morph=—
+    -1  нъ                         lemma=нъ                         stem=—                     st=—             morph=—
+  >>>  тѣломъ                     lemma=тѣло                       stem=s stem                st=analogical    morph=I.Sg
+    +1  не                         lemma=не                         stem=—                     st=—             morph=—
+    +2  бѣ                         lemma=бꙑти                       stem=—                     st=—             morph=—
+    +3  тоу                        lemma=тоу                        stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомь  lemma=слово  ch=27  fo=158v  ln=09
+──────────────────────────────────────────────────────────────────────
+    -3  дѣломъ                     lemma=дѣло                       stem=o stem neutr          st=etymological  morph=I.Sg
+    -2  паче                       lemma=паче                       stem=—                     st=—             morph=—
+    -1  и҅ли                       lemma=или                        stem=—                     st=—             morph=—
+  >>>  словомь                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  нао̑учитъ                  lemma=наоучити                   stem=—                     st=—             morph=N.
+    +2  просльꙁи                   lemma=просльзити                 stem=—                     st=—             morph=—
+    +3  їс꙯                        lemma=исоусъ                     stem=o stem masc           st=ambiguous     morph=N.Sg
+
+======================================================================
+TARGET [ETYMOLOGICAL]  form=словесемь҆  lemma=слово  ch=28  fo=164r  ln=06
+──────────────────────────────────────────────────────────────────────
+    -3  богать҆ство                lemma=богатьство                 stem=o stem neutr          st=ambiguous     morph=A.Sg
+    -2  и҅ꙁнесошꙙ                  lemma=изнести                    stem=—                     st=—             morph=—
+    -1  и҅                         lemma=и                          stem=—                     st=—             morph=—
+  >>>  словесемь҆                 lemma=слово                      stem=s stem                st=etymological  morph=I.Sg
+    +1  веселомъ                   lemma=веселъ                     stem=—                     st=—             morph=I.Sg
+    +2  велми                      lemma=вельми                     stem=—                     st=—             morph=—
+    +3  вь҆сѣхъ                    lemma=вьсь                       stem=—                     st=—             morph=G.Pl
+
+======================================================================
+TARGET [ETYMOLOGICAL]  form=словесемь҆  lemma=слово  ch=29  fo=167v  ln=11
+──────────────────────────────────────────────────────────────────────
+    -3  рѫкоу                      lemma=рѫка                       stem=a stem fem            st=—             morph=L.Du
+    -2  носима                     lemma=носити                     stem=—                     st=—             morph=G.Sg
+    -1  и҅                         lemma=и                          stem=—                     st=—             morph=—
+  >>>  словесемь҆                 lemma=слово                      stem=s stem                st=etymological  morph=I.Sg
+    +1  ѥ҅днѣмь҆                   lemma=ѥдинъ                      stem=—                     st=—             morph=I.Sg
+    +2  движѫшта                   lemma=двиѕати                    stem=—                     st=—             morph=G.Sg
+    +3  не                         lemma=не                         stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ETYMOLOGICAL]  form=тѣлесемь  lemma=тѣло  ch=30  fo=172r  ln=11
+──────────────────────────────────────────────────────────────────────
+    -3  ꙗ҅ко                       lemma=ꙗко                        stem=—                     st=—             morph=—
+    -2  бꙑти                       lemma=бꙑти                       stem=—                     st=—             morph=—
+    -1  такомоу                    lemma=такъ                       stem=—                     st=—             morph=Dt.Sg
+  >>>  тѣлесемь                   lemma=тѣло                       stem=s stem                st=etymological  morph=I.Sg
+    +1  на                         lemma=на                         stem=—                     st=—             morph=—
+    +2  томь҆                      lemma=тъ                         stem=—                     st=—             morph=L.Sg
+    +3  мѣстѣ                      lemma=мѣсто                      stem=o stem neutr          st=etymological  morph=L.Sg
+
+======================================================================
+TARGET [ETYMOLOGICAL]  form=словесемь  lemma=слово  ch=30  fo=172v  ln=26
+──────────────────────────────────────────────────────────────────────
+    -3  пакꙑ                       lemma=пакꙑ                       stem=—                     st=—             morph=—
+    -2  въводитъ                   lemma=въводити                   stem=—                     st=—             morph=—
+    -1  сь҆                        lemma=съ                         stem=—                     st=—             morph=—
+  >>>  словесемь                  lemma=слово                      stem=s stem                st=etymological  morph=I.Sg
+    +1  то                         lemma=то                         stem=—                     st=—             morph=—
+    +2  како                       lemma=како                       stem=—                     st=—             morph=—
+    +3  глагол҄етъ                 lemma=глаголати                  stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомь҆  lemma=слово  ch=30  fo=173r  ln=08
+──────────────────────────────────────────────────────────────────────
+    -3  бесплодь҆на                lemma=бесплодьнъ                 stem=—                     st=—             morph=G.Sg
+    -2  о̑усоуши                   lemma=оусоушити                  stem=—                     st=—             morph=—
+    -1  ѭ̑                         lemma=и                          stem=—                     st=—             morph=A.Sg
+  >>>  словомь҆                   lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  а҅кꙑ                       lemma=акꙑ                        stem=—                     st=—             morph=—
+    +2  богъ                       lemma=богъ                       stem=o stem masc           st=ambiguous     morph=N.Sg
+    +3  рече                       lemma=рещи                       stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=30  fo=173r  ln=21
+──────────────────────────────────────────────────────────────────────
+    -3  бо                         lemma=бо                         stem=—                     st=—             morph=—
+    -2  бѣ                         lemma=бꙑти                       stem=—                     st=—             morph=—
+    -1  бѣда                       lemma=бѣда                       stem=a stem fem            st=—             morph=N.Sg
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  и҅съхнѫти                  lemma=исъхнѫти                   stem=—                     st=—             morph=—
+    +2  смокви                     lemma=смокꙑ                      stem=ū stem                st=ambiguous     morph=A.Pl
+    +3  а҅                         lemma=а                          stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=30  fo=173r  ln=22
+──────────────────────────────────────────────────────────────────────
+    -3  смокви                     lemma=смокꙑ                      stem=ū stem                st=ambiguous     morph=A.Pl
+    -2  а҅                         lemma=а                          stem=—                     st=—             morph=—
+    -1  не                         lemma=не                         stem=—                     st=—             morph=—
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  плода                      lemma=плодъ                      stem=o stem masc           st=etymological  morph=G.Sg
+    +2  и҅мѣти                     lemma=имѣти                      stem=—                     st=—             morph=—
+    +3  ѥ҅же                       lemma=иже                        stem=—                     st=—             morph=N.Sg
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=30  fo=173r  ln=23
+──────────────────────────────────────────────────────────────────────
+    -3  и҅мѣти                     lemma=имѣти                      stem=—                     st=—             morph=—
+    -2  ѥ҅же                       lemma=иже                        stem=—                     st=—             morph=N.Sg
+    -1  бо                         lemma=бо                         stem=—                     st=—             morph=—
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  и҅соуши                    lemma=исоушити                   stem=—                     st=—             morph=—
+    +2  ѭ̑                         lemma=и                          stem=—                     st=—             morph=A.Sg
+    +3  можаа҅ше                   lemma=мощи                       stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=30  fo=173r  ln=24
+──────────────────────────────────────────────────────────────────────
+    -3  ѭ̑                         lemma=и                          stem=—                     st=—             morph=A.Sg
+    -2  можаа҅ше                   lemma=мощи                       stem=—                     st=—             morph=—
+    -1  и҅                         lemma=и                          stem=—                     st=—             morph=—
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  плодънѫ                    lemma=плодьнъ                    stem=—                     st=—             morph=A.Sg
+    +2  сътворити                  lemma=сътворити                  stem=—                     st=—             morph=—
+    +3  чꙿто                       lemma=чьто                       stem=—                     st=—             morph=A.Sg
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=30  fo=173v  ln=02
+──────────────────────────────────────────────────────────────────────
+    -3  хвалимъ                    lemma=хвалити                    stem=—                     st=—             morph=N.Sg
+    -2  о̑убо                      lemma=оубо                       stem=—                     st=—             morph=—
+    -1  ꙗ҅ко                       lemma=ꙗко                        stem=—                     st=—             morph=—
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  о̑усоуши                   lemma=оусоушити                  stem=—                     st=—             morph=—
+    +2  ꙁаꙁорь҆нъ                  lemma=зазорьнъ                   stem=—                     st=—             morph=N.Sg
+    +3  же                         lemma=же                         stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ETYMOLOGICAL]  form=словесемъ  lemma=слово  ch=30  fo=174v  ln=05
+──────────────────────────────────────────────────────────────────────
+    -3  тоѧ                        lemma=тъ                         stem=—                     st=—             morph=G.Sg
+    -2  стꙑдь҆ка                   lemma=стꙑдъкъ                    stem=—                     st=—             morph=G.Sg
+    -1  покровишта                 lemma=покровище                  stem=jo stem neutr         st=etymological  morph=G.Sg
+  >>>  словесемъ                  lemma=слово                      stem=s stem                st=etymological  morph=I.Sg
+    +1  о̑усоуши                   lemma=оусоушити                  stem=—                     st=—             morph=—
+    +2  о҅тънꙙ                     lemma=отѧти                      stem=—                     st=—             morph=—
+    +3  ти                         lemma=тꙑ                         stem=—                     st=—             morph=Dt.Sg
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=31  fo=181v  ln=17
+──────────────────────────────────────────────────────────────────────
+    -3  погꙑбоста                  lemma=погꙑбати                   stem=—                     st=—             morph=—
+    -2  и҅                         lemma=и                          stem=—                     st=—             morph=—
+    -1  съ                         lemma=съ                         stem=—                     st=—             morph=—
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  и҅мѣнии҅мъ                 lemma=имѣньнъ                    stem=—                     st=—             morph=I.Sg
+    +2  тъгда                      lemma=тъгда                      stem=—                     st=—             morph=—
+    +3  бо                         lemma=бо                         stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=32  fo=188r  ln=18
+──────────────────────────────────────────────────────────────────────
+    -3  ни                         lemma=ни                         stem=—                     st=—             morph=—
+    -2  богать҆ствомъ              lemma=богатьство                 stem=o stem neutr          st=etymological  morph=I.Sg
+    -1  ни                         lemma=ни                         stem=—                     st=—             morph=—
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  ни                         lemma=ни                         stem=—                     st=—             morph=—
+    +2  ꙁастѫпомъ                  lemma=застѫпъ                    stem=o stem masc           st=etymological  morph=I.Sg
+    +3  ни                         lemma=ни                         stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=32  fo=189r  ln=01
+──────────────────────────────────────────────────────────────────────
+    -3  и҅                         lemma=и                          stem=—                     st=—             morph=—
+    -2  вьсе                       lemma=вьсь                       stem=—                     st=—             morph=A.Sg
+    -1  блажениѥ҆                  lemma=блажениѥ                   stem=jo stem neutr         st=etymological  morph=A.Sg
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  симъ                       lemma=сь                         stem=—                     st=—             morph=I.Sg
+    +2  покаꙁавъ                   lemma=показати                   stem=—                     st=—             morph=N.Sg
+    +3  нъ                         lemma=нъ                         stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ETYMOLOGICAL]  form=словесемь҆  lemma=слово  ch=33  fo=194r  ln=22
+──────────────────────────────────────────────────────────────────────
+    -3  пѣготꙑ                     lemma=пѣготꙑ                     stem=a stem fem            st=—             morph=A.Pl
+    -2  а҅кꙑ                       lemma=акꙑ                        stem=—                     st=—             morph=—
+    -1  лопатоѭ҄                   lemma=лопата                     stem=a stem fem            st=—             morph=I.Sg
+  >>>  словесемь҆                 lemma=слово                      stem=s stem                st=etymological  morph=I.Sg
+    +1  сь҆брꙑса                   lemma=събрꙑсати                  stem=—                     st=—             morph=—
+    +2  ти                         lemma=ти                         stem=—                     st=—             morph=—
+    +3  томоу                      lemma=тъ                         stem=—                     st=—             morph=Dt.Sg
+
+======================================================================
+TARGET [ETYMOLOGICAL]  form=словесемь҆  lemma=слово  ch=33  fo=194v  ln=02
+──────────────────────────────────────────────────────────────────────
+    -3  сице                       lemma=сице                       stem=—                     st=—             morph=—
+    -2  недѫгꙑ                     lemma=недѫгъ                     stem=o stem masc           st=ambiguous     morph=A.Pl
+    -1  и҅мѣѭ҄шта                  lemma=имѣти                      stem=—                     st=—             morph=G.Sg
+  >>>  словесемь҆                 lemma=слово                      stem=s stem                st=etymological  morph=I.Sg
+    +1  и҅цѣли                     lemma=ицѣлити                    stem=—                     st=—             morph=—
+    +2  ти                         lemma=ти                         stem=—                     st=—             morph=—
+    +3  томоу                      lemma=тъ                         stem=—                     st=—             morph=Dt.Sg
+
+======================================================================
+TARGET [ETYMOLOGICAL]  form=словесемь҆  lemma=слово  ch=38  fo=215v  ln=10
+──────────────────────────────────────────────────────────────────────
+    -3  и҅                         lemma=и                          stem=—                     st=—             morph=—
+    -2  свѣтълъ                    lemma=свѣтьлъ                    stem=—                     st=—             morph=N.Sg
+    -1  ѥ҅смь҆                     lemma=бꙑти                       stem=—                     st=—             morph=—
+  >>>  словесемь҆                 lemma=слово                      stem=s stem                st=etymological  morph=I.Sg
+    +1  и҅                         lemma=и                          stem=—                     st=—             morph=—
+    +2  глаголѫ                    lemma=глаголати                  stem=—                     st=—             morph=—
+    +3  къ                         lemma=къ                         stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=41  fo=237r  ln=11
+──────────────────────────────────────────────────────────────────────
+    -3  въ                         lemma=въ                         stem=—                     st=—             morph=—
+    -2  поустꙑн҄и                  lemma=поустꙑни                   stem=ja stem fem           st=—             morph=L.Sg
+    -1  прогꙿналъ                  lemma=прогънати                  stem=—                     st=—             morph=N.Sg
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  множь҆ство                 lemma=мъножьство                 stem=o stem neutr          st=ambiguous     morph=A.Sg
+    +2  бѣсъ                       lemma=бѣсъ                       stem=o stem masc           st=etymological  morph=G.Pl
+    +3  слово                      lemma=слово                      stem=s stem                st=ambiguous     morph=A.Sg
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=41  fo=237r  ln=16
+──────────────────────────────────────────────────────────────────────
+    -3  хромꙑѧ                     lemma=хромъ                      stem=—                     st=—             morph=A.Pl
+    -2  на                         lemma=на                         stem=—                     st=—             morph=—
+    -1  течень҆ѥ                   lemma=течениѥ                    stem=jo stem neutr         st=etymological  morph=A.Sg
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  ꙁъвааше                    lemma=зъвати                     stem=—                     st=—             morph=—
+    +2  о҅слабьѥ҅наа҅го            lemma=ослабити                   stem=—                     st=—             morph=G.Sg
+    +3  и҅сцѣливъ                  lemma=ицѣлити                    stem=—                     st=—             morph=N.Sg
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=41  fo=237r  ln=19
+──────────────────────────────────────────────────────────────────────
+    -3  боурѫ                      lemma=боурꙗ                      stem=ja stem fem           st=—             morph=A.Sg
+    -2  вѣтрь҆нѫ                   lemma=вѣтрьнъ                    stem=—                     st=—             morph=A.Sg
+    -1  оутолилъ                   lemma=оутолити                   stem=—                     st=—             morph=N.Sg
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  ѧ҅тиѥ                      lemma=ѩтиѥ                       stem=jo stem neutr         st=etymological  morph=N.Sg
+    +2  краꙗ                       lemma=краи                       stem=jo stem masc          st=etymological  morph=G.Sg
+    +3  риꙁꙑ                       lemma=риза                       stem=a stem fem            st=—             morph=G.Sg
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=41  fo=238v  ln=11
+──────────────────────────────────────────────────────────────────────
+    -3  и҅мꙙ                       lemma=имѧ                        stem=n stem                st=etymological  morph=N.Sg
+    -2  ѥ҅го                       lemma=и                          stem=—                     st=—             morph=G.Sg
+    -1  ѥ҅днѣмъ                    lemma=ѥдинъ                      stem=—                     st=—             morph=I.Sg
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  о҅тъгонꙙ                   lemma=отъгонити                  stem=—                     st=—             morph=N.Sg
+    +2  страсти                    lemma=страсть                    stem=i stem fem            st=etymological  morph=A.Pl
+    +3  ѥ҅дноѭ̑                    lemma=ѥдинъ                      stem=—                     st=—             morph=I.Sg
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=41  fo=238v  ln=13
+──────────────────────────────────────────────────────────────────────
+    -3  силь҆нъ                    lemma=сильнъ                     stem=—                     st=—             morph=N.Sg
+    -2  дѣломъ                     lemma=дѣло                       stem=o stem neutr          st=etymological  morph=I.Sg
+    -1  и҅                         lemma=и                          stem=—                     st=—             morph=—
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  мороу                      lemma=морѥ                       stem=jo stem neutr         st=etymological  morph=Dt.Sg
+    +2  прѣштааше                  lemma=прѣтити                    stem=—                     st=—             morph=—
+    +3  и҅                         lemma=и                          stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=41  fo=238v  ln=14
+──────────────────────────────────────────────────────────────────────
+    -3  силь҆нъ                    lemma=сильнъ                     stem=—                     st=—             morph=N.Sg
+    -2  дѣломъ                     lemma=дѣло                       stem=o stem neutr          st=etymological  morph=I.Sg
+    -1  и҅                         lemma=и                          stem=—                     st=—             morph=—
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  сь҆                        lemma=съ                         stem=—                     st=—             morph=—
+    +2  прокаꙁы҆                   lemma=проказа                    stem=a stem fem            st=—             morph=G.Sg
+    +3  съвлѣче                    lemma=съвлѣщи                    stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=41  fo=238v  ln=16
+──────────────────────────────────────────────────────────────────────
+    -3  и҅                         lemma=и                          stem=—                     st=—             morph=—
+    -2  о̑устѫпаа҅хѫ               lemma=оустѫпати                  stem=—                     st=—             morph=—
+    -1  силь҆нъ                    lemma=сильнъ                     stem=—                     st=—             morph=N.Sg
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  касаа҅ше                   lemma=касати                     stem=—                     st=—             morph=—
+    +2  сꙙ                         lemma=себе                       stem=—                     st=—             morph=A.Sg
+    +3  жъгомꙑи҅мъ                 lemma=жещи                       stem=—                     st=—             morph=Dt.Pl
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=41  fo=238v  ln=19
+──────────────────────────────────────────────────────────────────────
+    -3  їꙁношаа҅ше                 lemma=износити                   stem=—                     st=—             morph=—
+    -2  ть҆лѣнь҆нꙑѧ҆               lemma=тьлѣньнъ                   stem=—                     st=—             morph=A.Pl
+    -1  силь҆нъ                    lemma=сильнъ                     stem=—                     st=—             morph=N.Sg
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  вь҆ꙁь҆мъ                   lemma=възѧти                     stem=—                     st=—             morph=N.Sg
+    +2  пꙙть҆                      lemma=пѧть                       stem=—                     st=—             morph=A.Sg
+    +3  хлѣбъ                      lemma=хлѣбъ                      stem=o stem masc           st=etymological  morph=G.Pl
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=41  fo=238v  ln=22
+──────────────────────────────────────────────────────────────────────
+    -3  свиниѧ҆                    lemma=свиниꙗ                     stem=ja stem fem           st=—             morph=A.Pl
+    -2  посꙑлаа҅ше                 lemma=посꙑлати                   stem=—                     st=—             morph=—
+    -1  силь҆нъ                    lemma=сильнъ                     stem=—                     st=—             morph=N.Sg
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  касааше                    lemma=касати                     stem=—                     st=—             morph=—
+    +2  сꙙ                         lemma=себе                       stem=—                     st=—             morph=A.Sg
+    +3  соусѣ                      lemma=соухъ                      stem=—                     st=—             morph=Dt.Sg
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=41  fo=238v  ln=24
+──────────────────────────────────────────────────────────────────────
+    -3  и҅                         lemma=и                          stem=—                     st=—             morph=—
+    -2  їсъхнѣꙗ҅ше                 lemma=исъхнѫти                   stem=—                     st=—             morph=—
+    -1  силь҆нъ                    lemma=сильнъ                     stem=—                     st=—             morph=N.Sg
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  брь҆нии҅мъ                 lemma=брьниѥ                     stem=jo stem neutr         st=etymological  morph=I.Sg
+    +2  помаꙁаа҅ше                 lemma=помазати                   stem=—                     st=—             morph=—
+    +3  о҅чи                       lemma=око                        stem=irregular s stem      st=—             morph=A.Du
+
+======================================================================
+TARGET [ANALOGICAL]  form=словъмъ  lemma=слово  ch=41  fo=238v  ln=26
+──────────────────────────────────────────────────────────────────────
+    -3  дѣлꙑ                       lemma=дѣло                       stem=o stem neutr          st=etymological  morph=I.Pl
+    -2  а҅рꙿхиереиска              lemma=архиереискъ                stem=—                     st=—             morph=G.Sg
+    -1  свѣта                      lemma=съвѣтъ                     stem=o stem masc           st=etymological  morph=G.Sg
+  >>>  словъмъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  о҅строуꙗаше                lemma=остроуꙗти                  stem=—                     st=—             morph=—
+    +2  сильнъ                     lemma=сильнъ                     stem=—                     st=—             morph=N.Sg
+    +3  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=41  fo=238v  ln=27
+──────────────────────────────────────────────────────────────────────
+    -3  словъмъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    -2  о҅строуꙗаше                lemma=остроуꙗти                  stem=—                     st=—             morph=—
+    -1  сильнъ                     lemma=сильнъ                     stem=—                     st=—             morph=N.Sg
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  и҅                         lemma=и                          stem=—                     st=—             morph=—
+    +2  дѣль҆мь҆                   lemma=дѣло                       stem=o stem neutr          st=etymological  morph=I.Sg
+    +3  водънааго                  lemma=водьнъ                     stem=—                     st=—             morph=G.Sg
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=41  fo=238v  ln=28
+──────────────────────────────────────────────────────────────────────
+    -3  строуѧ                     lemma=строуꙗ                     stem=ja stem fem           st=—             morph=A.Pl
+    -2  и҅ꙁь҆лиꙗ                   lemma=излиꙗти                    stem=—                     st=—             morph=—
+    -1  силь҆нъ                    lemma=сильнъ                     stem=—                     st=—             morph=N.Sg
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  и҅                         lemma=и                          stem=—                     st=—             morph=—
+    +2  дѣломъ                     lemma=дѣло                       stem=o stem neutr          st=etymological  morph=I.Sg
+    +3  прихождаа҅хѫ               lemma=приходити                  stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомь҆  lemma=слово  ch=41  fo=238v  ln=30
+──────────────────────────────────────────────────────────────────────
+    -3  ѥго                        lemma=и                          stem=—                     st=—             morph=G.Sg
+    -2  и҅                         lemma=и                          stem=—                     st=—             morph=—
+    -1  ѥ҅днѣмъ                    lemma=ѥдинъ                      stem=—                     st=—             morph=I.Sg
+  >>>  словомь҆                   lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  о҅нѣмь҆ꙗше                 lemma=онѣмлꙗти                   stem=—                     st=—             morph=—
+    +2  ѧ҅                         lemma=и                          stem=—                     st=—             morph=A.Pl
+    +3  ѥ҅гда                      lemma=ѥгда                       stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=41  fo=239r  ln=04
+──────────────────────────────────────────────────────────────────────
+    -3  сь҆вѣтъ                    lemma=съвѣтъ                     stem=o stem masc           st=ambiguous     morph=A.Sg
+    -2  и҅хъ                       lemma=и                          stem=—                     st=—             morph=G.Pl
+    -1  силь҆нъ                    lemma=сильнъ                     stem=—                     st=—             morph=N.Sg
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  и҅                         lemma=и                          stem=—                     st=—             morph=—
+    +2  дѣломъ                     lemma=дѣло                       stem=o stem neutr          st=etymological  morph=I.Sg
+    +3  прѣдъ                      lemma=прѣдъ                      stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ANALOGICAL]  form=тѣломъ  lemma=тѣло  ch=43  fo=247v  ln=23
+──────────────────────────────────────────────────────────────────────
+    -3  съ                         lemma=съ                         stem=—                     st=—             morph=—
+    -2  доушеѭ̑                    lemma=доуша                      stem=ja stem fem           st=—             morph=I.Sg
+    -1  и҅                         lemma=и                          stem=—                     st=—             morph=—
+  >>>  тѣломъ                     lemma=тѣло                       stem=s stem                st=analogical    morph=I.Sg
+    +1  достои҅ное҆                lemma=достоинъ                   stem=—                     st=—             morph=A.Sg
+    +2  съконь҆чаи҅мъ              lemma=съконьчати                 stem=—                     st=—             morph=—
+    +3  да                         lemma=да                         stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ANALOGICAL]  form=тѣломъ  lemma=тѣло  ch=43  fo=248r  ln=14
+──────────────────────────────────────────────────────────────────────
+    -3  съ                         lemma=съ                         stem=—                     st=—             morph=—
+    -2  хръстомъ                   lemma=христ(ос)ъ                 stem=o stem masc           st=etymological  morph=I.Sg
+    -1  о҅нъ                       lemma=онъ                        stem=—                     st=—             morph=N.Sg
+  >>>  тѣломъ                     lemma=тѣло                       stem=s stem                st=analogical    morph=I.Sg
+    +1  о̑умрѣ                     lemma=оумрѣти                    stem=—                     st=—             morph=—
+    +2  и҅                         lemma=и                          stem=—                     st=—             morph=—
+    +3  тѣломъ                     lemma=тѣло                       stem=s stem                st=analogical    morph=I.Sg
+
+======================================================================
+TARGET [ANALOGICAL]  form=тѣломъ  lemma=тѣло  ch=43  fo=248r  ln=14
+──────────────────────────────────────────────────────────────────────
+    -3  тѣломъ                     lemma=тѣло                       stem=s stem                st=analogical    morph=I.Sg
+    -2  о̑умрѣ                     lemma=оумрѣти                    stem=—                     st=—             morph=—
+    -1  и҅                         lemma=и                          stem=—                     st=—             morph=—
+  >>>  тѣломъ                     lemma=тѣло                       stem=s stem                st=analogical    morph=I.Sg
+    +1  въста                      lemma=въстати                    stem=—                     st=—             morph=—
+    +2  сии                        lemma=сь                         stem=—                     st=—             morph=N.Pl
+    +3  же                         lemma=же                         stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ANALOGICAL]  form=тѣломъ  lemma=тѣло  ch=44  fo=252r  ln=05
+──────────────────────────────────────────────────────────────────────
+    -3  приближи                   lemma=приближити                 stem=—                     st=—             morph=—
+    -2  ми                         lemma=азъ                        stem=—                     st=—             morph=Dt.Sg
+    -1  сꙙ                         lemma=себе                       stem=—                     st=—             morph=A.Sg
+  >>>  тѣломъ                     lemma=тѣло                       stem=s stem                st=analogical    morph=I.Sg
+    +1  и҅                         lemma=и                          stem=—                     st=—             morph=—
+    +2  доухомъ                    lemma=доухъ                      stem=o stem masc           st=etymological  morph=I.Sg
+    +3  и҅                         lemma=и                          stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=44  fo=252v  ln=23
+──────────────────────────────────────────────────────────────────────
+    -3  ѥ҅ште                      lemma=ѥще                        stem=—                     st=—             morph=—
+    -2  твоѥго                     lemma=твои                       stem=—                     st=—             morph=G.Sg
+    -1  цѣсарьствиꙗ                lemma=цѣсарьствиѥ                stem=jo stem neutr         st=etymological  morph=G.Sg
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  о҅тꙙжѫ                     lemma=отѧѕати                    stem=—                     st=—             morph=—
+    +2  вѣдѣ                       lemma=вѣдѣти                     stem=—                     st=—             morph=—
+    +3  что                        lemma=чьто                       stem=—                     st=—             morph=A.Sg
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=46  fo=262r  ln=06
+──────────────────────────────────────────────────────────────────────
+    -3  и҅                         lemma=и                          stem=—                     st=—             morph=—
+    -2  вь҆нимаѧ҆                  lemma=вънимати                   stem=—                     st=—             morph=N.Sg
+    -1  ꙗ҅коже                     lemma=ꙗкоже                      stem=—                     st=—             morph=—
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  тъчьѭ̑                     lemma=тъчиѭ                      stem=—                     st=—             morph=—
+    +2  довь҆ленъ                  lemma=довольнъ                   stem=—                     st=—             morph=N.Sg
+    +3  бꙑвъ                       lemma=бꙑти                       stem=—                     st=—             morph=N.Sg
+
+======================================================================
+TARGET [ANALOGICAL]  form=тѣломъ  lemma=тѣло  ch=46  fo=262r  ln=28
+──────────────────────────────────────────────────────────────────────
+    -3  и҅же                       lemma=иже                        stem=—                     st=—             morph=N.Sg
+    -2  дш꙯еѭ̑                     lemma=доуша                      stem=ja stem fem           st=—             morph=I.Sg
+    -1  и҅                         lemma=и                          stem=—                     st=—             morph=—
+  >>>  тѣломъ                     lemma=тѣло                       stem=s stem                st=analogical    morph=I.Sg
+    +1  проблѫдивь                 lemma=проблѫдити                 stem=—                     st=—             morph=N.Sg
+    +2  сꙙ                         lemma=себе                       stem=—                     st=—             morph=A.Sg
+    +3  о҅ть҆                      lemma=отъ                        stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ETYMOLOGICAL]  form=словесемъ  lemma=слово  ch=46  fo=263v  ln=22
+──────────────────────────────────────────────────────────────────────
+    -3  и҅                         lemma=и                          stem=—                     st=—             morph=—
+    -2  о̑убои҅ства                lemma=оубоиство                  stem=o stem neutr          st=etymological  morph=G.Sg
+    -1  въпадъ                     lemma=въпасти                    stem=—                     st=—             morph=N.Sg
+  >>>  словесемъ                  lemma=слово                      stem=s stem                st=etymological  morph=I.Sg
+    +1  покаа҅нь҆ѥ҆                lemma=покаꙗниѥ                   stem=jo stem neutr         st=etymological  morph=A.Sg
+    +2  о҅бавивъ                   lemma=обавити                    stem=—                     st=—             morph=N.Sg
+    +3  проштениѥ҆                 lemma=прощениѥ                   stem=jo stem neutr         st=etymological  morph=A.Sg
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=46  fo=266r  ln=24
+──────────────────────────────────────────────────────────────────────
+    -3  ѥ҅моу                      lemma=и                          stem=—                     st=—             morph=Dt.Sg
+    -2  ꙗ҅коже                     lemma=ꙗкоже                      stem=—                     st=—             morph=—
+    -1  ѥ҅моу                      lemma=и                          stem=—                     st=—             morph=Dt.Sg
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  въскорѣ                    lemma=въскорѣ                    stem=—                     st=—             morph=—
+    +2  прогонити                  lemma=прогонити                  stem=—                     st=—             morph=—
+    +3  нечистꙑѧ҆                  lemma=нечистъ                    stem=—                     st=—             morph=A.Pl
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=47  fo=268r  ln=13
+──────────────────────────────────────────────────────────────────────
+    -3  на                         lemma=на                         stem=—                     st=—             morph=—
+    -2  небесехъ                   lemma=небо                       stem=s stem                st=etymological  morph=L.Pl
+    -1  и҅же                       lemma=иже                        stem=—                     st=—             morph=N.Sg
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  свои҅мъ                    lemma=свои                       stem=—                     st=—             morph=I.Sg
+    +2  сьтворивꙿ                  lemma=сътворити                  stem=—                     st=—             morph=N.Sg
+    +3  вь҆сѣчь҆скаꙗ҆              lemma=вьсꙗчьскъ                  stem=—                     st=—             morph=A.Pl
+
+======================================================================
+TARGET [ANALOGICAL]  form=тѣломъ  lemma=тѣло  ch=47  fo=269r  ln=05
+──────────────────────────────────────────────────────────────────────
+    -3  крь҆штень҆ꙗ                lemma=крьщениѥ                   stem=jo stem neutr         st=etymological  morph=G.Sg
+    -2  е҅ухиѧ҆                    lemma=еѵхи                       stem=—                     st=—             morph=G.Sg
+    -1  надъ                       lemma=надъ                       stem=—                     st=—             morph=—
+  >>>  тѣломъ                     lemma=тѣло                       stem=s stem                st=analogical    morph=I.Sg
+    +1  ѥ҅го                       lemma=и                          stem=—                     st=—             morph=G.Sg
+    +2  а҅кꙑ                       lemma=акꙑ                        stem=—                     st=—             morph=—
+    +3  надъ                       lemma=надъ                       stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ETYMOLOGICAL]  form=небесемъ  lemma=небо  ch=48  fo=273r  ln=05
+──────────────────────────────────────────────────────────────────────
+    -3  чловѣкъ                    lemma=чловѣкъ                    stem=o stem masc           st=etymological  morph=G.Pl
+    -2  и҅же                       lemma=иже                        stem=—                     st=—             morph=N.Pl
+    -1  подъ                       lemma=подъ                       stem=—                     st=—             morph=—
+  >>>  небесемъ                   lemma=небо                       stem=s stem                st=etymological  morph=I.Sg
+    +1  и҅                         lemma=и                          stem=—                     st=—             morph=—
+    +2  ѥ҅же                       lemma=иже                        stem=—                     st=—             morph=N.Sg
+    +3  о҅тъ                       lemma=отъ                        stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ANALOGICAL]  form=тѣломъ  lemma=тѣло  ch=48  fo=276v  ln=23
+──────────────────────────────────────────────────────────────────────
+    -3  нѣмь҆                      lemma=нѣмъ                       stem=—                     st=—             morph=N.Sg
+    -2  и҅                         lemma=и                          stem=—                     st=—             morph=—
+    -1  всѣмъ                      lemma=вьсь                       stem=—                     st=—             morph=I.Sg
+  >>>  тѣломъ                     lemma=тѣло                       stem=s stem                st=analogical    morph=I.Sg
+    +1  раслабѥ҅нъ                 lemma=раслаблѥнъ                 stem=—                     st=—             morph=N.Sg
+    +2  ѥ҅гоже                     lemma=иже                        stem=—                     st=—             morph=G.Sg
+    +3  не                         lemma=не                         stem=—                     st=—             morph=—
+
+======================================================================
+TARGET [ANALOGICAL]  form=тѣломъ  lemma=тѣло  ch=48  fo=277r  ln=17
+──────────────────────────────────────────────────────────────────────
+    -3  съкроушаѥ҅мъ               lemma=съкроушати                 stem=—                     st=—             morph=N.Sg
+    -2  страждꙙ                    lemma=страдати                   stem=—                     st=—             morph=N.Sg
+    -1  вь҆сѣмъ                    lemma=вьсь                       stem=—                     st=—             morph=I.Sg
+  >>>  тѣломъ                     lemma=тѣло                       stem=s stem                st=analogical    morph=I.Sg
+    +1  и҅                         lemma=и                          stem=—                     st=—             morph=—
+    +2  въ                         lemma=въ                         stem=—                     st=—             morph=—
+    +3  толико                     lemma=толикъ                     stem=—                     st=—             morph=A.Sg
+
+======================================================================
+TARGET [ANALOGICAL]  form=словомъ  lemma=слово  ch=48  fo=284v  ln=16
+──────────────────────────────────────────────────────────────────────
+    -3  и҅                         lemma=и                          stem=—                     st=—             morph=—
+    -2  коупꙿно                    lemma=коупьно                    stem=—                     st=—             morph=—
+    -1  съ                         lemma=съ                         stem=—                     st=—             morph=—
+  >>>  словомъ                    lemma=слово                      stem=s stem                st=analogical    morph=I.Sg
+    +1  о҅блачь҆цъ                 lemma=облачьць                   stem=jo stem masc          st=etymological  morph=N.Sg
+    +2  малъ                       lemma=малъ                       stem=—                     st=—             morph=N.Sg
+    +3  ꙗ҅ви                       lemma=авити                      stem=—                     st=—             morph=—
+

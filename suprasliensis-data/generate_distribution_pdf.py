@@ -3,6 +3,7 @@ Codex Suprasliensis — Token Distribution Timeline
 One row per chapter (1–48). Each matching token is a dot placed at its
 proportional position within the chapter (index / total_in_chapter - 1).
 Blue = analogical, dark grey = everything else (etymological, ambiguous, untagged).
+Saves both PNG and PDF for each plot.
 """
 
 import json, gzip, base64, re, os
@@ -11,6 +12,8 @@ matplotlib.use('Agg')
 import matplotlib.pyplot as plt
 import matplotlib.font_manager as fm
 from pathlib import Path
+
+plt.rcParams['pdf.fonttype'] = 42  # embed TrueType fonts in PDF
 
 # ── Paths ─────────────────────────────────────────────────────────────────────
 DATA_JS   = Path.home() / 'github/leonidmotz.github.io/suprasliensis-data/data.js'
@@ -173,9 +176,16 @@ for CONFIG in CONFIGS:
     ax.text(0.165, legend_y, 'nicht analogisch / ungetaggt',
             ha='left', va='center', fontsize=7, color='#333333')
 
+    # Save PNG
     out_path = OUT_DIR / CONFIG['out_file']
-    fig.savefig(out_path, dpi=CONFIG['dpi'], bbox_inches='tight', pad_inches=0.1, facecolor='white')
-    out_path_pdf = OUT_DIR / CONFIG['out_file'].replace('.png', '.pdf')
-    fig.savefig(out_path_pdf, bbox_inches='tight', pad_inches=0.1, facecolor='white')
-    plt.close(fig)
+    fig.savefig(out_path, dpi=CONFIG['dpi'], bbox_inches='tight',
+                pad_inches=0.1, facecolor='white')
     print(f"Saved -> {out_path}")
+
+    # Save PDF
+    out_path_pdf = OUT_DIR / CONFIG['out_file'].replace('.png', '.pdf')
+    fig.savefig(out_path_pdf, bbox_inches='tight',
+                pad_inches=0.1, facecolor='white', backend='pdf')
+    print(f"Saved -> {out_path_pdf}")
+
+    plt.close(fig)

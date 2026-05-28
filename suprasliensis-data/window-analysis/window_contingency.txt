@@ -1,0 +1,109 @@
+=================================================================
+G.Sg  s-stem target / G.Sg  o/jo/ŭ or analog. s neighbour
+=================================================================
+
+                            has neighbour   no neighbour   total
+─────────────────────────────────────────────────────────────────
+analogical                              5             23      28
+etymological                            5             44      49
+─────────────────────────────────────────────────────────────────
+total                                  10             67      77
+
+Odds ratio:  1.9130
+p-value:     0.4825 (Fisher's exact, two-sided)
+
+Rate | analogical:   17.9% (5/28)
+Rate | etymological: 10.2% (5/49)
+
+Analogical tokens with neighbour:
+  тѣла                  ch=6  fo=043v  ln=27
+  слова                 ch=9  fo=067v  ln=01
+  слова                 ch=9  fo=067v  ln=25
+  тѣла                  ch=11  fo=078v  ln=23
+  тѣла                  ch=47  fo=268v  ln=04
+
+Etymological tokens with neighbour:
+  небесе                ch=2  fo=011v  ln=12
+  словесе               ch=9  fo=066r  ln=13
+  словесе               ch=29  fo=170r  ln=26
+  небесе                ch=37  fo=213r  ln=15
+  тѣлес                 ch=40  fo=224r  ln=29
+
+=================================================================
+Dt.Sg s-stem target / Dt.Sg o/jo/ŭ or analog. s neighbour
+=================================================================
+
+                            has neighbour   no neighbour   total
+─────────────────────────────────────────────────────────────────
+analogical                              3             14      17
+etymological                            0             22      22
+─────────────────────────────────────────────────────────────────
+total                                   3             36      39
+
+Odds ratio:  inf
+p-value:     0.0744 (Fisher's exact, two-sided)
+
+Rate | analogical:   17.6% (3/17)
+Rate | etymological: 0.0% (0/22)
+
+Analogical tokens with neighbour:
+  тѣлоу                 ch=1  fo=007r  ln=13
+  словоу                ch=16  fo=094v  ln=05
+  тѣлоу                 ch=40  fo=231v  ln=10
+
+Etymological tokens with neighbour:
+
+=================================================================
+I.Sg  s-stem target / I.Sg  o/jo/ŭ or analog. s neighbour
+=================================================================
+
+                            has neighbour   no neighbour   total
+─────────────────────────────────────────────────────────────────
+analogical                             14             42      56
+etymological                            0             16      16
+─────────────────────────────────────────────────────────────────
+total                                  14             58      72
+
+Odds ratio:  inf
+p-value:     0.0299 (Fisher's exact, two-sided)
+
+Rate | analogical:   25.0% (14/56)
+Rate | etymological: 0.0% (0/16)
+
+Analogical tokens with neighbour:
+  словомъ               ch=1  fo=005v  ln=09
+  словомъ               ch=25  fo=140r  ln=29
+  словомь               ch=27  fo=158v  ln=09
+  словомъ               ch=32  fo=188r  ln=18
+  словомъ               ch=41  fo=238v  ln=13
+  словомъ               ch=41  fo=238v  ln=14
+  словомъ               ch=41  fo=238v  ln=24
+  словъмъ               ch=41  fo=238v  ln=26  [mutual s-stem]
+  словомъ               ch=41  fo=238v  ln=27  [mutual s-stem]
+  словомъ               ch=41  fo=238v  ln=28
+  словомъ               ch=41  fo=239r  ln=04
+  тѣломъ                ch=43  fo=248r  ln=14
+  тѣломъ                ch=43  fo=248r  ln=14  [mutual s-stem]
+  тѣломъ                ch=44  fo=252r  ln=05
+  --> 3 of the above have an analogical s-stem as qualifying neighbour (potential mutual counting)
+
+Etymological tokens with neighbour:
+
+=================================================================
+POOLED G+Dt+I.Sg (same-case o/jo/ŭ neighbour)
+=================================================================
+
+                            has neighbour   no neighbour   total
+─────────────────────────────────────────────────────────────────
+analogical                             22             79     101
+etymological                            5             82      87
+─────────────────────────────────────────────────────────────────
+total                                  27            161     188
+
+Odds ratio:  4.5671
+p-value:     0.0017 (Fisher's exact, two-sided)
+
+Rate | analogical:   21.8% (22/101)
+Rate | etymological: 5.7% (5/87)
+
+

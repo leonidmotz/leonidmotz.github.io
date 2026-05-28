@@ -1,0 +1,116 @@
+token_idx,form,bform,lemma,pos,morph,case,number,gender,stem,stemtype,rel,info,after,book,chapter,folio,line,bfolio,bline
+1367,о҄удовъ,,оудъ,Nb,-p---mg--i,G,Pl,masc,o stem masc,analogical,obl,new,. ,1,1,005r,9,005r,9
+2925,воловъ,,волъ,Nb,-p---mg--i,G,Pl,masc,ŭ stem,etymological,part,info_unannotatable,,1,2,010r,1,010r,1
+5626,домовъ,,домъ,Nb,-p---mg--i,G,Pl,masc,ŭ stem,etymological,obl,new,,1,3,018r,8,018r,8
+6501,бѣсовъ,,бѣсъ,Nb,-p---mg--i,G,Pl,masc,o stem masc,analogical,obl,old_inact,,1,3,020v,15,020v,15
+6929,воловъ,,волъ,Nb,-p---mg--i,G,Pl,masc,ŭ stem,etymological,part,,. ,1,3,021v,29,021v,29
+8685,доухове,,доухъ,Nb,-p---mn--i,N,Pl,masc,o stem masc,analogical,sub,,,1,3,027r,16,,
+8754,хръстови,,христ(ос)ъ,Ne,-s---md--i,Dt,Sg,masc,o stem masc,analogical,obl,,,1,3,027v,1,027v,1
+11398,господеви,,господь,Nb,-s---md--i,Dt,Sg,masc,i stem masc,analogical,obl,,,1,5,035v,20,035v,20
+12521,змиѥве,ꙁмиѥве,змии,Nb,-p---mn--i,N,Pl,masc,jo stem masc,analogical,sub,,,1,5,040r,5,040r,5
+13350,господеви,,господь,Nb,-s---md--i,Dt,Sg,masc,i stem masc,analogical,obl,,. ,1,5,042r,22,042r,22
+14271,цѣсареви,,цѣсарь,Nb,-s---md--i,Dt,Sg,masc,jo stem masc,analogical,obl,,,1,6,045r,21,045r,21
+14592,о҄удовъ,,оудъ,Nb,-p---mg--i,G,Pl,masc,o stem masc,analogical,obl,,,1,6,046r,21,046r,21
+14793,рабови,,рабъ,Nb,-s---md--i,Dt,Sg,masc,o stem masc,analogical,adv,,,1,6,046v,28,046v,28
+14911,дия͑волови,диꙗ҅волови,диꙗволъ,Nb,-s---md--i,Dt,Sg,masc,o stem masc,analogical,obl,,. ,1,6,047r,18,,
+15306,паулови,,павьлъ,Ne,-s---md--i,Dt,Sg,masc,o stem masc,analogical,narg,,. ,1,6,048v,6,048v,6
+15398,сынове,сꙑнове,сꙑнъ#2,Nb,-p---mn--i,N,Pl,masc,o stem masc,analogical,sub,,,1,6,048v,21,048v,21
+15574,мѫжеви,,мѫжь,Nb,-s---md--i,Dt,Sg,masc,jo stem masc,analogical,sub,,. ,1,6,049r,23,049r,23
+15818,мирови,,миръ#2,Nb,-s---md--i,Dt,Sg,masc,o stem masc,analogical,adv,,. ,1,6,050r,12,050r,12
+17424,к̑есареви,к҄есареви,кесарь,Nb,-s---md--i,Dt,Sg,masc,jo stem masc,analogical,obl,,. ,1,7,054v,17,054v,17
+19079,бѣсовъ,,бѣсъ,Nb,-p---mg--i,G,Pl,masc,o stem masc,analogical,atr,,. ,1,7,059r,27,059r,27
+25374,львови,,львъ,Nb,-s---md--i,Dt,Sg,masc,o stem masc,analogical,atr,,· ,1,12,080v,9,080v,9
+27594,зноѥве,ꙁноѥве,знои,Nb,-p---mn--i,N,Pl,masc,jo stem masc,analogical,sub,kind,,1,14,087v,29,,
+28065,о҄удовъ,,оудъ,Nb,-p---mg--i,G,Pl,masc,o stem masc,analogical,obl,,,1,15,038v,14,038v,14
+31709,градовъ,,градъ,Nb,-p---mg--i,G,Pl,masc,o stem masc,analogical,obl,,,1,16,101r,21,101r,21
+32884,дарове,,даръ,Nb,-p---mn--i,N,Pl,masc,ŭ stem,etymological,sub,,,1,17,105v,1,105v,1
+34324,попове,,попъ,Nb,-p---mn--i,N,Pl,masc,o stem masc,analogical,sub,,,1,18,110r,19,110r,19
+35561,ꙁмиѥ҅ве,,змии,Nb,-p---mn--i,N,Pl,masc,jo stem masc,analogical,sub,,,1,19,114r,29,114r,29
+35829,ꙁмиѥ҅ве,,змии,Nb,-p---mn--i,N,Pl,masc,jo stem masc,analogical,sub,,,1,19,115r,24,115r,24
+36960,доухове,,доухъ,Nb,-p---mn--i,N,Pl,masc,o stem masc,analogical,xobj,,,2,20,119r,8,001r,8
+38178,їѡ̑сифови,їѡ҄сифови,иосифъ,Ne,-s---md--i,Dt,Sg,masc,o stem masc,analogical,obl,,· ,2,21,122v,17,004v,17
+38181,и҅соусови,,исоусъ,Ne,-s---md--i,Dt,Sg,masc,o stem masc,analogical,obl,,· ,2,21,122v,18,004v,18
+38515,сꙑновъ,,сꙑнъ#1,Nb,-p---mg--i,G,Pl,masc,ŭ stem,etymological,obl,,,2,21,123v,20,005v,20
+38544,їѡ̑сифови,їѡ҄сифови,иосифъ,Ne,-s---md--i,Dt,Sg,masc,o stem masc,analogical,obl,,,2,21,123v,25,005v,25
+39100,патриа҅рхови,,патриархъ,Nb,-s---md--i,Dt,Sg,masc,o stem masc,analogical,obl,,,2,21,125v,15,007v,15
+39597,сꙑнове,,сꙑнъ#1,Nb,-p---mn--i,N,Pl,masc,ŭ stem,etymological,sub,,,2,22,127r,19,009r,19
+41143,сꙑнове,,сꙑнъ#1,Nb,-p---mn--i,N,Pl,masc,ŭ stem,etymological,sub,,,2,23,131v,21,013v,21
+41167,сꙑнове,,сꙑнъ#1,Nb,-p---mn--i,N,Pl,masc,ŭ stem,etymological,sub,,,2,23,131v,25,013v,25
+42062,домовъ,,домъ,Nb,-p---mg--i,G,Pl,masc,ŭ stem,etymological,obj,,,2,23,134r,24,016r,24
+42351,о̑удовъ,о҄удовъ,оудъ,Nb,-p---mg--i,G,Pl,masc,o stem masc,analogical,arg,,,3,23,135r,14,001r,14
+43638,мѡсеѡ̑ви,мѡсеѡ҄ви,моси,Ne,-s---md--i,Dt,Sg,masc,jo stem masc,analogical,obl,,· ,3,24,139r,21,005r,21
+44039,сановъ,,санъ,Nb,-p---mg--i,G,Pl,masc,o stem masc,analogical,atr,,,3,25,140v,13,006v,13
+47439,сѫдове,,сѫдъ,Nb,-p---mn--i,N,Pl,masc,o stem masc,analogical,sub,,,3,25,151r,8,017r,8
+47525,садове,,садъ,Nb,-p---mn--i,N,Pl,masc,o stem masc,analogical,sub,,,3,25,151r,23,017r,23
+47532,ꙁноѥ҅въ,,знои,Nb,-p---mg--i,G,Pl,masc,jo stem masc,analogical,obl,,,3,25,151r,24,017r,24
+49644,господеви,,господь,Nb,-s---md--i,Dt,Sg,masc,i stem masc,analogical,sub,,· ,3,27,157r,21,023r,21
+50736,господеви,,господь,Nb,-s---md--i,Dt,Sg,masc,i stem masc,analogical,obl,,· ,3,28,160v,10,026v,10
+51257,бѣсовъ,,бѣсъ,Nb,-p---mg--i,G,Pl,masc,o stem masc,analogical,narg,,,3,28,162r,21,028r,21
+51887,сꙑнови,,сꙑнъ#1,Nb,-s---md--i,Dt,Sg,masc,ŭ stem,etymological,obl,,,3,28,164r,19,030r,19
+52330,господеви,,господь,Nb,-s---md--i,Dt,Sg,masc,i stem masc,analogical,sub,,,3,28,165v,10,031v,10
+54060,господеви,,господь,Nb,-s---md--i,Dt,Sg,masc,i stem masc,analogical,obl,,,3,29,171r,6,037r,6
+55105,дарове,,даръ,Nb,-p---mn--i,N,Pl,masc,ŭ stem,etymological,sub,,· ,3,30,174r,24,040r,24
+55235,мирови,,миръ#2,Nb,-s---md--i,Dt,Sg,masc,o stem masc,analogical,obl,,· ,3,30,174v,18,040v,18
+55763,мирови,,миръ#2,Nb,-s---md--i,Dt,Sg,masc,o stem masc,analogical,obl,,,3,30,176r,23,,
+56015,грѣховъ,,грѣхъ,Nb,-p---mg--i,G,Pl,masc,o stem masc,analogical,narg,,· ,3,30,177r,9,,
+56960,богови,,богъ,Nb,-s---md--i,Dt,Sg,masc,o stem masc,analogical,apos,,,3,31,179v,28,045v,28
+57283,господеви,,господь,Nb,-s---md--i,Dt,Sg,masc,i stem masc,analogical,obl,,,3,31,180v,25,046v,25
+57336,врачеви,,врачь,Nb,-s---md--i,Dt,Sg,masc,jo stem masc,analogical,obl,,,3,31,181r,5,047r,5
+57730,господеви,,господь,Nb,-s---md--i,Dt,Sg,masc,i stem masc,analogical,obl,,· ,3,31,182r,11,048r,11
+57864,петрови,,петръ,Ne,-s---md--i,Dt,Sg,masc,o stem masc,analogical,obl,,,3,31,182v,4,048v,4
+57876,господеви,,господь,Nb,-s---md--i,Dt,Sg,masc,i stem masc,analogical,obl,,· ,3,31,182v,6,048v,6
+57891,богови,,богъ,Nb,-s---md--i,Dt,Sg,masc,o stem masc,analogical,obl,,,3,31,182v,8,048v,8
+61959,бѣсовъ,,бѣсъ,Nb,-p---mg--i,G,Pl,masc,o stem masc,analogical,part,,,3,33,193v,18,059v,18
+62305,богови,,богъ,Nb,-s---md--i,Dt,Sg,masc,o stem masc,analogical,obl,,· ,3,33,194v,15,060v,15
+62679,грѣховъ,,грѣхъ,Nb,-p---mg--i,G,Pl,masc,o stem masc,analogical,narg,,,3,34,195v,25,061v,25
+63285,симонови,,симонъ,Ne,-s---md--i,Dt,Sg,masc,o stem masc,analogical,obl,,,3,34,197v,13,063v,13
+63501,богови,,богъ,Nb,-s---md--i,Dt,Sg,masc,o stem masc,analogical,obl,,,3,34,198r,16,064r,16
+67518,даровъ,,даръ,Nb,-p---mg--i,G,Pl,masc,ŭ stem,etymological,narg,,,3,36,209r,12,075r,12
+69753,потовъ,,потъ,Nb,-p---mg--i,G,Pl,masc,o stem masc,analogical,obl,,,3,38,215r,26,081r,26
+69757,троудовъ,,троудъ,Nb,-p---mg--i,G,Pl,masc,o stem masc,analogical,obl,,· ,3,38,215r,26,081r,26
+69769,цвѣтовъ,,цвѣтъ,Nb,-p---mg--i,G,Pl,masc,o stem masc,analogical,obl,,,3,38,215r,29,081r,29
+69774,плодовъ,,плодъ,Nb,-p---mg--i,G,Pl,masc,o stem masc,analogical,obl,,,3,38,215r,30,081r,30
+69970,родовъ,,родъ,Nb,-p---mg--i,G,Pl,masc,o stem masc,analogical,part,,,3,38,216r,4,082r,4
+70088,господеви,,господь,Nb,-s---md--i,Dt,Sg,masc,i stem masc,analogical,obl,,,3,38,216r,23,082r,23
+70257,домовъ,,домъ,Nb,-p---mg--i,G,Pl,masc,ŭ stem,etymological,obj,,,3,38,216v,24,082v,24
+70874,сꙑновъ,,сꙑнъ#1,Nb,-p---mg--i,G,Pl,masc,ŭ stem,etymological,obl,,,3,38,218v,7,084v,7
+71273,садовъ,,садъ,Nb,-p---mg--i,G,Pl,masc,o stem masc,analogical,obl,,,3,38,219v,14,085v,14
+71277,жидовъ,,животъ,Nb,-p---mg--i,G,Pl,masc,o stem masc,analogical,obl,,,3,38,219v,15,085v,15
+73923,богови,,богъ,Nb,-s---md--i,Dt,Sg,masc,o stem masc,analogical,obl,,· ,3,40,226v,10,092v,10
+73956,богови,,богъ,Nb,-s---md--i,Dt,Sg,masc,o stem masc,analogical,obl,,,3,40,226v,15,092v,15
+74085,чловѣкови,,чловѣкъ,Nb,-s---md--i,Dt,Sg,masc,o stem masc,analogical,obl,,,3,40,227r,5,093r,5
+74200,їсоусови,,исоусъ,Ne,-s---md--i,Dt,Sg,masc,o stem masc,analogical,obl,,,3,40,227r,24,093r,24
+74776,їсоусови,,исоусъ,Ne,-s---md--i,Dt,Sg,masc,o stem masc,analogical,atr,,,3,40,228v,25,094v,25
+75043,чинове,,чинъ,Nb,-p---mn--i,N,Pl,masc,ŭ stem,etymological,sub,,,3,40,229v,10,095v,10
+75092,чинове,,чинъ,Nb,-p---mn--i,N,Pl,masc,ŭ stem,etymological,sub,,· ,3,40,229v,18,095v,18
+75965,петрови,,петръ,Ne,-s---md--i,Dt,Sg,masc,o stem masc,analogical,obl,,· ,3,40,232r,8,098r,8
+76003,чиновъ,,чинъ,Nb,-p---mg--i,G,Pl,masc,ŭ stem,etymological,obj,,,3,40,232r,14,098r,14
+76006,богови,,богъ,Nb,-s---md--i,Dt,Sg,masc,o stem masc,analogical,atr,,,3,40,232r,15,098r,15
+76029,чиновъ,,чинъ,Nb,-p---mg--i,G,Pl,masc,ŭ stem,etymological,part,,,3,40,232r,20,098r,20
+76072,богови,,богъ,Nb,-s---md--i,Dt,Sg,masc,o stem masc,analogical,apos,,· ,3,40,232r,25,098r,25
+76112,богови,,богъ,Nb,-s---md--i,Dt,Sg,masc,o stem masc,analogical,obl,,,3,40,232v,3,098v,3
+76656,ꙁмие҅въ,,змии,Nb,-p---mg--i,G,Pl,masc,jo stem masc,analogical,atr,,,3,40,234r,3,100r,3
+76778,господеви,,господь,Nb,-s---md--i,Dt,Sg,masc,i stem masc,analogical,obl,,,3,40,234r,21,100r,21
+76952,а҅дамови,,адамъ,Ne,-s---md--i,Dt,Sg,masc,o stem masc,analogical,obl,,· ,3,40,234v,17,100v,17
+78606,а҅дови,,адъ,Nb,-s---md--i,Dt,Sg,masc,o stem masc,analogical,obl,,· ,3,41,238v,18,104v,18
+79229,диꙗ҅волови,,диꙗволъ,Nb,-s---md--i,Dt,Sg,masc,o stem masc,analogical,obl,,· ,3,42,240r,24,106r,24
+79306,господеви,,господь,Nb,-s---md--i,Dt,Sg,masc,i stem masc,analogical,obl,,,3,42,240v,5,106v,5
+80332,споловъ,,исполинъ,Nb,-p---mg--i,G,Pl,masc,o stem masc,analogical,atr,,· ,3,42,243r,10,109r,10
+81639,дарове,,даръ,Nb,-p---mn--i,N,Pl,masc,ŭ stem,etymological,sub,,,3,43,246v,4,112v,4
+81959,грѣховъ,,грѣхъ,Nb,-p---mg--i,G,Pl,masc,o stem masc,analogical,atr,,,3,43,247r,25,113r,25
+82534,даровъ,,даръ,Nb,-p---mg--i,G,Pl,masc,ŭ stem,etymological,atr,,,3,43,248v,25,114v,25
+82756,о̑удовъ,о҄удовъ,оудъ,Nb,-p---mg--i,G,Pl,masc,o stem masc,analogical,narg,,· ,3,43,249r,29,115r,29
+83600,богови,,богъ,Nb,-s---md--i,Dt,Sg,masc,o stem masc,analogical,sub,,· ,3,44,251v,8,117v,8
+84575,сѫдовъ,,сѫдъ,Nb,-p---mg--i,G,Pl,masc,o stem masc,analogical,obl,,· ,3,44,253v,26,119v,26
+86332,богови,,богъ,Nb,-s---md--i,Dt,Sg,masc,o stem masc,analogical,obl,,,3,46,258r,16,124r,16
+86632,о̑удове,о҄удове,оудъ,Nb,-p---mn--i,N,Pl,masc,o stem masc,analogical,sub,,,3,46,258v,27,124v,27
+87824,даровъ,,даръ,Nb,-p---mg--i,G,Pl,masc,ŭ stem,etymological,obl,,· ,3,46,261v,19,127v,19
+88952,богови,,богъ,Nb,-s---md--i,Dt,Sg,masc,o stem masc,analogical,obl,,· ,3,46,264r,30,130r,30
+90225,богови,,богъ,Nb,-s---md--i,Dt,Sg,masc,o stem masc,analogical,obl,,,3,47,267v,5,133v,5
+91022,х꙯сови,,христ(ос)ъ,Ne,-s---md--i,Dt,Sg,masc,o stem masc,analogical,obl,,,3,47,269v,1,135v,1
+91244,господеви,,господь,Nb,-s---md--i,Dt,Sg,masc,i stem masc,analogical,obl,,,3,47,270r,7,136r,7
+91684,х꙯сови,,христ(ос)ъ,Ne,-s---md--i,Dt,Sg,masc,o stem masc,analogical,obl,,· ,3,47,271r,11,137r,11
+92458,богови,,богъ,Nb,-s---md--i,Dt,Sg,masc,o stem masc,analogical,obl,,,3,48,273r,8,139r,8
+94572,о҄удовъ,,оудъ,Nb,-p---mg--i,G,Pl,masc,o stem masc,analogical,obl,,,3,48,277v,18,143v,18
+95572,врачевъ,,врачь,Nb,-p---mg--i,G,Pl,masc,jo stem masc,analogical,obl,,,3,48,280r,11,146r,11
+81876,благодѣтел҄еви,,благодѣтель,Nb,s---md--i,Dt,Sg,masc,tel stem,analogical,obl,,,3,43,247r,11,113r,11
