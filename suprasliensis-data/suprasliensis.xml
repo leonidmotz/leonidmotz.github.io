@@ -11879,7 +11879,7 @@
       <token form="и͑" bform="и҅" lemma="и" pos="Df" morph="---------n" rel="aux" book="1" chapter="3" bfolio="027r" bline="13" />
       <token form="чловѣци" lemma="чловѣкъ" pos="Nb" morph="-p---mn--i" rel="sub" stem="o stem masc" stemtype="etymological" after=". " book="1" chapter="3" bfolio="027r" bline="13" />
       <token form="прѣстѫпишⱕ" bform="прѣстѫпишꙙ" lemma="прѣстѫпити" pos="V-" morph="3paia----i" rel="pred" book="1" chapter="3" bfolio="027r" bline="13" />
-      <token form="заповѣдь" bform="ꙁаповѣдь" lemma="заповѣдь" pos="Nb" morph="-p---fg--i" rel="obl" stem="i stem fem" book="1" chapter="3" bfolio="027r" bline="13" stemtype="analogical" />
+      <token form="заповѣдь" bform="ꙁаповѣдь" lemma="заповѣдь" pos="Nb" morph="-s---fa--i" rel="obl" stem="i stem fem" book="1" chapter="3" bfolio="027r" bline="13" stemtype="etymological" />
     </line>
     <line n="14">
       <token form="ѥ͑моу" bform="ѥ҅моу" lemma="и" pos="Pp" morph="3s---md--i" rel="atr" after=". " book="1" chapter="3" bfolio="027r" bline="14" />
