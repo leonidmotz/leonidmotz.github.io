@@ -12917,7 +12917,7 @@
       <token form="дроуга" lemma="дроугъ" pos="Pc" morph="-s---qg--i" rel="obj" book="1" chapter="4" bfolio="029v" bline="08" />
       <token form="моляше" bform="молꙗше" lemma="молити" pos="V-" morph="3siia----i" rel="pred" after=". " book="1" chapter="4" />
       <token form="молити" lemma="молити" pos="V-" morph="--pna----i" rel="xobj" book="1" chapter="4" bfolio="029v" bline="08" />
-      <token form="гопода" lemma="господь" pos="Nb" morph="-s---mg--i" rel="obl" stem="i stem masc" after=". " book="1" chapter="4" bfolio="029v" bline="08" stemtype="analogical" />
+      <token form="гоcпода" lemma="господь" pos="Nb" morph="-s---mg--i" rel="obl" stem="i stem masc" after=". " book="1" chapter="4" bfolio="029v" bline="08" stemtype="analogical" />
       <token form="да" lemma="да" pos="G-" morph="---------n" rel="comp" book="1" chapter="4" bfolio="029v" bline="08" />
     </line>
     <line n="09">
