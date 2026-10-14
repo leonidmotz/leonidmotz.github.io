@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Derksen Index</title>
+<meta name="description" content="Lemma index to Derksen, Etymological Dictionary of the Slavic Inherited Lexicon (Brill, Leiden 2008)">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&display=swap">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="page"><div class="wrap">
+  <div class="brand">
+    <h1>Derksen Index</h1>
+    <p>Etymological Dictionary of the Slavic Inherited Lexicon (Brill, Leiden 2008)</p>
+  </div>
+
+  <div class="modes" role="tablist" aria-label="Search mode">
+    <button class="k fn" role="tab" id="tab-fuzzy" aria-selected="true">Fuzzy</button>
+    <button class="k fn" role="tab" id="tab-rhyme" aria-selected="false">Rhyme</button>
+  </div>
+
+  <div class="query-wrap">
+    <div class="q-field">
+      <span class="ph" id="ph" aria-hidden="true"></span>
+      <input type="text" id="query" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false"
+             enterkeyhint="search" aria-label="Search lemmata">
+    </div>
+    <button class="k fn sm" id="clearBtn" type="button" aria-label="Clear search" hidden>
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linejoin="round"><path d="M9 5h11v14H9l-6-7z"/><path d="m12 9 5 6m0-6-5 6"/></svg>
+    </button>
+  </div>
+
+  <div class="meta">
+    <span id="hint"><b>Fuzzy</b> matches lemmata and English glosses</span>
+    <span class="right">
+      <span class="count" id="count"></span>
+      <button class="k fn sm" id="toggleIndex" type="button" aria-pressed="false">Full index</button>
+    </span>
+  </div>
+</div></header>
+
+<section class="deck" aria-label="Results">
+  <div class="wrap">
+    <div class="status" id="status" aria-live="polite"></div>
+    <div id="search-output"></div>
+    <div id="full-index" hidden></div>
+  </div>
+</section>
+
+<template id="disc">
+  <div class="state">
+    <p class="lead">Begin typing to search lemmata.</p>
+    <p>This index has been compiled by re-OCRing the Brill PDF. Unfortunately, this was necessary due to them using a proprietary font encoding. Please be aware of the limitations of this method. If you find an error, send it to <a href="mailto:leonid.motz@univie.ac.at">leonid.motz@univie.ac.at</a>.</p>
+    <p>Always refer to the lemma as it appears in the dictionary, not its form in this index.</p>
+  </div>
+</template>
+
+<script src="js/app.js" defer></script>
+</body>
+</html>
