@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>wlachtype</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;500;600;700&display=block">
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+<div class="menu-wrap">
+  <button class="menu-btn" id="menu-btn" type="button" aria-label="Options" aria-haspopup="true" aria-expanded="false" aria-controls="menu">
+    <svg viewBox="0 0 6 22" fill="currentColor"><circle cx="3" cy="3" r="3"/><circle cx="3" cy="11" r="3"/><circle cx="3" cy="19" r="3"/></svg>
+  </button>
+  <div class="menu" id="menu" hidden>
+    <div class="menu-row">
+      <div class="lbl"><span>Font size</span><output id="size-out">Auto</output></div>
+      <div class="size-ctl">
+        <button type="button" id="size-down" aria-label="Smaller">A−</button>
+        <input type="range" id="size" min="20" max="120" step="2" aria-label="Font size">
+        <button type="button" id="size-up" aria-label="Larger">A+</button>
+      </div>
+      <button type="button" class="action" id="size-auto">Reset to automatic size</button>
+    </div>
+    <hr>
+    <button type="button" class="action" id="copy-all">Copy all text</button>
+    <button type="button" class="action danger" id="clear-all">Clear all</button>
+  </div>
+</div>
+
+<main class="page">
+  <textarea id="text" lang="ro-Cyrl" spellcheck="false" autocomplete="off" autocapitalize="off"
+    aria-label="Transcription text"></textarea>
+  <div class="meta">
+    <span class="hint"><b>Double-click the text</b> to copy all of it</span>
+    <span><span id="count">0 characters</span></span>
+  </div>
+</main>
+
+<section class="deck" aria-label="Wallachian Cyrillic keys">
+  <div class="status" id="status" aria-live="polite"></div>
+
+  <div class="row sup">
+    <div class="row-label">Superscripts<small>combining letters</small></div>
+    <div class="keys" id="row-sup"></div>
+  </div>
+
+  <div class="row dia">
+    <div class="row-label">Diacritics<small>marks</small></div>
+    <div class="keys" id="row-dia"></div>
+  </div>
+
+  <div class="row let">
+    <div class="row-label">Letters<small>shift for capitals</small></div>
+    <div class="keys" id="row-let"></div>
+  </div>
+</section>
+
+<div class="toast" id="toast" role="status"></div>
+
+<script src="js/app.js" defer></script>
+</body>
+</html>
