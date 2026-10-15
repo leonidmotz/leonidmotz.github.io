@@ -56,6 +56,6 @@ world’s languages and the people studying them, hosted by linguist and radio j
 
 [<i class="fa-brands fa-github"></i>GitHub](https://github.com/leonidmotz)
 
-[<i class="fa-sharp-duotone fa-regular fa-file-user"></i> Academic CV](https://drive.google.com/file/d/1a2d-_wzI1YmmF9OnyTo01-yCYEPBuMXt/view?usp=sharing).
+[<i class="fa-solid fa-file"></i>Academic CV](https://drive.google.com/file/d/1a2d-_wzI1YmmF9OnyTo01-yCYEPBuMXt/view?usp=sharing).
 
 Work address: University of Vienna, Department of Linguistics, Sensengasse 3a, 1090 Vienna, Austria
