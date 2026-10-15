@@ -22,20 +22,45 @@
 <link rel="stylesheet" href="{{ '/assets/css/layout.css' | relative_url }}">
 </head>
 <body>
-<main>
 {%- comment -%}
-  Everything from the first ## heading onward goes into a rounded panel.
+  Page structure, built from the Markdown:
+  - text before the first ## (name + intro) opens the main column
+  - every ## section goes into the rounded panel below it
+  - if the page sets `picture:` in its front matter, a side column holds the
+    picture and, when there are two or more ## sections, the LAST ## section
+  On narrow screens the side column drops below the main column (see layout.css).
 {%- endcomment -%}
 {%- assign h2_parts = content | split: '<h2' -%}
-{%- if h2_parts.size > 1 %}
+{%- assign h2_count = h2_parts.size | minus: 1 -%}
+{%- assign side_section = false -%}
+{%- if page.picture and h2_count > 1 -%}
+  {%- assign side_section = true -%}
+  {%- assign panel_count = h2_count | minus: 1 -%}
+{%- else -%}
+  {%- assign panel_count = h2_count -%}
+{%- endif %}
+<main{% if page.picture %} class="has-side"{% endif %}>
+<div class="col-main">
+{%- if h2_count > 0 %}
 {{ h2_parts | first }}
 <section class="panel">
-{%- for part in h2_parts offset: 1 %}
+{%- for part in h2_parts offset: 1 limit: panel_count %}
 <h2{{ part }}
 {%- endfor %}
 </section>
 {%- else %}
 {{ content }}
+{%- endif %}
+</div>
+{%- if page.picture %}
+<aside class="col-side">
+<img class="portrait" src="{{ page.picture | relative_url }}" alt="{{ page.picture_alt | default: page.title | escape }}" width="900" height="1600">
+{%- if side_section %}
+<section class="panel">
+<h2{{ h2_parts | last }}
+</section>
+{%- endif %}
+</aside>
 {%- endif %}
 </main>
 </body>

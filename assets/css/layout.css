@@ -10,6 +10,8 @@
   --link-hover: rgba(255, 255, 255, 0.65);
   --selection: #7b5cc4;   /* wlachtype selection highlight */
   --panel: #1a1f2b;       /* wlachtype keyboard background */
+  --bg-top: #181d2a;      /* page gradient: slightly lighter at the top … */
+  --bg-bottom: #0f121a;   /* … fading to slightly darker at the bottom */
 
   --font: "Noto Sans", sans-serif;
 
@@ -18,15 +20,19 @@
   --size-h2: 1.25rem;
   --size-h1: 2.5rem;
 
-  --column: 600px;
+  --column: 600px;        /* main text column */
+  --side: 300px;          /* picture column (desktop) */
+  --gap: 3.5rem;          /* space between the two columns */
+  --radius: 18px;
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
-html { color-scheme: dark; background: var(--bg); }
+html { color-scheme: dark; background: var(--bg-bottom); }
 
 body {
-  background: var(--bg);
+  min-height: 100vh;
+  background: linear-gradient(to bottom, var(--bg-top), var(--bg) 45%, var(--bg-bottom)) fixed;
   color: var(--text);
   font-family: var(--font);
   font-size: var(--size-body);
@@ -74,12 +80,40 @@ h3 {
 .panel {
   --panel-pad: 1.5rem;
   background: var(--panel);
-  border-radius: 18px;
+  border-radius: var(--radius);
   padding: var(--panel-pad);
   margin: 2.5rem calc(-1 * var(--panel-pad)) 0;
 }
 .panel > :first-child { margin-top: 0; }
 .panel > :last-child { margin-bottom: 0; }
+
+/* ---------- side column: picture + last ## section ----------
+   Narrow screens / portrait: it sits below the main column.
+   Wide screens: it becomes a second column to the right (media query below). */
+.col-side { margin-top: 2.5rem; }
+.portrait {
+  display: block;
+  width: 100%;
+  max-width: var(--side);
+  height: auto;
+  aspect-ratio: 9 / 16;
+  object-fit: cover;
+  border-radius: var(--radius);
+  background: var(--panel);   /* shown while the picture loads */
+}
+.col-side .panel { margin-top: 1.5rem; }
+
+@media (min-width: 1040px) {
+  main.has-side {
+    max-width: calc(var(--column) + var(--gap) + var(--side));
+    display: grid;
+    grid-template-columns: minmax(0, var(--column)) var(--side);
+    column-gap: var(--gap);
+    align-items: start;
+  }
+  .col-side { margin-top: 0; }                 /* top of picture = top of the name */
+  .col-side .panel { margin-inline: 0; }       /* same width as the picture */
+}
 
 p, li { color: var(--text); }
 p { margin-bottom: 0.8rem; }
