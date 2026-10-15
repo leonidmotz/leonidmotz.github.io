@@ -54,7 +54,7 @@
 </div>
 {%- if page.picture %}
 <aside class="col-side">
-<img class="portrait" src="{{ page.picture | relative_url }}" alt="{{ page.picture_alt | default: page.title | escape }}" width="900" height="1600">
+<img class="portrait" src="{{ page.picture | relative_url }}" alt="{{ page.picture_alt | default: page.title | escape }}">
 {%- if side_section %}
 <section class="side-section">
 <h2{{ h2_parts | last }}

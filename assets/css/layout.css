@@ -95,9 +95,7 @@ h3 {
   display: block;
   width: 100%;
   max-width: var(--side);
-  height: auto;
-  aspect-ratio: 9 / 16;
-  object-fit: cover;
+  height: auto;              /* keeps the photo's own proportions */
   border-radius: var(--radius);
   background: var(--panel);   /* shown while the picture loads */
 }
