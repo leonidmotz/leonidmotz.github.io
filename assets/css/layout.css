@@ -22,9 +22,13 @@
 
   --column: 600px;        /* main text column */
   --side: 300px;          /* picture column (desktop) */
-  --gap: 3.5rem;          /* space between the two columns */
+  --gap: 4.375rem;        /* space between the two columns (3.5rem × 1.25) */
   --radius: 18px;
 }
+
+/* animatable values for the photo fade (opacity: 1 = solid) */
+@property --fade-top { syntax: "<number>"; inherits: false; initial-value: 0.4; }
+@property --fade-mid { syntax: "<number>"; inherits: false; initial-value: 0.7; }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -95,14 +99,25 @@ h3 {
   display: block;
   width: 100%;
   max-width: var(--side);
-  height: auto;              /* keeps the photo's own proportions */
-  border-radius: var(--radius);
+  height: auto;
+  aspect-ratio: 3 / 4;       /* the photo's proportions (1201 × 1600) */
+  object-fit: cover;
+  /* fade toward transparency at the top; measured from the bottom of the photo:
+     top edge 60% transparent, 2/3 up 30%, halfway and below 0% */
+  -webkit-mask-image: linear-gradient(to bottom,
+      rgba(0,0,0, var(--fade-top)) 0%, rgba(0,0,0, var(--fade-mid)) 33.333%, #000 50%);
+          mask-image: linear-gradient(to bottom,
+      rgba(0,0,0, var(--fade-top)) 0%, rgba(0,0,0, var(--fade-mid)) 33.333%, #000 50%);
+  transition: --fade-top 0.4s ease, --fade-mid 0.4s ease;
   background: var(--panel);   /* shown while the picture loads */
 }
 /* last ## section: no panel, sits on the page background like the intro text */
 .side-section { margin-top: 1.5rem; }
 .side-section > :first-child { margin-top: 0; }
 .side-section > :last-child { margin-bottom: 0; }
+
+/* hovering the photo removes the fade */
+.portrait:hover { --fade-top: 1; --fade-mid: 1; }
 
 @media (min-width: 1040px) {
   main.has-side {
@@ -113,6 +128,11 @@ h3 {
     align-items: start;
   }
   .col-side { margin-top: 0; }                 /* top of picture = top of the name */
+}
+/* full-size desktop: the right column stays in view while the page scrolls
+   (only when the window is tall enough to show the whole column) */
+@media (min-width: 1040px) and (min-height: 820px) {
+  .col-side { position: sticky; top: 4rem; }   /* 4rem = the page's top padding */
 }
 
 p, li { color: var(--text); }
