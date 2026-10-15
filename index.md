@@ -54,7 +54,7 @@ world’s languages and the people studying them, hosted by linguist and radio j
 
 [<i class="fa-brands fa-orcid"></i>ORCID: 0009-0006-8696-4004](https://orcid.org/my-orcid?orcid=0009-0006-8696-4004)
 
-[<GitHub](https://github.com/leonidmotz)
+[<i class="fa-brands fa-github"></i>GitHub](https://github.com/leonidmotz)
 
 <i class="fa-solid fa-file"></i>See my [Academic CV](https://drive.google.com/file/d/1a2d-_wzI1YmmF9OnyTo01-yCYEPBuMXt/view?usp=sharing)
 
