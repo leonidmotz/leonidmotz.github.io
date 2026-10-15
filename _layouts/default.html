@@ -5,31 +5,10 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{{ page.title | default: site.title }}</title>
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
-<link href="https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@400;700&display=swap" rel="stylesheet">
-<style>
-* { box-sizing: border-box; margin: 0; padding: 0; }
-body {
-  background: #f0f0f0;
-  color: #1a1a1a;
-  font-family: 'Noto Sans Mono', monospace;
-  font-size: 1rem;
-  line-height: 1.8;
-  min-height: 100vh;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  padding: 2rem;
-}
-main {
-  max-width: 480px;
-  width: 100%;
-
-}
-h1 { font-weight: 700; font-size: 1.5rem; margin-bottom: 1.4rem; }
-p { color: #444; margin-bottom: 0.8rem; }
-a { color: #1a1a1a; text-decoration: underline; text-underline-offset: 3px; transition: color 0.15s; }
-a:hover { color: #666; }
-</style>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap">
+<link rel="stylesheet" href="{{ '/assets/css/layout.css' | relative_url }}">
 </head>
 <body>
 <main>
