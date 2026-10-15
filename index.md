@@ -14,8 +14,11 @@ See my [<i class="fa-brands fa-github"></i> GitHub](https://github.com/leonidmot
 ## Projects
 
 ### Helpers, Tools and Indices
-- [Wlachtype](/wlachtype/): A virtual keyboard for transcribing Wallachian Cyrillic. Expandable for other glyphs, if needed.
+- [Wlachtype](/wlachtype/): A virtual keyboard for transcribing Wallachian Cyrillic. Expandable for other glyphs, if needed. Requires a Russian keyboard to be used 
 - [Derksen Index](/derksen-index/): An interactive lemma index for Rick Derksen's Etymological Dictionary of the Slavic inherited lexicon, linking lemma to page.
+
+### Datasets and Corpora
+- [Case Analogy in Codex Suprasliensis](https://phaidra.univie.ac.at/detail/o:2343117): TOROT/PROIEL data augmented by a layer of historical nominal morphology (stem class, analogy status), permitting the description and analysis of the transformation of the inflectional system. Part of my MA thesis.
 
 ## Publications
 
