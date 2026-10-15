@@ -101,7 +101,10 @@ h3 {
   border-radius: var(--radius);
   background: var(--panel);   /* shown while the picture loads */
 }
-.col-side .panel { margin-top: 1.5rem; }
+/* last ## section: no panel, sits on the page background like the intro text */
+.side-section { margin-top: 1.5rem; }
+.side-section > :first-child { margin-top: 0; }
+.side-section > :last-child { margin-bottom: 0; }
 
 @media (min-width: 1040px) {
   main.has-side {
@@ -112,7 +115,6 @@ h3 {
     align-items: start;
   }
   .col-side { margin-top: 0; }                 /* top of picture = top of the name */
-  .col-side .panel { margin-inline: 0; }       /* same width as the picture */
 }
 
 p, li { color: var(--text); }

@@ -11,8 +11,6 @@ Core research foci include the internal and external history of Balkan Slavic (s
 
 Currently, I am a Predoctoral Researcher in Digital Humanities at the University of Vienna's [Department of Linguistics](https://ufind.univie.ac.at/de/person.html?id=1005821), working within the [Cluster of Excellence »EurAsian Transformations«](https://www.oeaw.ac.at/eurasian-transformations/people/affiliated-members/leonid-motz). This website is a space for some of my personal projects.
 
-See my [<i class="fa-brands fa-github"></i>GitHub](https://github.com/leonidmotz) and my [Academic CV](https://drive.google.com/file/d/1a2d-_wzI1YmmF9OnyTo01-yCYEPBuMXt/view?usp=sharing).
-
 ## Projects
 
 ### Helpers, Tools and Indices
@@ -50,10 +48,16 @@ world’s languages and the people studying them, hosted by linguist and radio j
 -  RECET _Transformative Podcast_, Episode 59 (2025) “South Slavic Languages and Vienna’s Linguistic Landscape” with Prof. Katharina Tyran (University of Helsinki), [listen](https://www.recet.at/podcast/detail/episode-59-south-slavic-languages-and-viennas-linguistic-landscape)
 -  RECET _Transformative Podcast_, Episode 37 (2023) “Minority Languages in Russia” with Dr. Jeremy Bradley (University of Vienna), [listen](https://www.recet.at/podcast/detail/episode-37-minority-languages-in-russia)
 
-### Contact Info
+### <i class="fa-sharp fa-solid fa-circle-info"></i>Contact Info
 If you want to contact me, please write to [info@leonidmotz.eu](mailto:info@leonidmotz.eu).
 
-Work address: 
-University of Vienna, Department of Linguistics, Sensengasse 3a, 1090 Vienna, Austria
+*Work address:* 
+Leonid Motz,
+University of Vienna, 
+Department of Linguistics, 
+Sensengasse 3a, 
+1090 Vienna, Austria
 
-[ORCID: 0009-0006-8696-4004](https://orcid.org/my-orcid?orcid=0009-0006-8696-4004)
+[<i class="fa-brands fa-orcid"></i>ORCID: 0009-0006-8696-4004](https://orcid.org/my-orcid?orcid=0009-0006-8696-4004)
+
+See my [<i class="fa-brands fa-github"></i>GitHub](https://github.com/leonidmotz) and my [Academic CV](https://drive.google.com/file/d/1a2d-_wzI1YmmF9OnyTo01-yCYEPBuMXt/view?usp=sharing).
