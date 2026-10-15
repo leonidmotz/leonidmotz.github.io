@@ -48,7 +48,7 @@ world’s languages and the people studying them, hosted by linguist and radio j
 -  RECET _Transformative Podcast_, Episode 59 (2025) “South Slavic Languages and Vienna’s Linguistic Landscape” with Prof. Katharina Tyran (University of Helsinki), [listen](https://www.recet.at/podcast/detail/episode-59-south-slavic-languages-and-viennas-linguistic-landscape)
 -  RECET _Transformative Podcast_, Episode 37 (2023) “Minority Languages in Russia” with Dr. Jeremy Bradley (University of Vienna), [listen](https://www.recet.at/podcast/detail/episode-37-minority-languages-in-russia)
 
-### <i class="fa-sharp fa-solid fa-circle-info"></i>Contact Info
+## Contact Information
 If you want to contact me, please write to [info@leonidmotz.eu](mailto:info@leonidmotz.eu).
 
 *Work address:* 
