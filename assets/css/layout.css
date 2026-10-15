@@ -4,10 +4,12 @@
    ========================================================== */
 
 :root {
-  --bg: #ffffff;
-  --text: #1a1a1a;
-  --text-soft: #444444;
-  --link-hover: #666666;
+  /* same palette as wlachtype (its dark theme) */
+  --bg: #121620;          /* wlachtype page background */
+  --text: #ffffff;
+  --link-hover: rgba(255, 255, 255, 0.65);
+  --selection: #7b5cc4;   /* wlachtype selection highlight */
+  --panel: #1a1f2b;       /* wlachtype keyboard background */
 
   --font: "Noto Sans", sans-serif;
 
@@ -20,6 +22,8 @@
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
+
+html { color-scheme: dark; background: var(--bg); }
 
 body {
   background: var(--bg);
@@ -54,7 +58,30 @@ h2 {
   margin-bottom: 0.75rem;
 }
 
-p, li { color: var(--text-soft); }
+/* ### — sub-headings: italic, only slightly heavier than body text */
+h3 {
+  font-size: var(--size-body);
+  font-style: italic;
+  font-weight: 500;
+  line-height: 1.4;
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+
+/* panel: everything from the first ## on (wrapped by _layouts/default.html).
+   Styled like the wlachtype keyboard area. Its background reaches out past the
+   text column by --panel-pad on each side, so the text inside lines up with the text above. */
+.panel {
+  --panel-pad: 1.5rem;
+  background: var(--panel);
+  border-radius: 18px;
+  padding: var(--panel-pad);
+  margin: 2.5rem calc(-1 * var(--panel-pad)) 0;
+}
+.panel > :first-child { margin-top: 0; }
+.panel > :last-child { margin-bottom: 0; }
+
+p, li { color: var(--text); }
 p { margin-bottom: 0.8rem; }
 
 ul { padding-left: 1.25rem; margin-bottom: 0.8rem; }
@@ -70,7 +97,15 @@ a {
 }
 a:hover { color: var(--link-hover); }
 
+/* Font Awesome icons (loaded in _layouts/default.html): white like the text,
+   with a little space before the text that follows */
+main i[class*="fa-"] { color: var(--text); margin-right: 0.35em; }
+main a:hover i[class*="fa-"] { color: inherit; }
+
+::selection { background: var(--selection); color: #ffffff; }
+
 @media (max-width: 480px) {
   body { padding: 2.5rem 1rem; }
+  .panel { --panel-pad: 0.75rem; border-radius: 14px; }
   :root { --size-h1: 2rem; }
 }

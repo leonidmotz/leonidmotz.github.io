@@ -4,15 +4,39 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>{{ page.title | default: site.title }}</title>
+{%- comment -%}
+  Meta description = first paragraph after the page's # heading.
+  To override it on a page, add `description: ...` to that page's front matter.
+{%- endcomment -%}
+{%- assign after_h1 = content | split: '</h1>' | last -%}
+{%- assign first_p = after_h1 | split: '</p>' | first | strip_html | normalize_whitespace | strip -%}
+{%- assign meta_desc = page.description | default: first_p -%}
+<meta name="description" content="{{ meta_desc | escape_once }}">
+<meta property="og:title" content="{{ page.title | default: site.title | escape }}">
+<meta property="og:description" content="{{ meta_desc | escape_once }}">
 <link rel="icon" href="/favicon.ico" type="image/x-icon">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans:ital,wght@0,100..900;1,100..900&display=swap">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@7.3.1/css/all.min.css" integrity="sha384-qrALq7+6jBOZIQsNnT6xGkMDru64qD6uTlDra39xrt2SoXl4pO3FX6Roz/RpR/BS" crossorigin="anonymous" referrerpolicy="no-referrer">
 <link rel="stylesheet" href="{{ '/assets/css/layout.css' | relative_url }}">
 </head>
 <body>
 <main>
+{%- comment -%}
+  Everything from the first ## heading onward goes into a rounded panel.
+{%- endcomment -%}
+{%- assign h2_parts = content | split: '<h2' -%}
+{%- if h2_parts.size > 1 %}
+{{ h2_parts | first }}
+<section class="panel">
+{%- for part in h2_parts offset: 1 %}
+<h2{{ part }}
+{%- endfor %}
+</section>
+{%- else %}
 {{ content }}
+{%- endif %}
 </main>
 </body>
 </html>
