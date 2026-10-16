@@ -15,7 +15,7 @@ Currently, I am a Predoctoral Researcher in Digital Humanities at the University
 ## Projects
 
 ### Helpers, Tools and Indices
-- [Wlachtype](/wlachtype/): A virtual keyboard for transcribing Wallachian Cyrillic. Expandable for other glyphs, if needed. Requires a Russian keyboard to be used 
+- [Wlachtype](/wlachtype/): A virtual keyboard for transcribing Wallachian Cyrillic (please use on desktop). Expandable for other glyphs, if needed. Requires a Russian keyboard to work.
 - [Derksen Index](/derksen-index/): An interactive lemma index for Rick Derksen's Etymological Dictionary of the Slavic inherited lexicon, linking lemma to page.
 
 ### Datasets and Corpora
@@ -32,8 +32,11 @@ Currently, I am a Predoctoral Researcher in Digital Humanities at the University
 - StuTS 75 (May 2025, University of Graz): _Silbeninversionssprachen in der europäischen Peripherie: ruovttogiella und šatrovački im Vergleich_ (together with P. Mayrhofer)
 - StuTS 74 (October 2023, University of Vienna): _Differenzielle Objektmarkierung in den slawischen Dialekten des Ohrid-Struga-Areals_
 
+### Teaching
+- Tutorial: “Introduction to Slavic Studies“ (“Grundlagen der Slawistik”, lecture taught by Dr. Tyran, then Dr. Petrov), 2023W-2062S, Department of Slavic Studies, University of Vienna. 
+
 ### Third Mission and Miscellanea
-- Един германец из дебрите на българския език”, Interview with Vesela Krăsteva (2026), _BNR
+- “Един германец из дебрите на българския език”, Interview with Vesela Krăsteva (2026), _BNR
 Radio Bălgarija_, [bnrnews.bg](https://bnrnews.bg/radiobulgaria/post/472692/edin-germanets-iz-debrite-na-balgarskiya-ezik)
 - “Леонид Моц – най-добрият студент по българистика, който не спира да изследва
 славянските езици”, Interview with Elica Cenova (2026), _Melange Bulgaren_, [bulgaren.org](https://www.bulgaren.org/2026/05/10/%d0%bb%d0%b5%d0%be%d0%bd%d0%b8%d0%b4-%d0%bc%d0%be%d1%86-%d0%bd%d0%b0%d0%b9-%d0%b4%d0%be%d0%b1%d1%80%d0%b8%d1%8f%d1%82-%d1%81%d1%82%d1%83%d0%b4%d0%b5%d0%bd%d1%82-%d0%bf%d0%be-%d0%b1%d1%8a%d0%bb%d0%b3/)
