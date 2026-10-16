@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Leonid Motz
-picture: /pictures/leonid-picture.jpegmax hat sogar 
+picture: /pictures/leonid-picture.jpeg
 ---
 
 # Leonid Motz
