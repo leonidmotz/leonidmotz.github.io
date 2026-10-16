@@ -21,6 +21,9 @@ Currently, I am a Predoctoral Researcher in Digital Humanities at the University
 ### Datasets and Corpora
 - [Case Analogy in Codex Suprasliensis](https://phaidra.univie.ac.at/detail/o:2343117): TOROT/PROIEL data augmented by a layer of historical nominal morphology (stem class, analogy status), permitting the description and analysis of the transformation of the inflectional system. Part of my MA thesis.
 
+## Teaching
+- Tutorial: “Introduction to Slavic Studies“ (“Grundlagen der Slawistik”, lecture taught by Dr. Tyran, then Dr. Petrov), 2023W-2062S, Department of Slavic Studies, University of Vienna. 
+
 ## Publications and Activities
 
 ### Articles
@@ -31,9 +34,6 @@ Currently, I am a Predoctoral Researcher in Digital Humanities at the University
 - Invited Talk at the Bulgarian Academy of Science's Cyrillo-Methodian Research Center (April 2026, BAS Sofia): [_Към изграждането на корпусова инфраструктура за супрасълския сборник_](https://www.kmnc.bg/%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D1%87%D0%BD%D0%B0%D1%82%D0%B0-%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D1%8F-%D0%BD%D0%B0-%D0%BB%D0%B5%D0%BE%D0%BD%D0%B8%D0%B4-%D0%BC%D0%BE%D1%86-%D1%81%D0%BF%D0%B5/)
 - StuTS 75 (May 2025, University of Graz): _Silbeninversionssprachen in der europäischen Peripherie: ruovttogiella und šatrovački im Vergleich_ (together with P. Mayrhofer)
 - StuTS 74 (October 2023, University of Vienna): _Differenzielle Objektmarkierung in den slawischen Dialekten des Ohrid-Struga-Areals_
-
-### Teaching
-- Tutorial: “Introduction to Slavic Studies“ (“Grundlagen der Slawistik”, lecture taught by Dr. Tyran, then Dr. Petrov), 2023W-2062S, Department of Slavic Studies, University of Vienna. 
 
 ### Third Mission and Miscellanea
 - “Един германец из дебрите на българския език”, Interview with Vesela Krăsteva (2026), _BNR
