@@ -55,7 +55,7 @@ world’s languages and the people studying them, hosted by linguist and radio j
 ## Contact Information
 <i class="fa-sharp fa-solid fa-envelope"></i>If you want to contact me, please write to [info@leonidmotz.eu](mailto:info@leonidmotz.eu)
 
-[<i class="fa-brands fa-orcid"></i>ORCID: 0009-0006-8696-4004](https://orcid.org/my-orcid?orcid=0009-0006-8696-4004)
+[<i class="fa-brands fa-orcid"></i>ORCID: 0009-0006-8696-4004](https://orcid.org/0009-0006-8696-4004)
 
 [<i class="fa-brands fa-github"></i>GitHub](https://github.com/leonidmotz)
 
