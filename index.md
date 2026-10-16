@@ -16,7 +16,7 @@ Currently, I am a Predoctoral Researcher in Digital Humanities at the University
 
 ### Helpers, Tools and Indices
 - [Wlachtype](/wlachtype/): A virtual keyboard for transcribing Wallachian Cyrillic (please use on desktop). Expandable for other glyphs, if needed. Requires a Russian keyboard to work.
-- [Derksen Index](/derksen-index/): An interactive lemma index for Rick Derksen's Etymological Dictionary of the Slavic inherited lexicon, linking lemma to page.
+- [Derksen Index](/derksen-index/): An interactive lemma index for Rick Derksen's _Etymological Dictionary of the Slavic Inherited Lexicon_, linking lemma to page.
 
 ### Datasets and Corpora
 - [Case Analogy in Codex Suprasliensis](https://phaidra.univie.ac.at/detail/o:2343117): TOROT/PROIEL data augmented by a layer of historical nominal morphology (stem class, analogy status), permitting the description and analysis of the transformation of the inflectional system. Part of my MA thesis.
