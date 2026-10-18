@@ -53,12 +53,12 @@ world’s languages and the people studying them, hosted by linguist and radio j
 -  RECET _Transformative Podcast_, Episode 37 (2023) “Minority Languages in Russia” with Dr. Jeremy Bradley (University of Vienna), [listen](https://www.recet.at/podcast/detail/episode-37-minority-languages-in-russia)
 
 ## Contact Information
-<i class="fa-sharp fa-solid fa-envelope"></i>If you want to contact me, please write to [info@leonidmotz.eu](mailto:info@leonidmotz.eu)
+- <i class="fa-sharp fa-solid fa-envelope"></i>If you want to contact me, please write to [info@leonidmotz.eu](mailto:info@leonidmotz.eu)
 
-[<i class="fa-brands fa-orcid"></i>ORCID: 0009-0006-8696-4004](https://orcid.org/0009-0006-8696-4004)
+- [<i class="fa-brands fa-orcid"></i>ORCID: 0009-0006-8696-4004](https://orcid.org/0009-0006-8696-4004)
 
-[<i class="fa-brands fa-github"></i>GitHub](https://github.com/leonidmotz)
+- [<i class="fa-brands fa-github"></i>GitHub](https://github.com/leonidmotz)
 
-<i class="fa-solid fa-file"></i>See my [Academic CV](https://drive.google.com/file/d/1a2d-_wzI1YmmF9OnyTo01-yCYEPBuMXt/view?usp=sharing)
+- <i class="fa-solid fa-file"></i>See my [Academic CV](https://drive.google.com/file/d/1a2d-_wzI1YmmF9OnyTo01-yCYEPBuMXt/view?usp=sharing)
 
-<i class="fa-solid fa-address-book"></i>Work address: University of Vienna, Department of Linguistics, Sensengasse 3a, 1090 Vienna, Austria
+- <i class="fa-solid fa-address-book"></i>Work address: University of Vienna, Department of Linguistics, Sensengasse 3a, 1090 Vienna, Austria
