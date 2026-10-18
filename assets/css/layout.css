@@ -158,14 +158,20 @@ main a:hover i[class*="fa-"] { color: inherit; }
 
 /* Icon bullets: a list item that STARTS with an icon (on its own, or as the
    start of a link) uses that icon as its bullet. The icon hangs in the bullet
-   column and wrapped lines line up with the text, not under the icon. */
+   column and wrapped lines line up with the text, not under the icon.
+   Works for tight lists and for lists with blank lines between items
+   (where Markdown wraps each item's text in a paragraph). */
 li:has(> i[class*="fa-"]:first-child),
-li:has(> a:first-child > i[class*="fa-"]:first-child) {
+li:has(> a:first-child > i[class*="fa-"]:first-child),
+li:has(> p:first-child > i[class*="fa-"]:first-child),
+li:has(> p:first-child > a:first-child > i[class*="fa-"]:first-child) {
   list-style: none;
   position: relative;
 }
 li > i[class*="fa-"]:first-child,
-li > a:first-child > i[class*="fa-"]:first-child {
+li > a:first-child > i[class*="fa-"]:first-child,
+li > p:first-child > i[class*="fa-"]:first-child,
+li > p:first-child > a:first-child > i[class*="fa-"]:first-child {
   position: absolute;
   left: -1.6em;
   width: 1.25em;
@@ -174,9 +180,12 @@ li > a:first-child > i[class*="fa-"]:first-child {
   line-height: inherit;
 }
 ul:has(> li > i[class*="fa-"]:first-child),
-ul:has(> li > a:first-child > i[class*="fa-"]:first-child) {
+ul:has(> li > a:first-child > i[class*="fa-"]:first-child),
+ul:has(> li > p:first-child > i[class*="fa-"]:first-child),
+ul:has(> li > p:first-child > a:first-child > i[class*="fa-"]:first-child) {
   padding-left: 1.6em;
 }
+li > p:last-child { margin-bottom: 0; }   /* no extra gap inside paragraph-style list items */
 
 ::selection { background: var(--selection); color: #ffffff; }
 
