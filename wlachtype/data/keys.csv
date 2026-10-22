@@ -1,42 +1,42 @@
-﻿row,char,capital,name,shortcut
-sup,U+2DE0,,combining cyrillic letter be,б
-sup,U+2DE1,,combining cyrillic letter ve,в
-sup,U+2DE2,,combining cyrillic letter ghe,г
-sup,U+2DE3,,combining cyrillic letter de,д
-sup,U+2DE4,,combining cyrillic letter zhe,ж
-sup,U+2DE5,,combining cyrillic letter ze,з
-sup,U+2DE6,,combining cyrillic letter ka,к
-sup,U+2DE7,,combining cyrillic letter el,л
-sup,U+2DE8,,combining cyrillic letter em,м
-sup,U+2DE9,,combining cyrillic letter en,н
-sup,U+2DEA,,combining cyrillic letter o,о
-sup,U+2DEB,,combining cyrillic letter pe,п
-sup,U+2DEC,,combining cyrillic letter er,р
-sup,U+2DED,,combining cyrillic letter es,с
-sup,U+2DEE,,combining cyrillic letter te,т
-sup,U+2DEF,,combining cyrillic letter ha,х
-sup,U+2DF0,,combining cyrillic letter tse,ц
-sup,U+2DF1,,combining cyrillic letter che,ч
-sup,U+2DF2,,combining cyrillic letter sha,ш
-sup,U+2DF3,,combining cyrillic letter shcha,щ
-sup,U+2DF4,,combining cyrillic letter fita,ѳ
-sup,U+2DF6,,combining cyrillic letter a,а
-sup,U+2DF7,,combining cyrillic letter ie,е
-sup,U+2DF8,,combining cyrillic letter djerv,ђ
-sup,U+2DF9,,combining cyrillic letter monograph uk,ꙋ
-sup,U+2DFA,,combining cyrillic letter yat,ѣ
-sup,U+2DFB,,combining cyrillic letter yu,ю
-sup,U+2DFC,,combining cyrillic letter iotified a,ꙗ
-sup,U+2DFD,,combining cyrillic letter little yus,ѧ
-sup,U+2DFE,,combining cyrillic letter big yus,ѫ
-sup,U+2DFF,,combining cyrillic letter iotified big yus,ѭ
-sup,U+A675,,combining cyrillic letter i,и
-sup,U+A676,,combining cyrillic letter yi,ї
-sup,U+A677,,combining cyrillic letter u,у
-sup,U+A678,,combining cyrillic letter hard sign,ъ
-sup,U+A679,,combining cyrillic letter yeru,ы
-sup,U+A67A,,combining cyrillic letter soft sign,ь
-sup,U+A67B,,combining cyrillic letter omega,ѡ
+﻿dia,char,capital,name,shortcut
+dia,U+2DE0,,combining cyrillic letter be,б
+dia,U+2DE1,,combining cyrillic letter ve,в
+dia,U+2DE2,,combining cyrillic letter ghe,г
+dia,U+2DE3,,combining cyrillic letter de,д
+dia,U+2DE4,,combining cyrillic letter zhe,ж
+dia,U+2DE5,,combining cyrillic letter ze,з
+dia,U+2DE6,,combining cyrillic letter ka,к
+dia,U+2DE7,,combining cyrillic letter el,л
+dia,U+2DE8,,combining cyrillic letter em,м
+dia,U+2DE9,,combining cyrillic letter en,н
+dia,U+2DEA,,combining cyrillic letter o,о
+dia,U+2DEB,,combining cyrillic letter pe,п
+dia,U+2DEC,,combining cyrillic letter er,р
+dia,U+2DED,,combining cyrillic letter es,с
+dia,U+2DEE,,combining cyrillic letter te,т
+dia,U+2DEF,,combining cyrillic letter ha,х
+dia,U+2DF0,,combining cyrillic letter tse,ц
+dia,U+2DF1,,combining cyrillic letter che,ч
+dia,U+2DF2,,combining cyrillic letter sha,ш
+dia,U+2DF3,,combining cyrillic letter shcha,щ
+dia,U+2DF4,,combining cyrillic letter fita,ѳ
+dia,U+2DF6,,combining cyrillic letter a,а
+dia,U+2DF7,,combining cyrillic letter ie,е
+dia,U+2DF8,,combining cyrillic letter djerv,ђ
+dia,U+2DF9,,combining cyrillic letter monograph uk,ꙋ
+dia,U+2DFA,,combining cyrillic letter yat,ѣ
+dia,U+2DFB,,combining cyrillic letter yu,ю
+dia,U+2DFC,,combining cyrillic letter iotified a,ꙗ
+dia,U+2DFD,,combining cyrillic letter little yus,ѧ
+dia,U+2DFE,,combining cyrillic letter big yus,ѫ
+dia,U+2DFF,,combining cyrillic letter iotified big yus,ѭ
+dia,U+A675,,combining cyrillic letter i,и
+dia,U+A676,,combining cyrillic letter yi,ї
+dia,U+A677,,combining cyrillic letter u,у
+dia,U+A678,,combining cyrillic letter hard sign,ъ
+dia,U+A679,,combining cyrillic letter yeru,ы
+dia,U+A67A,,combining cyrillic letter soft sign,ь
+dia,U+A67B,,combining cyrillic letter omega,ѡ
 dia,U+A66F,,combining cyrillic vzmet,1
 dia,U+0487,,combining cyrillic pokrytie,2
 dia,U+0483,,combining cyrillic titlo,3
@@ -45,6 +45,8 @@ dia,ꙿ,,cyrillic payerok,5
 dia,U+0300,,combining grave accent,6
 dia,U+0486,,combining cyrillic psili pneumata,7
 dia,†,,dagger,8
+dia,U+030B,,combining double acute accent,9
+dia,U+030F,,combining double grave accent,0
 let,ꙋ,Ꙋ,monograph uk,
 let,ѡ,Ѡ,omega,
 let,ѹ,Ѹ,uk,
