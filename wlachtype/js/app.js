@@ -36,19 +36,26 @@
   };
   const isMark = c => /^\p{M}/u.test(c);
   function loadKeys(text) {
-    const rows = parseCSV(text), head = rows.shift().map(h => h.trim().toLowerCase());
-    const col = n => head.indexOf(n);
-    const R = col("row"), C = col("char"), U = col("capital"), N = col("name"), S = col("shortcut");
-    if (R < 0 || C < 0) throw new Error("keys.csv needs at least the columns row and char");
-    rows.forEach(r => {
+    const rows = parseCSV(text);
+    const KINDS = ["sup", "dia", "let"], ORDER = ["row", "char", "capital", "name", "shortcut"];
+    // header line: expected "row,char,capital,name,shortcut". If a name is missing or was
+    // overwritten (e.g. "dia" instead of "row"), fall back to that column's usual position.
+    const head = rows.shift().map(h => h.trim().toLowerCase());
+    const col = (n, i) => { const k = head.indexOf(n); return k >= 0 ? k : i; };
+    const [R, C, U, N, S] = ORDER.map((n, i) => col(n, i));
+    const problems = [];
+    rows.forEach((r, i) => {
       const kind = (r[R] || "").trim().toLowerCase(), c = toChar(r[C]);
       if (!c) return;
+      if (!KINDS.includes(kind)) { problems.push("line " + (i + 2) + ": row \"" + kind + "\" is not sup, dia or let"); return; }
       const name = N < 0 ? "" : (r[N] || "").trim(), sc = S < 0 ? "" : (r[S] || "").trim();
       const k = { c, name, comb: isMark(c) };
       if (kind === "sup") { if (sc) { k.alt = sc.toLowerCase(); ALT_SUP[k.alt] = k; } SUP.push(k); }
       else if (kind === "dia") { if (/^[0-9]$/.test(sc)) { k.digit = sc; DIGIT[sc] = k; } DIA.push(k); }
       else if (kind === "let") { k.hi = toChar(U < 0 ? "" : r[U]) || c; LET.push(k); }
     });
+    if (problems.length) console.warn("keys.csv: " + problems.join("; "));
+    return problems;
   }
 
   const $ = id => document.getElementById(id);
@@ -239,6 +246,7 @@
 
   function renderSize() {
     sizeIn.value = MAX_FS();
+    $("vsize").value = MAX_FS();
     sizeOut.textContent = userSize ? userSize + " px" : "Auto · " + AUTO_FS() + " px";
     $("size-auto").hidden = !userSize;
   }
@@ -248,6 +256,7 @@
     renderSize(); fit();
   }
   sizeIn.addEventListener("input", () => setSize(+sizeIn.value));
+  $("vsize").addEventListener("input", e => setSize(+e.target.value));
   $("size-down").addEventListener("click", () => setSize(MAX_FS() - 4));
   $("size-up").addEventListener("click", () => setSize(MAX_FS() + 4));
   $("size-auto").addEventListener("click", () => setSize(null));
@@ -269,7 +278,10 @@
 
   fetch(KEYS_URL, { cache: "no-cache" })
     .then(r => { if (!r.ok) throw new Error("HTTP " + r.status + " for " + KEYS_URL); return r.text(); })
-    .then(t => { loadKeys(t); buildDeck(); renderShift(); })
+    .then(t => {
+      const problems = loadKeys(t); buildDeck(); renderShift();
+      if (problems.length) statusEl.textContent = "keys.csv: skipped " + problems.length + " line(s), e.g. " + problems[0];
+    })
     .catch(err => {
       statusEl.textContent = location.protocol === "file:"
         ? "Keys could not be loaded: open this page through a web server (python3 -m http.server), not from disk."
