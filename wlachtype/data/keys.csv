@@ -45,8 +45,9 @@ dia,ꙿ,,cyrillic payerok,5
 dia,U+0300,,combining grave accent,6
 dia,U+0301,,combining acute accent,7
 dia,U+0486,,combining cyrillic psili pneumata,8
-dia,†,,dagger,9
-dia,U+030B,,combining double acute accent,0
+dia,U+0485,,combining cyrillic dasia pneumata,9
+dia,†,,dagger,0
+dia,U+030B,,combining double acute accent,
 dia,U+030F,,combining double grave accent,
 let,ꙋ,Ꙋ,monograph uk,
 let,ѡ,Ѡ,omega,
