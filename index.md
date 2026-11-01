@@ -10,7 +10,7 @@ I am a historical linguist interested in Slavic contact linguistics, how languag
 
 Core research areas include the internal and external history of Balkan Slavic (specifically in the realm of its morphology), Wallachian Chancellery Slavic, and digital methods in Philology. 
 
-Currently, I am a Predoctoral Researcher in Digital Humanities at the University of Vienna's [Department of Linguistics](https://ufind.univie.ac.at/de/person.html?id=1005821), working within the [Cluster of Excellence »EurAsian Transformations«](https://www.oeaw.ac.at/eurasian-transformations/people/affiliated-members/leonid-motz). This website is a space for some of my personal projects.
+Currently, I am a Predoctoral Researcher in Digital Humanities at the University of Vienna's [Department of Linguistics](https://ufind.univie.ac.at/de/person.html?id=1005821), working within the [Cluster of Excellence »EurAsian Transformations«](https://www.oeaw.ac.at/eurasian-transformations/people/affiliate-members/leonid-motz). This website is a space for some of my personal projects.
 
 ## Projects
 
