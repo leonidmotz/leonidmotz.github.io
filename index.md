@@ -8,7 +8,7 @@ picture: /pictures/leonid-picture.jpeg
 
 I am a historical linguist interested in Slavic contact linguistics, how languages change, and why, when and to what extent people start writing down the varieties they speak (do they ever, really?). 
 
-Core research foci include the internal and external history of Balkan Slavic (specifically in the realm of its morphology), Wallachian Chancellery Slavic, and digital methods in Philology. 
+Core research areas include the internal and external history of Balkan Slavic (specifically in the realm of its morphology), Wallachian Chancellery Slavic, and digital methods in Philology. 
 
 Currently, I am a Predoctoral Researcher in Digital Humanities at the University of Vienna's [Department of Linguistics](https://ufind.univie.ac.at/de/person.html?id=1005821), working within the [Cluster of Excellence »EurAsian Transformations«](https://www.oeaw.ac.at/eurasian-transformations/people/affiliated-members/leonid-motz). This website is a space for some of my personal projects.
 
@@ -23,7 +23,7 @@ Currently, I am a Predoctoral Researcher in Digital Humanities at the University
 - [Case Analogy in Codex Suprasliensis](https://phaidra.univie.ac.at/detail/o:2343117): TOROT/PROIEL data augmented by a layer of historical nominal morphology (stem class, analogy status), permitting the description and analysis of the transformation of the inflectional system. Part of my MA thesis.
 
 ## Teaching
-- Tutorial: “Introduction to Slavic Studies“ (“Grundlagen der Slawistik”, lecture taught by Dr. Tyran, then Dr. Petrov), 2023W-2062S, Department of Slavic Studies, University of Vienna. 
+- Tutorial: “Introduction to Slavic Studies“ (“Grundlagen der Slawistik”, lecture taught by Dr. Tyran, then Dr. Petrov), 2023W-2026S, Department of Slavic Studies, University of Vienna. 
 
 ## Publications and Activities
 
