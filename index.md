@@ -22,6 +22,9 @@ Currently, I am a Predoctoral Researcher in Digital Humanities at the University
 ### Datasets and Corpora
 - [Case Analogy in Codex Suprasliensis](https://phaidra.univie.ac.at/detail/o:2343117): TOROT/PROIEL data augmented by a layer of historical nominal morphology (stem class, analogy status), permitting the description and analysis of the transformation of the inflectional system. Part of my MA thesis.
 
+### Fun and Games
+- [FamilyMapper](https://leonidmotz.eu/familymapper): A quiz game for the world's primary language families with language areas taken from Glottography. 
+
 ## Teaching
 - Tutorial: “Introduction to Slavic Studies“ (“Grundlagen der Slawistik”, lecture taught by Dr. Tyran, then Dr. Petrov), 2023W-2026S, Department of Slavic Studies, University of Vienna. 
 
